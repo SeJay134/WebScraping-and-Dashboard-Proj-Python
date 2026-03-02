@@ -131,3 +131,24 @@ fig_top_players = px.bar(
 )
 
 st.plotly_chart(fig_top_players, use_container_width=True)
+
+# Plot 3 Top N Players (dinamic)
+st.subheader("Top N Players")
+
+top_n = st.slider("Select Top N Players", 5, 20, 10)
+
+top_n_players = (
+    db_copy.groupby("name", as_index=False)["value"]
+    .sum()
+    .sort_values("value", ascending=False)
+    .head(top_n)
+)
+
+fig_top_n = px.bar(
+    top_n_players,
+    x="name",
+    y="value",
+    title=f"Top {top_n} Players (All Time)"
+)
+
+st.plotly_chart(fig_top_n, use_container_width=True)
