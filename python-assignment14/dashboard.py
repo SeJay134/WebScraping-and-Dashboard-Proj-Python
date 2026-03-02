@@ -4,6 +4,13 @@ import streamlit as st
 import plotly.express as px
 import sqlite3
 import pandas as pd
+import os
+import shutil
+
+tmp_db_path = "/tmp/mlb_history.db"
+
+if os.path.exists("db/mlb_history.db"):
+    shutil.copy("db/mlb_history.db", tmp_db_path)
 
 # Setup
 st.set_page_config(
