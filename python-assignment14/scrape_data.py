@@ -86,25 +86,25 @@ df_years_national_league = pd.DataFrame({
     })
 counter_columns(df_years_national_league, 'df_years_national_league')
 
-# add info about each year | American League Player Review
-name_header = driver.find_element(By.XPATH, '//div[@class="ba-table"]//h2[contains(text(), "American League")]')
+# add info about each year | American League Player Review ------------------delete
+# name_header = driver.find_element(By.XPATH, '//div[@class="ba-table"]//h2[contains(text(), "American League")]') ------------------delete
 
-name_al_player_reviw = []
-statistic = []
-names = []
-teams = []
-value = []
+# name_al_player_reviw = [] ------------------delete
+# statistic = [] ------------------delete
+# names = [] ------------------delete
+# teams = [] ------------------delete
+# value = [] ------------------delete
 
 #driver.get(links_american_league[0]) ------------------------------------ delete
 wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
 
-h2 = driver.find_element(By.CSS_SELECTOR, "td h2")
+# h2 = driver.find_element(By.CSS_SELECTOR, "td h2") ------------------delete
 
-text = h2.text
-year = re.search(r"\d{4}", text).group()
+# text = h2.text ------------------delete
+# year = re.search(r"\d{4}", text).group() ------------------delete
 
-data_statistic = driver.find_element(By.CLASS_NAME, 'datacolBlue')
-print(data_statistic.text) # Base on Balls
+# data_statistic = driver.find_element(By.CLASS_NAME, 'datacolBlue') ------------------delete
+# print(data_statistic.text) # Base on Balls ------------------delete
 
 main_table = []
 
@@ -139,7 +139,7 @@ for link in links_american_league:
             else:
                 name_of_league = None
 
-            # name_of_review
+            # name_of_review | future
             if 'Player Review' in text_of_h2:
                 name_of_review = 'Player Review'
             elif 'Pitcher Review' in text_of_h2:
@@ -216,6 +216,7 @@ print(df_main_table["name_of_league"].unique())
 driver.quit()
 
 # recording
-df_years_american_league.to_csv("db\\df_years_american_league.csv", index=False)
-df_years_national_league.to_csv("db\\df_years_national_league.csv", index=False)
-df_main_table.to_csv("db\\df_main_data_american_league.csv", index=False)
+os.makedirs("db", exist_ok=True)
+df_years_american_league.to_csv("db/df_years_american_league.csv", index=False)
+df_years_national_league.to_csv("db/df_years_national_league.csv", index=False)
+df_main_table.to_csv("db/df_main_data_american_league.csv", index=False)
