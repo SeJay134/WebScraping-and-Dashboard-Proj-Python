@@ -34,10 +34,6 @@ df_main_data_american_league = checker_read_csv('db/df_main_data_american_league
 if df_main_data_american_league is None:
     exit()
 
-# df_years_all = pd.concat(
-#     [df_years_american_league, df_years_national_league],
-#     ignore_index=True
-# )
 df_years_american_league.columns = df_years_american_league.columns.str.strip()
 df_years_national_league.columns = df_years_national_league.columns.str.strip()
 
@@ -65,7 +61,6 @@ df_main_data_american_league_copy["year"] = pd.to_numeric(df_main_data_american_
 df_years_all_copy['year'] = pd.to_numeric(df_years_all_copy['year'], errors="coerce")
 
 
-#df_main_data_american_league_copy = df_main_data_american_league_copy.dropna()
 before_rows = len(df_main_data_american_league_copy)
 df_main_data_american_league_copy = df_main_data_american_league_copy.dropna(subset=['year', 'value'])
 after_rows = len(df_main_data_american_league_copy)
@@ -85,22 +80,6 @@ with sqlite3.connect('db/mlb_history.db') as conn:
 
     cursor.execute("DROP TABLE IF EXISTS main_data_american_league")
     cursor.execute("DROP TABLE IF EXISTS years")
-    #cursor.execute("DROP TABLE IF EXISTS years_american_league")
-    #cursor.execute("DROP TABLE IF EXISTS years_national_league")
-
-    # cursor.execute("""
-    # CREATE TABLE IF NOT EXISTS years_american_league(
-    #     year INTEGER PRIMARY KEY,
-    #     league TEXT
-    # );
-    # """)
-
-    # cursor.execute("""
-    # CREATE TABLE IF NOT EXISTS years_national_league(
-    #     year INTEGER PRIMARY KEY,
-    #     league TEXT
-    # );
-    # """)
 
     cursor.execute("""
     CREATE TABLE IF NOT EXISTS years(
