@@ -1,0 +1,2521 @@
+year,name_of_league,name_of_review,statistic,name,team,value
+1901,American League,Player Review,Base on Balls,Dummy Hoy,Chicago,86
+1901,American League,Player Review,Batting Average,Nap Lajoie,Philadelphia,.426
+1901,American League,Player Review,Doubles,Nap Lajoie,Philadelphia,48
+1901,American League,Player Review,Hits,Nap Lajoie,Philadelphia,232
+1901,American League,Player Review,Home Runs,Nap Lajoie,Philadelphia,14
+1901,American League,Player Review,On Base Percentage,Nap Lajoie,Philadelphia,.463
+1901,American League,Player Review,RBI,Nap Lajoie,Philadelphia,125
+1901,American League,Player Review,Runs,Nap Lajoie,Philadelphia,145
+1901,American League,Player Review,Slugging Average,Nap Lajoie,Philadelphia,.643
+1901,American League,Player Review,Stolen Bases,Frank Isbell,Chicago,52
+1901,American League,Player Review,Total Bases,Nap Lajoie,Philadelphia,350
+1901,American League,Player Review,Triples,Bill Keister,Baltimore,21
+1901,American League,Pitcher Review,Complete Games,Joe McGinnity,Baltimore,39
+1901,American League,Pitcher Review,ERA,Cy Young,Boston,1.62
+1901,American League,Pitcher Review,Games,Joe McGinnity,Baltimore,48
+1901,American League,Pitcher Review,Saves,Bill Hoffer,Cleveland,3
+1901,American League,Pitcher Review,Shutouts,Clark Griffith,Chicago,5
+1901,American League,Pitcher Review,Strikeouts,Cy Young,Boston,158
+1901,American League,Pitcher Review,Winning Percentage,Clark Griffith,Chicago,.774
+1901,American League,Pitcher Review,Wins,Cy Young,Boston,33
+1902,American League,Player Review,Base on Balls,Topsy Hartsel,Philadelphia,87
+1902,American League,Player Review,Batting Average,Ed Delahanty,Washington,.376
+1902,American League,Player Review,Doubles,Harry Davis,Philadelphia,43
+1902,American League,Player Review,Hits,Charlie Hickman,Boston,193
+1902,American League,Player Review,Home Runs,Socks Seybold,Philadelphia,16
+1902,American League,Player Review,On Base Percentage,Ed Delahanty,Washington,.453
+1902,American League,Player Review,RBI,Buck Freeman,Boston,121
+1902,American League,Player Review,Runs,Dave Fultz,Philadelphia,109
+1902,American League,Player Review,Slugging Average,Ed Delahanty,Washington,.590
+1902,American League,Player Review,Stolen Bases,Topsy Hartsel,Philadelphia,47
+1902,American League,Player Review,Total Bases,Charlie Hickman,Boston,288
+1902,American League,Player Review,Triples,Jimmy Williams,Baltimore,21
+1902,American League,Pitcher Review,Complete Games,Cy Young,Boston,41
+1902,American League,Pitcher Review,ERA,Ed Siever,Detroit,1.91
+1902,American League,Pitcher Review,Games,Cy Young,Boston,45
+1902,American League,Pitcher Review,Saves,Jack Powell,St. Louis,2
+1902,American League,Pitcher Review,Shutouts,Addie Joss,Cleveland,5
+1902,American League,Pitcher Review,Strikeouts,Rube Waddell,Philadelphia,210
+1902,American League,Pitcher Review,Winning Percentage,Bill Bernhard,Philadelphia,.783
+1902,American League,Pitcher Review,Wins,Cy Young,Boston,32
+1903,American League,Player Review,Base on Balls,Jimmy Barrett,Detroit,74
+1903,American League,Player Review,Batting Average,Nap Lajoie,Cleveland,.344
+1903,American League,Player Review,Doubles,Socks Seybold,Philadelphia,45
+1903,American League,Player Review,Hits,Patsy Dougherty,Boston,195
+1903,American League,Player Review,Home Runs,Buck Freeman,Boston,13
+1903,American League,Player Review,On Base Percentage,Jimmy Barrett,Detroit,.407
+1903,American League,Player Review,RBI,Buck Freeman,Boston,104
+1903,American League,Player Review,Runs,Patsy Dougherty,Boston,107
+1903,American League,Player Review,Slugging Average,Nap Lajoie,Cleveland,.518
+1903,American League,Player Review,Stolen Bases,Harry Bay,Cleveland,45
+1903,American League,Player Review,Total Bases,Buck Freeman,Boston,281
+1903,American League,Player Review,Triples,Sam Crawford,Detroit,25
+1903,American League,Pitcher Review,Complete Games,Bill Donovan,Detroit,34
+1903,American League,Pitcher Review,ERA,Earl Moore,Cleveland,1.74
+1903,American League,Pitcher Review,Games,Eddie Plank,Philadelphia,43
+1903,American League,Pitcher Review,Saves,Bill Dinneen,Boston,2
+1903,American League,Pitcher Review,Shutouts,Cy Young,Boston,7
+1903,American League,Pitcher Review,Strikeouts,Rube Waddell,Philadelphia,302
+1903,American League,Pitcher Review,Winning Percentage,Cy Young,Boston,.757
+1903,American League,Pitcher Review,Wins,Cy Young,Boston,28
+1904,American League,Player Review,Base on Balls,Jimmy Barrett,Detroit,79
+1904,American League,Player Review,Batting Average,Nap Lajoie,Cleveland,.376
+1904,American League,Player Review,Doubles,Nap Lajoie,Cleveland,49
+1904,American League,Player Review,Hits,Nap Lajoie,Cleveland,211
+1904,American League,Player Review,Home Runs,Harry Davis,Philadelphia,10
+1904,American League,Player Review,On Base Percentage,Nap Lajoie,Cleveland,.413
+1904,American League,Player Review,RBI,Nap Lajoie,Cleveland,102
+1904,American League,Player Review,Runs,Patsy Dougherty,Boston,113
+1904,American League,Player Review,Slugging Average,Nap Lajoie,Cleveland,.552
+1904,American League,Player Review,Stolen Bases,Harry Bay,Cleveland,38
+1904,American League,Player Review,Total Bases,Nap Lajoie,Cleveland,305
+1904,American League,Player Review,Triples,Joe Cassidy,Washington,19
+1904,American League,Pitcher Review,Complete Games,Jack Chesbro,New York,48
+1904,American League,Pitcher Review,ERA,Addie Joss,Cleveland,1.59
+1904,American League,Pitcher Review,Games,Jack Chesbro,New York,55
+1904,American League,Pitcher Review,Saves,Case Patten,Washington,3
+1904,American League,Pitcher Review,Shutouts,Cy Young,Boston,10
+1904,American League,Pitcher Review,Strikeouts,Rube Waddell,Philadelphia,349
+1904,American League,Pitcher Review,Winning Percentage,Jack Chesbro,New York,.774
+1904,American League,Pitcher Review,Wins,Jack Chesbro,New York,41
+1905,American League,Player Review,Base on Balls,Topsy Hartsel,Philadelphia,121
+1905,American League,Player Review,Batting Average,Elmer Flick,Cleveland,.308
+1905,American League,Player Review,Doubles,Harry Davis,Philadelphia,47
+1905,American League,Player Review,Hits,George Stone,St. Louis,187
+1905,American League,Player Review,Home Runs,Harry Davis,Philadelphia,8
+1905,American League,Player Review,On Base Percentage,Topsy Hartsel,Philadelphia,.409
+1905,American League,Player Review,RBI,Harry Davis,Philadelphia,83
+1905,American League,Player Review,Runs,Harry Davis,Philadelphia,93
+1905,American League,Player Review,Slugging Average,Elmer Flick,Cleveland,.462
+1905,American League,Player Review,Stolen Bases,Danny Hoffman,Philadelphia,46
+1905,American League,Player Review,Total Bases,George Stone,St. Louis,259
+1905,American League,Player Review,Triples,Elmer Flick,Cleveland,18
+1905,American League,Pitcher Review,Complete Games,Harry Howell,St. Louis,35
+1905,American League,Pitcher Review,ERA,Rube Waddell,Philadelphia,1.48
+1905,American League,Pitcher Review,Games,Rube Waddell,Philadelphia,46
+1905,American League,Pitcher Review,Saves,Jim Buchanan,St. Louis,2
+1905,American League,Pitcher Review,Shutouts,Ed Killian,Detroit,8
+1905,American League,Pitcher Review,Strikeouts,Rube Waddell,Philadelphia,287
+1905,American League,Pitcher Review,Winning Percentage,Rube Waddell,Philadelphia,.730
+1905,American League,Pitcher Review,Wins,Rube Waddell,Philadelphia,27
+1906,American League,Player Review,Base on Balls,Topsy Hartsel,Philadelphia,88
+1906,American League,Player Review,Batting Average,George Stone,St. Louis,.358
+1906,American League,Player Review,Doubles,Nap Lajoie,Cleveland,48
+1906,American League,Player Review,Hits,Nap Lajoie,Cleveland,214
+1906,American League,Player Review,Home Runs,Harry Davis,Philadelphia,12
+1906,American League,Player Review,On Base Percentage,George Stone,St. Louis,.417
+1906,American League,Player Review,RBI,Harry Davis,Philadelphia,96
+1906,American League,Player Review,Runs,Elmer Flick,Cleveland,98
+1906,American League,Player Review,Slugging Average,George Stone,St. Louis,.501
+1906,American League,Player Review,Stolen Bases,John Anderson,Washington,39
+1906,American League,Player Review,Total Bases,George Stone,St. Louis,291
+1906,American League,Player Review,Triples,Elmer Flick,Cleveland,22
+1906,American League,Pitcher Review,Complete Games,Al Orth,New York,36
+1906,American League,Pitcher Review,ERA,Doc White,Chicago,1.52
+1906,American League,Pitcher Review,Games,Jack Chesbro,New York,49
+1906,American League,Pitcher Review,Saves,Chief Bender,Philadelphia,3
+1906,American League,Pitcher Review,Shutouts,Ed Walsh,Chicago,10
+1906,American League,Pitcher Review,Strikeouts,Rube Waddell,Philadelphia,196
+1906,American League,Pitcher Review,Winning Percentage,Eddie Plank,Philadelphia,.760
+1906,American League,Pitcher Review,Wins,Al Orth,New York,27
+1907,American League,Player Review,Base on Balls,Topsy Hartsel,Philadelphia,106
+1907,American League,Player Review,Batting Average,Ty Cobb,Detroit,.350
+1907,American League,Player Review,Doubles,Harry Davis,Philadelphia,35
+1907,American League,Player Review,Hits,Ty Cobb,Detroit,212
+1907,American League,Player Review,Home Runs,Harry Davis,Philadelphia,8
+1907,American League,Player Review,On Base Percentage,Topsy Hartsel,Philadelphia,.405
+1907,American League,Player Review,RBI,Ty Cobb,Detroit,119
+1907,American League,Player Review,Runs,Sam Crawford,Detroit,102
+1907,American League,Player Review,Slugging Average,Ty Cobb,Detroit,.468
+1907,American League,Player Review,Stolen Bases,Ty Cobb,Detroit,49
+1907,American League,Player Review,Total Bases,Ty Cobb,Detroit,283
+1907,American League,Player Review,Triples,Elmer Flick,Cleveland,18
+1907,American League,Pitcher Review,Complete Games,Ed Walsh,Chicago,37
+1907,American League,Pitcher Review,ERA,Ed Walsh,Chicago,1.60
+1907,American League,Pitcher Review,Games,Ed Walsh,Chicago,56
+1907,American League,Pitcher Review,Saves,Bill Dinneen,Philadelphia,4
+1907,American League,Pitcher Review,Shutouts,Eddie Plank,Philadelphia,8
+1907,American League,Pitcher Review,Strikeouts,Rube Waddell,Philadelphia,232
+1907,American League,Pitcher Review,Winning Percentage,Bill Donovan,Detroit,.862
+1907,American League,Pitcher Review,Wins,Addie Joss,Cleveland,27
+1908,American League,Player Review,Base on Balls,Topsy Hartsel,Philadelphia,93
+1908,American League,Player Review,Batting Average,Ty Cobb,Detroit,.324
+1908,American League,Player Review,Doubles,Ty Cobb,Detroit,36
+1908,American League,Player Review,Hits,Ty Cobb,Detroit,188
+1908,American League,Player Review,Home Runs,Sam Crawford,Detroit,7
+1908,American League,Player Review,On Base Percentage,Doc Gessler,Boston,.394
+1908,American League,Player Review,RBI,Ty Cobb,Detroit,108
+1908,American League,Player Review,Runs,Matty McIntyre,Detroit,105
+1908,American League,Player Review,Slugging Average,Ty Cobb,Detroit,.476
+1908,American League,Player Review,Stolen Bases,Patsy Dougherty,Chicago,47
+1908,American League,Player Review,Total Bases,Ty Cobb,Detroit,276
+1908,American League,Player Review,Triples,Ty Cobb,Detroit,20
+1908,American League,Pitcher Review,Complete Games,Ed Walsh,Chicago,42
+1908,American League,Pitcher Review,ERA,Addie Joss,Cleveland,1.16
+1908,American League,Pitcher Review,Games,Ed Walsh,Chicago,66
+1908,American League,Pitcher Review,Saves,Ed Walsh,Chicago,6
+1908,American League,Pitcher Review,Shutouts,Ed Walsh,Chicago,11
+1908,American League,Pitcher Review,Strikeouts,Ed Walsh,Chicago,269
+1908,American League,Pitcher Review,Winning Percentage,Ed Walsh,Chicago,.727
+1908,American League,Pitcher Review,Wins,Ed Walsh,Chicago,40
+1909,American League,Player Review,Base on Balls,Donie Bush,Detroit,88
+1909,American League,Player Review,Batting Average,Ty Cobb,Detroit,.377
+1909,American League,Player Review,Doubles,Sam Crawford,Detroit,35
+1909,American League,Player Review,Hits,Ty Cobb,Detroit,216
+1909,American League,Player Review,Home Runs,Ty Cobb,Detroit,9
+1909,American League,Player Review,On Base Percentage,Ty Cobb,Detroit,.431
+1909,American League,Player Review,RBI,Ty Cobb,Detroit,107
+1909,American League,Player Review,Runs,Ty Cobb,Detroit,116
+1909,American League,Player Review,Slugging Average,Ty Cobb,Detroit,.517
+1909,American League,Player Review,Stolen Bases,Ty Cobb,Detroit,76
+1909,American League,Player Review,Total Bases,Ty Cobb,Detroit,296
+1909,American League,Player Review,Triples,Frank Baker,Philadelphia,19
+1909,American League,Pitcher Review,Complete Games,Frank Smith,Chicago,37
+1909,American League,Pitcher Review,ERA,Harry Krause,Philadelphia,1.39
+1909,American League,Pitcher Review,Games,Frank Smith,Chicago,51
+1909,American League,Pitcher Review,Saves,Frank Arellanes,Boston,8
+1909,American League,Pitcher Review,Shutouts,Ed Walsh,Chicago,8
+1909,American League,Pitcher Review,Strikeouts,Frank Smith,Chicago,177
+1909,American League,Pitcher Review,Winning Percentage,George Mullin,Detroit,.784
+1909,American League,Pitcher Review,Wins,George Mullin,Detroit,29
+1910,American League,Player Review,Base on Balls,Donie Bush,Detroit,78
+1910,American League,Player Review,Batting Average *,Nap Lajoie,Detroit,.384
+1910,American League,Player Review,Doubles,Nap Lajoie,Cleveland,51
+1910,American League,Player Review,Hits,Nap Lajoie,Cleveland,227
+1910,American League,Player Review,Home Runs,Jake Stahl,Boston,10
+1910,American League,Player Review,On Base Percentage,Ty Cobb,Detroit,.455
+1910,American League,Player Review,RBI,Sam Crawford,Detroit,120
+1910,American League,Player Review,Runs,Ty Cobb,Detroit,106
+1910,American League,Player Review,Slugging Average,Ty Cobb,Detroit,.549
+1910,American League,Player Review,Stolen Bases,Eddie Collins,Philadelphia,81
+1910,American League,Player Review,Total Bases,Nap Lajoie,Cleveland,304
+1910,American League,Player Review,Triples,Sam Crawford,Detroit,19
+1910,American League,Pitcher Review,Complete Games,Walter Johnson,Washington,38
+1910,American League,Pitcher Review,ERA,Ed Walsh,Chicago,1.27
+1910,American League,Pitcher Review,Games,Ed Walsh,Chicago,45
+1910,American League,Pitcher Review,Saves,Ed Walsh,Chicago,5
+1910,American League,Pitcher Review,Shutouts,Jack Coombs,Philadelphia,13
+1910,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,313
+1910,American League,Pitcher Review,Winning Percentage,Chief Bender,Philadelphia,.821
+1910,American League,Pitcher Review,Wins,Jack Coombs,Philadelphia,31
+1911,American League,Player Review,Base on Balls,Donie Bush,Detroit,98
+1911,American League,Player Review,Batting Average,Ty Cobb,Detroit,.419
+1911,American League,Player Review,Doubles,Ty Cobb,Detroit,47
+1911,American League,Player Review,Hits,Ty Cobb,Detroit,248
+1911,American League,Player Review,Home Runs,Frank Baker,Philadelphia,11
+1911,American League,Player Review,On Base Percentage,Joe Jackson,Cleveland,.468
+1911,American League,Player Review,RBI,Ty Cobb,Detroit,127
+1911,American League,Player Review,Runs,Ty Cobb,Detroit,147
+1911,American League,Player Review,Slugging Average,Ty Cobb,Detroit,.620
+1911,American League,Player Review,Stolen Bases,Ty Cobb,Detroit,83
+1911,American League,Player Review,Total Bases,Ty Cobb,Detroit,367
+1911,American League,Player Review,Triples,Ty Cobb,Detroit,24
+1911,American League,Pitcher Review,Complete Games,Walter Johnson,Washington,36
+1911,American League,Pitcher Review,ERA,Vean Gregg,Cleveland,1.80
+1911,American League,Pitcher Review,Games,Ed Walsh,Chicago,56
+1911,American League,Pitcher Review,Saves,Charley Hall,Boston,4
+1911,American League,Pitcher Review,Shutouts,Eddie Plank,Philadelphia,6
+1911,American League,Pitcher Review,Strikeouts,Ed Walsh,Chicago,255
+1911,American League,Pitcher Review,Winning Percentage,Chief Bender,Philadelphia,.773
+1911,American League,Pitcher Review,Wins,Jack Coombs,Philadelphia,28
+1912,American League,Player Review,Base on Balls,Donie Bush,Detroit,117
+1912,American League,Player Review,Batting Average,Ty Cobb,Detroit,.409
+1912,American League,Player Review,Doubles,Tris Speaker,Boston,53
+1912,American League,Player Review,Hits,Ty Cobb,Detroit,226
+1912,American League,Player Review,Home Runs,Frank Baker,Philadelphia,10
+1912,American League,Player Review,On Base Percentage,Tris Speaker,Boston,.464
+1912,American League,Player Review,RBI,Frank Baker,Philadelphia,130
+1912,American League,Player Review,Runs,Eddie Collins,Philadelphia,137
+1912,American League,Player Review,Slugging Average,Ty Cobb,Detroit,.584
+1912,American League,Player Review,Stolen Bases,Clyde Milan,Washington,88
+1912,American League,Player Review,Total Bases,Joe Jackson,Cleveland,331
+1912,American League,Player Review,Triples,Joe Jackson,Cleveland,26
+1912,American League,Pitcher Review,Complete Games,Smoky Joe Wood,Boston,35
+1912,American League,Pitcher Review,ERA,Walter Johnson,Washington,1.39
+1912,American League,Pitcher Review,Games,Ed Walsh,Chicago,62
+1912,American League,Pitcher Review,Saves,Ed Walsh,Chicago,10
+1912,American League,Pitcher Review,Shutouts,Smoky Joe Wood,Boston,10
+1912,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,303
+1912,American League,Pitcher Review,Winning Percentage,Smoky Joe Wood,Boston,.872
+1912,American League,Pitcher Review,Wins,Smoky Joe Wood,Boston,34
+1913,American League,Player Review,Base on Balls,Burt Shotton,St. Louis,99
+1913,American League,Player Review,Batting Average,Ty Cobb,Detroit,.389
+1913,American League,Player Review,Doubles,Joe Jackson,Cleveland,39
+1913,American League,Player Review,Hits,Joe Jackson,Cleveland,197
+1913,American League,Player Review,Home Runs,Frank Baker,Philadelphia,12
+1913,American League,Player Review,On Base Percentage,Ty Cobb,Detroit,.466
+1913,American League,Player Review,RBI,Frank Baker,Philadelphia,117
+1913,American League,Player Review,Runs,Eddie Collins,Philadelphia,125
+1913,American League,Player Review,Slugging Average,Joe Jackson,Cleveland,.551
+1913,American League,Player Review,Stolen Bases,Clyde Milan,Washington,75
+1913,American League,Player Review,Total Bases,Sam Crawford,Detroit,298
+1913,American League,Player Review,Triples,Sam Crawford,Detroit,23
+1913,American League,Pitcher Review,Complete Games,Walter Johnson,Washington,29
+1913,American League,Pitcher Review,ERA,Walter Johnson,Washington,1.14
+1913,American League,Pitcher Review,Games,Reb Russell,Chicago,52
+1913,American League,Pitcher Review,Saves,Chief Bender,Philadelphia,13
+1913,American League,Pitcher Review,Shutouts,Walter Johnson,Washington,11
+1913,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,243
+1913,American League,Pitcher Review,Winning Percentage,Walter Johnson,Washington,.837
+1913,American League,Pitcher Review,Wins,Walter Johnson,Washington,36
+1914,American League,Player Review,Base on Balls,Donie Bush,Detroit,112
+1914,American League,Player Review,Batting Average,Ty Cobb *,Detroit,.368
+1914,American League,Player Review,Doubles,Tris Speaker,Boston,46
+1914,American League,Player Review,Hits,Tris Speaker,Boston,193
+1914,American League,Player Review,Home Runs,Frank Baker,Philadelphia,9
+1914,American League,Player Review,On Base Percentage,Eddie Collins,Philadelphia,.452
+1914,American League,Player Review,RBI,Sam Crawford,Detroit,104
+1914,American League,Player Review,Runs,Eddie Collins,Philadelphia,122
+1914,American League,Player Review,Slugging Average,Tris Speaker,Boston,.503
+1914,American League,Player Review,Stolen Bases,Fritz Maisel,New York,74
+1914,American League,Player Review,Total Bases,Tris Speaker,Boston,287
+1914,American League,Player Review,Triples,Sam Crawford,Detroit,26
+1914,American League,Pitcher Review,Complete Games,Walter Johnson,Washington,33
+1914,American League,Pitcher Review,ERA,Dutch Leonard,Boston,0.96
+1914,American League,Pitcher Review,Games,Walter Johnson,Washington,51
+1914,American League,Pitcher Review,Saves,Jack Bentley,Washington,4
+1914,American League,Pitcher Review,Shutouts,Walter Johnson,Washington,9
+1914,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,225
+1914,American League,Pitcher Review,Winning Percentage,Chief Bender,Philadelphia,.850
+1914,American League,Pitcher Review,Wins,Walter Johnson,Washington,28
+1915,American League,Player Review,Base on Balls,Eddie Collins,Chicago,119
+1915,American League,Player Review,Batting Average,Ty Cobb,Detroit,.369
+1915,American League,Player Review,Doubles,Bobby Veach,Detroit,40
+1915,American League,Player Review,Hits,Ty Cobb,Detroit,208
+1915,American League,Player Review,Home Runs,Braggo Roth,Chicago,7
+1915,American League,Player Review,On Base Percentage,Ty Cobb,Detroit,.486
+1915,American League,Player Review,RBI,Sam Crawford,Detroit,112
+1915,American League,Player Review,Runs,Ty Cobb,Detroit,144
+1915,American League,Player Review,Slugging Average,Jack Fournier,Chicago,.491
+1915,American League,Player Review,Stolen Bases,Ty Cobb,Detroit,96
+1915,American League,Player Review,Total Bases,Ty Cobb,Detroit,274
+1915,American League,Player Review,Triples,Sam Crawford,Detroit,19
+1915,American League,Pitcher Review,Complete Games,Walter Johnson,Washington,35
+1915,American League,Pitcher Review,ERA,Smoky Joe Wood,Boston,1.49
+1915,American League,Pitcher Review,Games,Harry Coveleski,Detroit,50
+1915,American League,Pitcher Review,Saves,Carl Mays,Boston,7
+1915,American League,Pitcher Review,Shutouts,Walter Johnson,Washington,7
+1915,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,203
+1915,American League,Pitcher Review,Winning Percentage,Smoky Joe Wood,Boston,.750
+1915,American League,Pitcher Review,Wins,Walter Johnson,Washington,27
+1916,American League,Player Review,Base on Balls,Burt Shotton,St. Louis,110
+1916,American League,Player Review,Batting Average,Tris Speaker,Cleveland,.386
+1916,American League,Player Review,Doubles,Jack Graney,Cleveland,41
+1916,American League,Player Review,Hits,Tris Speaker,Cleveland,211
+1916,American League,Player Review,Home Runs,Wally Pipp,New York,12
+1916,American League,Player Review,On Base Percentage,Tris Speaker,Cleveland,.470
+1916,American League,Player Review,RBI,Del Pratt,St. Louis,103
+1916,American League,Player Review,Runs,Ty Cobb,Detroit,113
+1916,American League,Player Review,Slugging Average,Tris Speaker,Cleveland,.502
+1916,American League,Player Review,Stolen Bases,Ty Cobb,Detroit,68
+1916,American League,Player Review,Total Bases,Joe Jackson,Chicago,293
+1916,American League,Player Review,Triples,Joe Jackson,Chicago,21
+1916,American League,Pitcher Review,Complete Games,Walter Johnson,Washington,36
+1916,American League,Pitcher Review,ERA,Babe Ruth,Boston,1.75
+1916,American League,Pitcher Review,Games,Dave Davenport,St. Louis,59
+1916,American League,Pitcher Review,Saves,Bob Shawkey,New York,8
+1916,American League,Pitcher Review,Shutouts,Babe Ruth,Boston,9
+1916,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,228
+1916,American League,Pitcher Review,Winning Percentage,Nick Cullop,New York,.684
+1916,American League,Pitcher Review,Wins,Walter Johnson,Washington,25
+1917,American League,Player Review,Base on Balls,Jack Graney,Cleveland,94
+1917,American League,Player Review,Batting Average,Ty Cobb,Detroit,.383
+1917,American League,Player Review,Doubles,Ty Cobb,Detroit,44
+1917,American League,Player Review,Hits,Ty Cobb,Detroit,225
+1917,American League,Player Review,Home Runs,Wally Pipp,New York,9
+1917,American League,Player Review,On Base Percentage,Ty Cobb,Detroit,.444
+1917,American League,Player Review,RBI,Bobby Veach,Detroit,103
+1917,American League,Player Review,Runs,Donie Bush,Detroit,112
+1917,American League,Player Review,Slugging Average,Ty Cobb,Detroit,.570
+1917,American League,Player Review,Stolen Bases,Ty Cobb,Detroit,55
+1917,American League,Player Review,Total Bases,Ty Cobb,Detroit,335
+1917,American League,Player Review,Triples,Ty Cobb,Detroit,24
+1917,American League,Pitcher Review,Complete Games,Babe Ruth,Boston,35
+1917,American League,Pitcher Review,ERA,Eddie Cicotte,Chicago,1.53
+1917,American League,Pitcher Review,Games,Dave Danforth,Chicago,50
+1917,American League,Pitcher Review,Saves,Dave Danforth,Chicago,9
+1917,American League,Pitcher Review,Shutouts,Stan Coveleski,Cleveland,9
+1917,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,188
+1917,American League,Pitcher Review,Winning Percentage,Ed Klepfer,Cleveland,.778
+1917,American League,Pitcher Review,Wins,Eddie Cicotte,Chicago,28
+1918,American League,Player Review,Base on Balls,Ray Chapman,Cleveland,84
+1918,American League,Player Review,Batting Average,Ty Cobb,Detroit,.382
+1918,American League,Player Review,Doubles,Tris Speaker,Cleveland,33
+1918,American League,Player Review,Hits,George Burns,Philadelphia,178
+1918,American League,Player Review,Home Runs,Babe Ruth,Boston,11
+1918,American League,Player Review,On Base Percentage,Ty Cobb,Detroit,.440
+1918,American League,Player Review,RBI,Bobby Veach,Detroit,78
+1918,American League,Player Review,Runs,Ray Chapman,Cleveland,84
+1918,American League,Player Review,Slugging Average,Babe Ruth,Boston,.555
+1918,American League,Player Review,Stolen Bases,George Sisler,St. Louis,45
+1918,American League,Player Review,Total Bases,George Burns,Philadelphia,236
+1918,American League,Player Review,Triples,Ty Cobb,Detroit,14
+1918,American League,Pitcher Review,Complete Games,Carl Mays,Boston,30
+1918,American League,Pitcher Review,ERA,Walter Johnson,Washington,1.27
+1918,American League,Pitcher Review,Games,Jim Bagby,Cleveland,45
+1918,American League,Pitcher Review,Saves,George Mogridge,New York,7
+1918,American League,Pitcher Review,Shutouts,Walter Johnson,Washington,8
+1918,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,162
+1918,American League,Pitcher Review,Winning Percentage,Sam Jones,Boston,.762
+1918,American League,Pitcher Review,Wins,Walter Johnson,Washington,23
+1919,American League,Player Review,Base on Balls,Jack Graney,Cleveland,105
+1919,American League,Player Review,Batting Average,Ty Cobb,Detroit,.384
+1919,American League,Player Review,Doubles,Bobby Veach,Detroit,45
+1919,American League,Player Review,Hits,Ty Cobb,Detroit,191
+1919,American League,Player Review,Home Runs,Babe Ruth,Boston,29
+1919,American League,Player Review,On Base Percentage,Babe Ruth,Boston,.456
+1919,American League,Player Review,RBI,Babe Ruth,Boston,114
+1919,American League,Player Review,Runs,Babe Ruth,Boston,103
+1919,American League,Player Review,Slugging Average,Babe Ruth,Boston,.657
+1919,American League,Player Review,Stolen Bases,Eddie Collins,Chicago,33
+1919,American League,Player Review,Total Bases,Babe Ruth,Boston,284
+1919,American League,Player Review,Triples,Bobby Veach,Detroit,17
+1919,American League,Pitcher Review,Complete Games,Eddie Cicotte,Chicago,30
+1919,American League,Pitcher Review,ERA,Walter Johnson,Washington,1.49
+1919,American League,Pitcher Review,Games,Jim Shaw,Washington,45
+1919,American League,Pitcher Review,Saves,Allan Russell,New York,5
+1919,American League,Pitcher Review,Shutouts,Walter Johnson,Washington,7
+1919,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,147
+1919,American League,Pitcher Review,Winning Percentage,Eddie Cicotte,Chicago,.806
+1919,American League,Pitcher Review,Wins,Eddie Cicotte,Chicago,29
+1920,American League,Player Review,Base on Balls,Babe Ruth,New York,150
+1920,American League,Player Review,Batting Average,George Sisler,St. Louis,.407
+1920,American League,Player Review,Doubles,Tris Speaker,Cleveland,50
+1920,American League,Player Review,Hits,George Sisler,St. Louis,257
+1920,American League,Player Review,Home Runs,Babe Ruth,New York,54
+1920,American League,Player Review,On Base Percentage,Babe Ruth,New York,.532
+1920,American League,Player Review,RBI,Babe Ruth,New York,137
+1920,American League,Player Review,Runs,Babe Ruth,New York,158
+1920,American League,Player Review,Slugging Average,Babe Ruth,New York,.847
+1920,American League,Player Review,Stolen Bases,Sam Rice,Washington,63
+1920,American League,Player Review,Total Bases,George Sisler,St. Louis,399
+1920,American League,Player Review,Triples,Joe Jackson,Chicago,20
+1920,American League,Pitcher Review,Complete Games,Jim Bagby,Cleveland,30
+1920,American League,Pitcher Review,ERA,Bob Shawkey,New York,2.45
+1920,American League,Pitcher Review,Games,Jim Bagby,Cleveland,48
+1920,American League,Pitcher Review,Saves,Dickie Kerr,Chicago,5
+1920,American League,Pitcher Review,Shutouts,Carl Mays,New York,6
+1920,American League,Pitcher Review,Strikeouts,Stan Coveleski,Cleveland,133
+1920,American League,Pitcher Review,Winning Percentage,Jim Bagby,Cleveland,.721
+1920,American League,Pitcher Review,Wins,Jim Bagby,Cleveland,31
+1921,American League,Player Review,Base on Balls,Babe Ruth,New York,145
+1921,American League,Player Review,Batting Average,Harry Heilmann,Detroit,.394
+1921,American League,Player Review,Doubles,Tris Speaker,Cleveland,52
+1921,American League,Player Review,Hits,Harry Heilmann,Detroit,237
+1921,American League,Player Review,Home Runs,Babe Ruth,New York,59
+1921,American League,Player Review,On Base Percentage,Babe Ruth,New York,.512
+1921,American League,Player Review,RBI,Babe Ruth,New York,171
+1921,American League,Player Review,Runs,Babe Ruth,New York,177
+1921,American League,Player Review,Slugging Average,Babe Ruth,New York,.846
+1921,American League,Player Review,Stolen Bases,George Sisler,St. Louis,35
+1921,American League,Player Review,Total Bases,Babe Ruth,New York,457
+1921,American League,Player Review,Triples,Howie Shanks,Washington,18
+1921,American League,Pitcher Review,Complete Games,Red Faber,Chicago,32
+1921,American League,Pitcher Review,ERA,Red Faber,Chicago,2.48
+1921,American League,Pitcher Review,Games,Carl Mays,New York,49
+1921,American League,Pitcher Review,Saves,Carl Mays,New York,7
+1921,American League,Pitcher Review,Shutouts,Sam Jones,Boston,5
+1921,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,143
+1921,American League,Pitcher Review,Winning Percentage,Carl Mays,New York,.750
+1921,American League,Pitcher Review,Wins,Carl Mays,New York,27
+1922,American League,Player Review,Base on Balls,Whitey Witt,New York,89
+1922,American League,Player Review,Batting Average,George Sisler,St. Louis,.420
+1922,American League,Player Review,Doubles,Tris Speaker,Cleveland,48
+1922,American League,Player Review,Hits,George Sisler,St. Louis,246
+1922,American League,Player Review,Home Runs,Ken Williams,St. Louis,39
+1922,American League,Player Review,On Base Percentage,Tris Speaker,Cleveland,.474
+1922,American League,Player Review,RBI,Ken Williams,St. Louis,155
+1922,American League,Player Review,Runs,George Sisler,St. Louis,134
+1922,American League,Player Review,Slugging Average,Babe Ruth,New York,.672
+1922,American League,Player Review,Stolen Bases,George Sisler,St. Louis,51
+1922,American League,Player Review,Total Bases,Ken Williams,St. Louis,367
+1922,American League,Player Review,Triples,George Sisler,St. Louis,18
+1922,American League,Pitcher Review,Complete Games,Red Faber,Chicago,31
+1922,American League,Pitcher Review,ERA,Red Faber,Chicago,2.81
+1922,American League,Pitcher Review,Games,Eddie Rommel,Philadelphia,51
+1922,American League,Pitcher Review,Saves,Sam Jones,New York,8
+1922,American League,Pitcher Review,Shutouts,George Uhle,Cleveland,5
+1922,American League,Pitcher Review,Strikeouts,Urban Shocker,St. Louis,149
+1922,American League,Pitcher Review,Winning Percentage,Joe Bush,New York,.788
+1922,American League,Pitcher Review,Wins,Eddie Rommel,Philadelphia,27
+1923,American League,Player Review,Base on Balls,Babe Ruth,New York,170
+1923,American League,Player Review,Batting Average,Harry Heilmann,Detroit,.403
+1923,American League,Player Review,Doubles,Tris Speaker,Cleveland,59
+1923,American League,Player Review,Hits,Charlie Jamieson,Cleveland,222
+1923,American League,Player Review,Home Runs,Babe Ruth,New York,41
+1923,American League,Player Review,On Base Percentage,Babe Ruth,New York,.545
+1923,American League,Player Review,RBI,Babe Ruth,New York,131
+1923,American League,Player Review,Runs,Babe Ruth,New York,151
+1923,American League,Player Review,Slugging Average,Babe Ruth,New York,.764
+1923,American League,Player Review,Stolen Bases,Eddie Collins,Chicago,48
+1923,American League,Player Review,Total Bases,Babe Ruth,New York,399
+1923,American League,Player Review,Triples,Goose Goslin,Washington,18
+1923,American League,Pitcher Review,Complete Games,George Uhle,Cleveland,29
+1923,American League,Pitcher Review,ERA,Stan Coveleski,Cleveland,2.76
+1923,American League,Pitcher Review,Games,Eddie Rommel,Philadelphia,56
+1923,American League,Pitcher Review,Saves,Allan Russell,Washington,9
+1923,American League,Pitcher Review,Shutouts,Stan Coveleski,Cleveland,5
+1923,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,130
+1923,American League,Pitcher Review,Winning Percentage,Herb Pennock,New York,.760
+1923,American League,Pitcher Review,Wins,George Uhle,Cleveland,26
+1924,American League,Player Review,Base on Balls,Babe Ruth,New York,142
+1924,American League,Player Review,Batting Average,Babe Ruth,New York,.378
+1924,American League,Player Review,Doubles,Harry Heilmann,Detroit,45
+1924,American League,Player Review,Hits,Sam Rice,Washington,216
+1924,American League,Player Review,Home Runs,Babe Ruth,New York,46
+1924,American League,Player Review,On Base Percentage,Babe Ruth,New York,.513
+1924,American League,Player Review,RBI,Goose Goslin,Washington,129
+1924,American League,Player Review,Runs,Babe Ruth,New York,143
+1924,American League,Player Review,Slugging Average,Babe Ruth,New York,.739
+1924,American League,Player Review,Stolen Bases,Eddie Collins,Chicago,42
+1924,American League,Player Review,Total Bases,Babe Ruth,New York,391
+1924,American League,Player Review,Triples,Wally Pipp,New York,19
+1924,American League,Pitcher Review,Complete Games,Sloppy Thurston,Chicago,28
+1924,American League,Pitcher Review,ERA,Walter Johnson,Washington,2.72
+1924,American League,Pitcher Review,Games,Firpo Marberry,Washington,50
+1924,American League,Pitcher Review,Saves,Firpo Marberry,Washington,15
+1924,American League,Pitcher Review,Shutouts,Walter Johnson,Washington,6
+1924,American League,Pitcher Review,Strikeouts,Walter Johnson,Washington,158
+1924,American League,Pitcher Review,Winning Percentage,Walter Johnson,Washington,.767
+1924,American League,Pitcher Review,Wins,Walter Johnson,Washington,23
+1925,American League,Player Review,Base on Balls,Willie Kamm,Chicago,90
+1925,American League,Player Review,Batting Average,Harry Heilmann,Detroit,.393
+1925,American League,Player Review,Doubles,Marty McManus,St. Louis,44
+1925,American League,Player Review,Hits,Al Simmons,Philadelphia,253
+1925,American League,Player Review,Home Runs,Bob Meusel,New York,33
+1925,American League,Player Review,On Base Percentage,Tris Speaker,Cleveland,.479
+1925,American League,Player Review,RBI,Bob Meusel,New York,138
+1925,American League,Player Review,Runs,Johnny Mostil,Chicago,135
+1925,American League,Player Review,Slugging Average,Ken Williams,St. Louis,.613
+1925,American League,Player Review,Stolen Bases,Johnny Mostil,Chicago,43
+1925,American League,Player Review,Total Bases,Al Simmons,Philadelphia,392
+1925,American League,Player Review,Triples,Goose Goslin,Washington,20
+1925,American League,Pitcher Review,Complete Games,Howard Ehmke,Boston,22
+1925,American League,Pitcher Review,ERA,Stan Coveleski,Washington,2.84
+1925,American League,Pitcher Review,Games,Firpo Marberry,Washington,55
+1925,American League,Pitcher Review,Saves,Firpo Marberry,Washington,15
+1925,American League,Pitcher Review,Shutouts,Ted Lyons,Chicago,5
+1925,American League,Pitcher Review,Strikeouts,Lefty Grove,Philadelphia,116
+1925,American League,Pitcher Review,Winning Percentage,Stan Coveleski,Washington,.800
+1925,American League,Pitcher Review,Wins,Ted Lyons,Chicago,21
+1926,American League,Player Review,Base on Balls,Babe Ruth,New York,144
+1926,American League,Player Review,Batting Average,Heinie Manush,Detroit,.378
+1926,American League,Player Review,Doubles,George Burns,Cleveland,64
+1926,American League,Player Review,Hits,Sam Rice,Washington,216
+1926,American League,Player Review,Home Runs,Babe Ruth,New York,47
+1926,American League,Player Review,On Base Percentage,Babe Ruth,New York,.516
+1926,American League,Player Review,RBI,Babe Ruth,New York,146
+1926,American League,Player Review,Runs,Babe Ruth,New York,139
+1926,American League,Player Review,Slugging Average,Babe Ruth,New York,.737
+1926,American League,Player Review,Stolen Bases,Johnny Mostil,Chicago,35
+1926,American League,Player Review,Total Bases,Babe Ruth,New York,365
+1926,American League,Player Review,Triples,Babe Ruth,New York,20
+1926,American League,Pitcher Review,Complete Games,George Uhle,Cleveland,32
+1926,American League,Pitcher Review,ERA,Lefty Grove,Philadelphia,2.51
+1926,American League,Pitcher Review,Games,Firpo Marberry,Washington,64
+1926,American League,Pitcher Review,Saves,Firpo Marberry,Washington,22
+1926,American League,Pitcher Review,Shutouts,Ed Wells,Detroit,4
+1926,American League,Pitcher Review,Strikeouts,Lefty Grove,Philadelphia,194
+1926,American League,Pitcher Review,Winning Percentage,George Uhle,Cleveland,.711
+1926,American League,Pitcher Review,Wins,George Uhle,Cleveland,27
+1927,American League,Player Review,Base on Balls,Babe Ruth,New York,137
+1927,American League,Player Review,Batting Average,Harry Heilmann,Detroit,.398
+1927,American League,Player Review,Doubles,Lou Gehrig,New York,52
+1927,American League,Player Review,Hits,Earle Combs,New York,231
+1927,American League,Player Review,Home Runs,Babe Ruth,New York,60
+1927,American League,Player Review,On Base Percentage,Babe Ruth,New York,.486
+1927,American League,Player Review,RBI,Lou Gehrig,New York,175
+1927,American League,Player Review,Runs,Babe Ruth,New York,158
+1927,American League,Player Review,Slugging Average,Babe Ruth,New York,.772
+1927,American League,Player Review,Stolen Bases,George Sisler,St. Louis,27
+1927,American League,Player Review,Total Bases,Lou Gehrig,New York,447
+1927,American League,Player Review,Triples,Earle Combs,New York,23
+1927,American League,Pitcher Review,Complete Games,Ted Lyons,Chicago,30
+1927,American League,Pitcher Review,ERA,Wilcy Moore,New York,2.28
+1927,American League,Pitcher Review,Games,Garland Braxton,Washington,58
+1927,American League,Pitcher Review,Saves,Garland Braxton,Washington,13
+1927,American League,Pitcher Review,Shutouts,Hod Lisenbee,Washington,4
+1927,American League,Pitcher Review,Strikeouts,Lefty Grove,Philadelphia,174
+1927,American League,Pitcher Review,Winning Percentage,Waite Hoyt,New York,.759
+1927,American League,Pitcher Review,Wins,Waite Hoyt,New York,22
+1928,American League,Player Review,Base on Balls,Babe Ruth,New York,137
+1928,American League,Player Review,Batting Average,Goose Goslin,Washington,.379
+1928,American League,Player Review,Doubles,Lou Gehrig,New York,47
+1928,American League,Player Review,Hits,Henie Manush,St. Louis,241
+1928,American League,Player Review,Home Runs,Babe Ruth,New York,54
+1928,American League,Player Review,On Base Percentage,Lou Gehrig,New York,.467
+1928,American League,Player Review,RBI,Lou Gehrig,New York,142
+1928,American League,Player Review,Runs,Babe Ruth,New York,163
+1928,American League,Player Review,Slugging Average,Babe Ruth,New York,.709
+1928,American League,Player Review,Stolen Bases,Buddy Myer,Boston,30
+1928,American League,Player Review,Total Bases,Babe Ruth,New York,380
+1928,American League,Player Review,Triples,Earle Combs,New York,21
+1928,American League,Pitcher Review,Complete Games,Red Ruffing,Boston,25
+1928,American League,Pitcher Review,ERA,Garland Braxton,Washington,2.51
+1928,American League,Pitcher Review,Games,Firpo Marberry,Washington,48
+1928,American League,Pitcher Review,Saves,Waite Hoyt,New York,8
+1928,American League,Pitcher Review,Shutouts,Herb Pennock,New York,5
+1928,American League,Pitcher Review,Strikeouts,Lefty Grove,Philadelphia,183
+1928,American League,Pitcher Review,Winning Percentage,Alvin Crowder,St. Louis,.808
+1928,American League,Pitcher Review,Wins,Lefty Grove,Philadelphia,24
+1929,American League,Player Review,Base on Balls,Max Bishop,Philadelphia,128
+1929,American League,Player Review,Batting Average,Lew Fonseca,Cleveland,.369
+1929,American League,Player Review,Doubles,Charlie Gehringer,Detroit,45
+1929,American League,Player Review,Hits,Dale Alexander,Detroit,215
+1929,American League,Player Review,Home Runs,Babe Ruth,New York,46
+1929,American League,Player Review,On Base Percentage,Jimmie Foxx,Philadelphia,.463
+1929,American League,Player Review,RBI,Al Simmons,Philadelphia,157
+1929,American League,Player Review,Runs,Charlie Gehringer,Detroit,131
+1929,American League,Player Review,Slugging Average,Babe Ruth,New York,.697
+1929,American League,Player Review,Stolen Bases,Charlie Gehringer,Detroit,27
+1929,American League,Player Review,Total Bases,Al Simmons,Philadelphia,373
+1929,American League,Player Review,Triples,Charlie Gehringer,Detroit,19
+1929,American League,Pitcher Review,Complete Games,Tommy Thomas,Chicago,24
+1929,American League,Pitcher Review,ERA,Lefty Grove,Philadelphia,2.81
+1929,American League,Pitcher Review,Games,Firpo Marberry,Washington,49
+1929,American League,Pitcher Review,Saves,Firpo Marberry,Washington,11
+1929,American League,Pitcher Review,Shutouts,George Blaeholder,St. Louis,5
+1929,American League,Pitcher Review,Strikeouts,Lefty Grove,Philadelphia,170
+1929,American League,Pitcher Review,Winning Percentage,Lefty Grove,Philadelphia,.769
+1929,American League,Pitcher Review,Wins,George Earnshaw,Philadelphia,24
+1930,American League,Player Review,Base on Balls,Babe Ruth,New York,136
+1930,American League,Player Review,Batting Average,Al Simmons,Philadelphia,.381
+1930,American League,Player Review,Doubles,Johnny Hodapp,Cleveland,51
+1930,American League,Player Review,Hits,Johnny Hodapp,Cleveland,225
+1930,American League,Player Review,Home Runs,Babe Ruth,New York,49
+1930,American League,Player Review,On Base Percentage,Babe Ruth,New York,.493
+1930,American League,Player Review,RBI,Lou Gehrig,New York,174
+1930,American League,Player Review,Runs,Al Simmons,Philadelphia,152
+1930,American League,Player Review,Slugging Average,Babe Ruth,New York,.732
+1930,American League,Player Review,Stolen Bases,Marty McManus,Detroit,23
+1930,American League,Player Review,Total Bases,Lou Gehrig,New York,419
+1930,American League,Player Review,Triples,Earle Combs,New York,22
+1930,American League,Pitcher Review,Complete Games,Ted Lyons,Chicago,29
+1930,American League,Pitcher Review,ERA,Lefty Grove,Philadelphia,2.54
+1930,American League,Pitcher Review,Games,Lefty Grove,Philadelphia,50
+1930,American League,Pitcher Review,Saves,Lefty Grove,Philadelphia,9
+1930,American League,Pitcher Review,Shutouts,Clint Brown,Cleveland,3
+1930,American League,Pitcher Review,Strikeouts,Lefty Grove,Philadelphia,209
+1930,American League,Pitcher Review,Winning Percentage,Lefty Grove,Philadelphia,.848
+1930,American League,Pitcher Review,Wins,Lefty Grove,Philadelphia,28
+1931,American League,Player Review,Base on Balls,Babe Ruth,New York,128
+1931,American League,Player Review,Batting Average,Al Simmons,Philadelphia,.390
+1931,American League,Player Review,Doubles,Earl Webb,Boston,67
+1931,American League,Player Review,Hits,Lou Gehrig,New York,211
+1931,American League,Player Review,Home Runs,Lou Gehrig,New York,46
+1931,American League,Player Review,On Base Percentage,Babe Ruth,New York,.495
+1931,American League,Player Review,RBI,Lou Gehrig,New York,184
+1931,American League,Player Review,Runs,Lou Gehrig,New York,163
+1931,American League,Player Review,Slugging Average,Babe Ruth,New York,.700
+1931,American League,Player Review,Stolen Bases,Ben Chapman,New York,61
+1931,American League,Player Review,Total Bases,Lou Gehrig,New York,410
+1931,American League,Player Review,Triples,Roy Johnson,Detroit,19
+1931,American League,Pitcher Review,Complete Games,Wes Ferrell,Cleveland,27
+1931,American League,Pitcher Review,ERA,Lefty Grove,Philadelphia,2.06
+1931,American League,Pitcher Review,Games,Bump Hadley,Washington,55
+1931,American League,Pitcher Review,Saves,Wilcy Moore,Boston,10
+1931,American League,Pitcher Review,Shutouts,Lefty Grove,Philadelphia,4
+1931,American League,Pitcher Review,Strikeouts,Lefty Grove,Philadelphia,175
+1931,American League,Pitcher Review,Winning Percentage,Lefty Grove,Philadelphia,.886
+1931,American League,Pitcher Review,Wins,Lefty Grove,Philadelphia,31
+1932,American League,Player Review,Base on Balls,Babe Ruth,New York,130
+1932,American League,Player Review,Batting Average,Dale Alexander *,Detroit,.367
+1932,American League,Player Review,Doubles,Eric McNair,Philadelphia,47
+1932,American League,Player Review,Hits,Al Simmons,Philadelphia,216
+1932,American League,Player Review,Home Runs,Jimmie Foxx,Philadelphia,58
+1932,American League,Player Review,On Base Percentage,Babe Ruth,New York,.489
+1932,American League,Player Review,RBI,Jimmie Foxx,Philadelphia,169
+1932,American League,Player Review,Runs,Jimmie Foxx,Philadelphia,151
+1932,American League,Player Review,Slugging Average,Jimmie Foxx,Philadelphia,.749
+1932,American League,Player Review,Stolen Bases,Ben Chapman,New York,38
+1932,American League,Player Review,Total Bases,Jimmie Foxx,Philadelphia,438
+1932,American League,Player Review,Triples,Joe Cronin,Washington,18
+1932,American League,Pitcher Review,Complete Games,Lefty Grove,Philadelphia,27
+1932,American League,Pitcher Review,ERA,Lefty Grove,Philadelphia,2.84
+1932,American League,Pitcher Review,Games,Firpo Marberry,Washington,54
+1932,American League,Pitcher Review,Saves,Firpo Marberry,Washington,13
+1932,American League,Pitcher Review,Shutouts,Tommy Bridges,Detroit,4
+1932,American League,Pitcher Review,Strikeouts,Red Ruffing,New York,190
+1932,American League,Pitcher Review,Winning Percentage,Johnny Allen,New York,.810
+1932,American League,Pitcher Review,Wins,Alvin Crowder,Washington,26
+1933,American League,Player Review,Base on Balls,Babe Ruth,New York,114
+1933,American League,Player Review,Batting Average,Jimmie Foxx,Philadelphia,.356
+1933,American League,Player Review,Doubles,Joe Cronin,Washington,45
+1933,American League,Player Review,Hits,Heinie Manush,Washington,221
+1933,American League,Player Review,Home Runs,Jimmie Foxx,Philadelphia,48
+1933,American League,Player Review,On Base Percentage,Mickey Cochrane,Philadelphia,.459
+1933,American League,Player Review,RBI,Jimmie Foxx,Philadelphia,163
+1933,American League,Player Review,Runs,Lou Gehrig,New York,138
+1933,American League,Player Review,Slugging Average,Jimmie Foxx,Philadelphia,.703
+1933,American League,Player Review,Stolen Bases,Ben Chapman,New York,27
+1933,American League,Player Review,Total Bases,Jimmie Foxx,Philadelphia,403
+1933,American League,Player Review,Triples,Heinie Manush,Washington,17
+1933,American League,Pitcher Review,Complete Games,Lefty Grove,Philadelphia,21
+1933,American League,Pitcher Review,ERA,Monte Pearson,Cleveland,2.33
+1933,American League,Pitcher Review,Games,Alvin Crowder,Washington,52
+1933,American League,Pitcher Review,Saves,Jack Russell,Washington,13
+1933,American League,Pitcher Review,Shutouts,Oral Hildebrand,Cleveland,6
+1933,American League,Pitcher Review,Strikeouts,Lefty Gomez,New York,163
+1933,American League,Pitcher Review,Winning Percentage,Lefty Grove,Philadelphia,.750
+1933,American League,Pitcher Review,Wins,Lefty Grove,Philadelphia,24
+1934,American League,Player Review,Base on Balls,Jimmie Foxx,Philadelphia,111
+1934,American League,Player Review,Batting Average,Lou Gehrig,New York,.363
+1934,American League,Player Review,Doubles,Hank Greenberg,Detroit,63
+1934,American League,Player Review,Hits,Charlie Gehringer,Detroit,214
+1934,American League,Player Review,Home Runs,Lou Gehrig,New York,44
+1934,American League,Player Review,On Base Percentage,Lou Gehrig,New York,.465
+1934,American League,Player Review,RBI,Lou Gehrig,New York,165
+1934,American League,Player Review,Runs,Charlie Gehringer,Detroit,134
+1934,American League,Player Review,Slugging Average,Lou Gehrig,New York,.706
+1934,American League,Player Review,Stolen Bases,Billy Werber,Boston,40
+1934,American League,Player Review,Total Bases,Lou Gehrig,New York,409
+1934,American League,Player Review,Triples,Ben Chapman,New York,13
+1934,American League,Pitcher Review,Complete Games,Lefty Gomez,New York,25
+1934,American League,Pitcher Review,ERA,Lefty Gomez,New York,2.33
+1934,American League,Pitcher Review,Games,Jack Russell,Washington,54
+1934,American League,Pitcher Review,Saves,Jack Russell,Washington,7
+1934,American League,Pitcher Review,Shutouts,Mel Harder,Cleveland,6
+1934,American League,Pitcher Review,Strikeouts,Lefty Gomez,New York,158
+1934,American League,Pitcher Review,Winning Percentage,Lefty Gomez,New York,.839
+1934,American League,Pitcher Review,Wins,Lefty Gomez,New York,26
+1935,American League,Player Review,Base on Balls,Lou Gehrig,New York,132
+1935,American League,Player Review,Batting Average,Buddy Myer,Washington,.349
+1935,American League,Player Review,Doubles,Joe Vosmik,Cleveland,47
+1935,American League,Player Review,Hits,Joe Vosmik,Cleveland,216
+1935,American League,Player Review,Home Runs,Jimmie Foxx,Philadelphia,36
+1935,American League,Player Review,On Base Percentage,Lou Gehrig,New York,.466
+1935,American League,Player Review,RBI,Hank Greenberg,Detroit,170
+1935,American League,Player Review,Runs,Lou Gehrig,New York,125
+1935,American League,Player Review,Slugging Average,Jimmie Foxx,Philadelphia,.636
+1935,American League,Player Review,Stolen Bases,Billy Werber,Boston,29
+1935,American League,Player Review,Total Bases,Hank Greenberg,Detroit,389
+1935,American League,Player Review,Triples,Joe Vosmik,Cleveland,20
+1935,American League,Pitcher Review,Complete Games,Wes Ferrell,Boston,31
+1935,American League,Pitcher Review,ERA,Lefty Grove,Boston,2.70
+1935,American League,Pitcher Review,Games,Russ Van Atta,New York,58
+1935,American League,Pitcher Review,Saves,Jack Knott,St. Louis,7
+1935,American League,Pitcher Review,Shutouts,Schoolboy Rowe,Detroit,6
+1935,American League,Pitcher Review,Strikeouts,Tommy Bridges,Detroit,163
+1935,American League,Pitcher Review,Winning Percentage,Elden Auker,Detroit,.720
+1935,American League,Pitcher Review,Wins,Wes Ferrell,Boston,25
+1936,American League,Player Review,Base on Balls,Lou Gehrig,New York,130
+1936,American League,Player Review,Batting Average,Luke Appling,Chicago,.388
+1936,American League,Player Review,Doubles,Charlie Gehringer,Detroit,60
+1936,American League,Player Review,Hits,Earl Averill,Cleveland,232
+1936,American League,Player Review,Home Runs,Lou Gehrig,New York,49
+1936,American League,Player Review,On Base Percentage,Lou Gehrig,New York,.478
+1936,American League,Player Review,RBI,Hal Trosky,Cleveland,162
+1936,American League,Player Review,Runs,Lou Gehrig,New York,167
+1936,American League,Player Review,Slugging Average,Lou Gehrig,New York,.696
+1936,American League,Player Review,Stolen Bases,Lyn Lary,St. Louis,37
+1936,American League,Player Review,Total Bases,Hal Trosky,Cleveland,405
+1936,American League,Player Review,Triples,Earl Averill,Cleveland,18
+1936,American League,Pitcher Review,Complete Games,Wes Ferrell,Boston,28
+1936,American League,Pitcher Review,ERA,Lefty Grove,Philadelphia,2.81
+1936,American League,Pitcher Review,Games,Russ Van Atta,St. Louis,52
+1936,American League,Pitcher Review,Saves,Pat Malone,New York,9
+1936,American League,Pitcher Review,Shutouts,Lefty Grove,Philadelphia,6
+1936,American League,Pitcher Review,Strikeouts,Tommy Bridges,Detroit,175
+1936,American League,Pitcher Review,Winning Percentage,Bump Hadley,New York,.778
+1936,American League,Pitcher Review,Wins,Tommy Bridges,Detroit,23
+1937,American League,Player Review,Base on Balls,Lou Gehrig,New York,127
+1937,American League,Player Review,Batting Average,Charlie Gehringer,Detroit,.371
+1937,American League,Player Review,Doubles,Beau Bell,St. Louis,51
+1937,American League,Player Review,Hits,Beau Bell,St. Louis,218
+1937,American League,Player Review,Home Runs,Joe DiMaggio,New York,46
+1937,American League,Player Review,On Base Percentage,Lou Gehrig,New York,.473
+1937,American League,Player Review,RBI,Hank Greenberg,Detroit,183
+1937,American League,Player Review,Runs,Joe DiMaggio,New York,151
+1937,American League,Player Review,Slugging Average,Joe DiMaggio,New York,.673
+1937,American League,Player Review,Stolen Bases,Ben Chapman,Washington,35
+1937,American League,Player Review,Total Bases,Joe DiMaggio,New York,418
+1937,American League,Player Review,Triples,Mike Kreevich,Chicago,16
+1937,American League,Pitcher Review,Complete Games,Wes Ferrell,Boston,26
+1937,American League,Pitcher Review,ERA,Lefty Gomez,New York,2.33
+1937,American League,Pitcher Review,Games,Clint Brown,Chicago,53
+1937,American League,Pitcher Review,Saves,Clint Brown,Chicago,18
+1937,American League,Pitcher Review,Shutouts,Lefty Gomez,New York,6
+1937,American League,Pitcher Review,Strikeouts,Lefty Gomez,New York,194
+1937,American League,Pitcher Review,Winning Percentage,Johnny Allen,Cleveland,.938
+1937,American League,Pitcher Review,Wins,Lefty Gomez,New York,21
+1938,American League,Player Review,Base on Balls,Jimmie Foxx,Boston,119
+1938,American League,Player Review,Batting Average,Jimmie Foxx,Boston,.349
+1938,American League,Player Review,Doubles,Joe Cronin,Boston,51
+1938,American League,Player Review,Hits,Joe Vosmik,Boston,201
+1938,American League,Player Review,Home Runs,Hank Greenberg,Detroit,58
+1938,American League,Player Review,On Base Percentage,Jimmie Foxx,Boston,.462
+1938,American League,Player Review,RBI,Jimmie Foxx,Boston,175
+1938,American League,Player Review,Runs,Hank Greenberg,Detroit,144
+1938,American League,Player Review,Slugging Average,Jimmie Foxx,Boston,.704
+1938,American League,Player Review,Stolen Bases,Frankie Crosetti,New York,27
+1938,American League,Player Review,Total Bases,Jimmie Foxx,Boston,398
+1938,American League,Player Review,Triples,Jeff Heath,Cleveland,18
+1938,American League,Pitcher Review,Complete Games,Bobo Newsom,St. Louis,31
+1938,American League,Pitcher Review,ERA,Lefty Grove,Boston,3.08
+1938,American League,Pitcher Review,Games,Johnny Humphries,Cleveland,45
+1938,American League,Pitcher Review,Saves,Johnny Murphy,New York,11
+1938,American League,Pitcher Review,Shutouts,Lefty Gomez,New York,4
+1938,American League,Pitcher Review,Strikeouts,Bob Feller,Cleveland,240
+1938,American League,Pitcher Review,Winning Percentage,Red Ruffing,New York,.750
+1938,American League,Pitcher Review,Wins,Red Ruffing,New York,21
+1939,American League,Player Review,Base on Balls,Harlond Clift,St. Louis,111
+1939,American League,Player Review,Batting Average,Joe DiMaggio,New York,.381
+1939,American League,Player Review,Doubles,Red Rolfe,New York,46
+1939,American League,Player Review,Hits,Red Rolfe,New York,213
+1939,American League,Player Review,Home Runs,Jimmie Foxx,Boston,35
+1939,American League,Player Review,On Base Percentage,Jimmie Foxx,Boston,.464
+1939,American League,Player Review,RBI,Ted Williams,Boston,145
+1939,American League,Player Review,Runs,Red Rolfe,New York,139
+1939,American League,Player Review,Slugging Average,Jimmie Foxx,Boston,.694
+1939,American League,Player Review,Stolen Bases,George Case,Washington,51
+1939,American League,Player Review,Total Bases,Ted Williams,Boston,344
+1939,American League,Player Review,Triples,Buddy Lewis,Washington,16
+1939,American League,Pitcher Review,Complete Games,Bobo Newsom,St. Louis,24
+1939,American League,Pitcher Review,ERA,Lefty Grove,Boston,2.54
+1939,American League,Pitcher Review,Games,Clint Brown,Chicago,61
+1939,American League,Pitcher Review,Saves,Johnny Murphy,New York,19
+1939,American League,Pitcher Review,Shutouts,Red Ruffing,New York,5
+1939,American League,Pitcher Review,Strikeouts,Bob Feller,Cleveland,246
+1939,American League,Pitcher Review,Winning Percentage,Lefty Grove,Boston,.789
+1939,American League,Pitcher Review,Wins,Bob Feller,Cleveland,24
+1940,American League,Player Review,Base on Balls,Charlie Keller,New York,106
+1940,American League,Player Review,Batting Average,Joe DiMaggio,New York,.352
+1940,American League,Player Review,Doubles,Hank Greenberg,Detroit,50
+1940,American League,Player Review,Hits,Doc Cramer,Boston,200
+1940,American League,Player Review,Home Runs,Hank Greenberg,Detroit,41
+1940,American League,Player Review,On Base Percentage,Ted Williams,Boston,.442
+1940,American League,Player Review,RBI,Hank Greenberg,Detroit,150
+1940,American League,Player Review,Runs,Ted Williams,Boston,134
+1940,American League,Player Review,Slugging Average,Hank Greenberg,Detroit,.670
+1940,American League,Player Review,Stolen Bases,George Case,Washington,35
+1940,American League,Player Review,Total Bases,Hank Greenberg,Detroit,384
+1940,American League,Player Review,Triples,Barney McCosky,Detroit,19
+1940,American League,Pitcher Review,Complete Games,Bob Feller,Cleveland,31
+1940,American League,Pitcher Review,ERA,Bob Feller,Cleveland,2.61
+1940,American League,Pitcher Review,Games,Bob Feller,Cleveland,43
+1940,American League,Pitcher Review,Saves,Al Benton,Detroit,17
+1940,American League,Pitcher Review,Shutouts,Bob Feller,Cleveland,4
+1940,American League,Pitcher Review,Strikeouts,Bob Feller,Cleveland,261
+1940,American League,Pitcher Review,Winning Percentage,Schoolboy Rowe,Detroit,.842
+1940,American League,Pitcher Review,Wins,Bob Feller,Cleveland,27
+1941,American League,Player Review,Base on Balls,Ted Williams,Boston,147
+1941,American League,Player Review,Batting Average,Ted Williams,Boston,.406
+1941,American League,Player Review,Doubles,Lou Boudreau,Cleveland,45
+1941,American League,Player Review,Hits,Cecil Travis,Washington,218
+1941,American League,Player Review,Home Runs,Ted Williams,Boston,37
+1941,American League,Player Review,On Base Percentage,Ted Williams,Boston,.551
+1941,American League,Player Review,RBI,Joe DiMaggio,New York,125
+1941,American League,Player Review,Runs,Ted Williams,Boston,135
+1941,American League,Player Review,Slugging Average,Ted Williams,Boston,.735
+1941,American League,Player Review,Stolen Bases,George Case,Washington,33
+1941,American League,Player Review,Total Bases,Joe DiMaggio,New York,348
+1941,American League,Player Review,Triples,Jeff Heath,Cleveland,20
+1941,American League,Pitcher Review,Complete Games,Thornton Lee,Chicago,30
+1941,American League,Pitcher Review,ERA,Thornton Lee,Chicago,2.37
+1941,American League,Pitcher Review,Games,Bob Feller,Cleveland,44
+1941,American League,Pitcher Review,Saves,Johnny Murphy,New York,15
+1941,American League,Pitcher Review,Shutouts,Bob Feller,Cleveland,6
+1941,American League,Pitcher Review,Strikeouts,Bob Feller,Cleveland,260
+1941,American League,Pitcher Review,Winning Percentage,Lefty Gomez,New York,.750
+1941,American League,Pitcher Review,Wins,Bob Feller,Cleveland,25
+1942,American League,Player Review,Base on Balls,Ted Williams,Boston,145
+1942,American League,Player Review,Batting Average,Ted Williams,Boston,.356
+1942,American League,Player Review,Doubles,Don Kolloway,Chicago,40
+1942,American League,Player Review,Hits,Johnny Pesky,Boston,205
+1942,American League,Player Review,Home Runs,Ted Williams,Boston,36
+1942,American League,Player Review,On Base Percentage,Ted Williams,Boston,.499
+1942,American League,Player Review,RBI,Ted Williams,Boston,137
+1942,American League,Player Review,Runs,Ted Williams,Boston,141
+1942,American League,Player Review,Slugging Average,Ted Williams,Boston,.648
+1942,American League,Player Review,Stolen Bases,George Case,Washington,44
+1942,American League,Player Review,Total Bases,Ted Williams,Boston,338
+1942,American League,Player Review,Triples,Stan Spence,Washington,15
+1942,American League,Pitcher Review,Complete Games,Tiny Bonham,New York,22
+1942,American League,Pitcher Review,ERA,Ted Lyons,Chicago,2.10
+1942,American League,Pitcher Review,Games,Joe Haynes,Chicago,40
+1942,American League,Pitcher Review,Saves,Johnny Murphy,New York,11
+1942,American League,Pitcher Review,Shutouts,Tiny Bonham,New York,6
+1942,American League,Pitcher Review,Strikeouts,Tex Hughson,Boston,113
+1942,American League,Pitcher Review,Winning Percentage,Tiny Bonham,New York,.808
+1942,American League,Pitcher Review,Wins,Tex Hughson,Boston,22
+1943,American League,Player Review,Base on Balls,Charlie Keller,New York,106
+1943,American League,Player Review,Batting Average,Luke Appling,Chicago,.328
+1943,American League,Player Review,Doubles,Dick Wakefield,Detroit,38
+1943,American League,Player Review,Hits,Dick Wakefield,Detroit,200
+1943,American League,Player Review,Home Runs,Rudy York,Detroit,34
+1943,American League,Player Review,On Base Percentage,Luke Appling,Chicago,.419
+1943,American League,Player Review,RBI,Rudy York,Detroit,118
+1943,American League,Player Review,Runs,George Case,Washington,102
+1943,American League,Player Review,Slugging Average,Rudy York,Detroit,.527
+1943,American League,Player Review,Stolen Bases,George Case,Washington,61
+1943,American League,Player Review,Total Bases,Rudy York,Detroit,301
+1943,American League,Player Review,Triples,Johnny Lindell,New York,12
+1943,American League,Pitcher Review,Complete Games,Spud Chandler,New York,20
+1943,American League,Pitcher Review,ERA,Spud Chandler,New York,1.64
+1943,American League,Pitcher Review,Games,Mace Brown,Boston,49
+1943,American League,Pitcher Review,Saves,Gordon Maltzberger,Chicago,14
+1943,American League,Pitcher Review,Shutouts,Spud Chandler,New York,5
+1943,American League,Pitcher Review,Strikeouts,Allie Reynolds,Cleveland,151
+1943,American League,Pitcher Review,Winning Percentage,Spud Chandler,New York,.833
+1943,American League,Pitcher Review,Wins,Spud Chandler,New York,20
+1944,American League,Player Review,Base on Balls,Nick Etten,New York,97
+1944,American League,Player Review,Batting Average,Lou Boudreau,Cleveland,.327
+1944,American League,Player Review,Doubles,Lou Boudreau,Cleveland,45
+1944,American League,Player Review,Hits,Snuffy Stirnweiss,New York,205
+1944,American League,Player Review,Home Runs,Nick Etten,New York,22
+1944,American League,Player Review,On Base Percentage,Bob Johnson,Boston,.431
+1944,American League,Player Review,RBI,Vern Stephens,St. Louis,109
+1944,American League,Player Review,Runs,Snuffy Stirnweiss,New York,125
+1944,American League,Player Review,Slugging Average,Bobby Doerr,Boston,.528
+1944,American League,Player Review,Stolen Bases,Snuffy Stirnweiss,New York,55
+1944,American League,Player Review,Total Bases,Johnny Lindell,New York,297
+1944,American League,Player Review,Triples,Johnny Lindell,New York,16
+1944,American League,Pitcher Review,Complete Games,Dizzy Trout,Detroit,33
+1944,American League,Pitcher Review,ERA,Dizzy Trout,Detroit,2.12
+1944,American League,Pitcher Review,Games,Joe Heving,Cleveland,63
+1944,American League,Pitcher Review,Saves,Joe Berry,Philadelphia,12
+1944,American League,Pitcher Review,Shutouts,Dizzy Trout,Detroit,7
+1944,American League,Pitcher Review,Strikeouts,Hal Newhouser,Detroit,187
+1944,American League,Pitcher Review,Winning Percentage,Tex Hughson,Boston,.783
+1944,American League,Pitcher Review,Wins,Hal Newhouser,Detroit,29
+1945,American League,Player Review,Base on Balls,Roy Cullenbine,Cleveland,113
+1945,American League,Player Review,Batting Average,Snuffy Stirnweiss,New York,.309
+1945,American League,Player Review,Doubles,Wally Moses,Chicago,35
+1945,American League,Player Review,Hits,Snuffy Stirnweiss,New York,195
+1945,American League,Player Review,Home Runs,Vern Stephens,St. Louis,24
+1945,American League,Player Review,On Base Percentage,Eddie Lake,Boston,.412
+1945,American League,Player Review,RBI,Nick Etten,New York,111
+1945,American League,Player Review,Runs,Snuffy Stirnweiss,New York,107
+1945,American League,Player Review,Slugging Average,Snuffy Stirnweiss,New York,.476
+1945,American League,Player Review,Stolen Bases,Snuffy Stirnweiss,New York,33
+1945,American League,Player Review,Total Bases,Snuffy Stirnweiss,New York,301
+1945,American League,Player Review,Triples,Snuffy Stirnweiss,New York,22
+1945,American League,Pitcher Review,Complete Games,Hal Newhouser,Detroit,29
+1945,American League,Pitcher Review,ERA,Hal Newhouser,Detroit,1.81
+1945,American League,Pitcher Review,Games,Joe Berry,Philadelphia,52
+1945,American League,Pitcher Review,Saves,Jim Turner,New York,10
+1945,American League,Pitcher Review,Shutouts,Hal Newhouser,Detroit,8
+1945,American League,Pitcher Review,Strikeouts,Hal Newhouser,Detroit,212
+1945,American League,Pitcher Review,Winning Percentage,Hal Newhouser,Detroit,.735
+1945,American League,Pitcher Review,Wins,Hal Newhouser,Detroit,25
+1946,American League,Player Review,Base on Balls,Ted Williams,Boston,156
+1946,American League,Player Review,Batting Average,Mickey Vernon,Washington,.353
+1946,American League,Player Review,Doubles,Mickey Vernon,Washington,51
+1946,American League,Player Review,Hits,Johnny Pesky,Boston,208
+1946,American League,Player Review,Home Runs,Hank Greenberg,Detroit,44
+1946,American League,Player Review,On Base Percentage,Ted Williams,Boston,.497
+1946,American League,Player Review,RBI,Hank Greenberg,Detroit,127
+1946,American League,Player Review,Runs,Ted Williams,Boston,142
+1946,American League,Player Review,Slugging Average,Ted Williams,Boston,.667
+1946,American League,Player Review,Stolen Bases,George Case,Cleveland,28
+1946,American League,Player Review,Total Bases,Ted Williams,Boston,343
+1946,American League,Player Review,Triples,Hank Edwards,Cleveland,16
+1946,American League,Pitcher Review,Complete Games,Bob Feller,Cleveland,36
+1946,American League,Pitcher Review,ERA,Hal Newhouser,Detroit,1.94
+1946,American League,Pitcher Review,Games,Bob Feller,Cleveland,48
+1946,American League,Pitcher Review,Saves,Bob Klinger,Boston,9
+1946,American League,Pitcher Review,Shutouts,Bob Feller,Cleveland,10
+1946,American League,Pitcher Review,Strikeouts,Bob Feller,Cleveland,348
+1946,American League,Pitcher Review,Winning Percentage,Dave Ferriss,Boston,.806
+1946,American League,Pitcher Review,Wins,Bob Feller,Cleveland,26
+1947,American League,Player Review,Base on Balls,Ted Williams,Boston,162
+1947,American League,Player Review,Batting Average,Ted Williams,Boston,.343
+1947,American League,Player Review,Doubles,Lou Boudreau,Cleveland,45
+1947,American League,Player Review,Hits,Johnny Pesky,Boston,207
+1947,American League,Player Review,Home Runs,Ted Williams,Boston,32
+1947,American League,Player Review,On Base Percentage,Ted Williams,Boston,.499
+1947,American League,Player Review,RBI,Ted Williams,Boston,114
+1947,American League,Player Review,Runs,Ted Williams,Boston,125
+1947,American League,Player Review,Slugging Average,Ted Williams,Boston,.634
+1947,American League,Player Review,Stolen Bases,Bob Dillinger,St. Louis,34
+1947,American League,Player Review,Total Bases,Ted Williams,Boston,335
+1947,American League,Player Review,Triples,Tommy Henrich,New York,13
+1947,American League,Pitcher Review,Complete Games,Hal Newhouser,Detroit,24
+1947,American League,Pitcher Review,ERA,Joe Haynes,Chicago,2.42
+1947,American League,Pitcher Review,Games,Ed Klieman,Cleveland,58
+1947,American League,Pitcher Review,Saves,Ed Klieman,Cleveland,17
+1947,American League,Pitcher Review,Shutouts,Bob Feller,Cleveland,5
+1947,American League,Pitcher Review,Strikeouts,Bob Feller,Cleveland,196
+1947,American League,Pitcher Review,Winning Percentage,Allie Reynolds,New York,.704
+1947,American League,Pitcher Review,Wins,Bob Feller,Cleveland,20
+1948,American League,Player Review,Base on Balls,Ted Williams,Boston,126
+1948,American League,Player Review,Batting Average,Ted Williams,Boston,.369
+1948,American League,Player Review,Doubles,Ted Williams,Boston,44
+1948,American League,Player Review,Hits,Bob Dillinger,St. Louis,207
+1948,American League,Player Review,Home Runs,Joe DiMaggio,New York,39
+1948,American League,Player Review,On Base Percentage,Ted Williams,Boston,.497
+1948,American League,Player Review,RBI,Joe DiMaggio,New York,155
+1948,American League,Player Review,Runs,Tommy Henrich,New York,138
+1948,American League,Player Review,Slugging Average,Ted Williams,Boston,.615
+1948,American League,Player Review,Stolen Bases,Bob Dillinger,St. Louis,28
+1948,American League,Player Review,Total Bases,Joe DiMaggio,New York,355
+1948,American League,Player Review,Triples,Tommy Henrich,New York,14
+1948,American League,Pitcher Review,Complete Games,Bob Lemon,Cleveland,20
+1948,American League,Pitcher Review,ERA,Gene Bearden,Cleveland,2.43
+1948,American League,Pitcher Review,Games,Joe Page,New York,55
+1948,American League,Pitcher Review,Saves,Russ Christopher,Cleveland,17
+1948,American League,Pitcher Review,Shutouts,Bob Lemon,Cleveland,10
+1948,American League,Pitcher Review,Strikeouts,Bob Feller,Cleveland,164
+1948,American League,Pitcher Review,Winning Percentage,Jack Kramer,Boston,.783
+1948,American League,Pitcher Review,Wins,Hal Newhouser,Detroit,21
+1949,American League,Player Review,Base on Balls,Ted Williams,Boston,162
+1949,American League,Player Review,Batting Average,George Kell,Detroit,.343
+1949,American League,Player Review,Doubles,Ted Williams,Boston,39
+1949,American League,Player Review,Hits,Dale Mitchell,Cleveland,203
+1949,American League,Player Review,Home Runs,Ted Williams,Boston,43
+1949,American League,Player Review,On Base Percentage,Ted Williams,Boston,.490
+1949,American League,Player Review,RBI,Vern Stephens,Boston,159
+1949,American League,Player Review,Runs,Ted Williams,Boston,150
+1949,American League,Player Review,Slugging Average,Ted Williams,Boston,.650
+1949,American League,Player Review,Stolen Bases,Bob Dillinger,St. Louis,20
+1949,American League,Player Review,Total Bases,Ted Williams,Boston,368
+1949,American League,Player Review,Triples,Dale Mitchell,Cleveland,23
+1949,American League,Pitcher Review,Complete Games,Mel Parnell,Boston,27
+1949,American League,Pitcher Review,ERA,Mike Garcia,Cleveland,2.36
+1949,American League,Pitcher Review,Games,Joe Page,New York,60
+1949,American League,Pitcher Review,Saves,Joe Page,New York,27
+1949,American League,Pitcher Review,Shutouts,Ellis Kinder,Boston,6
+1949,American League,Pitcher Review,Strikeouts,Virgil Trucks,Detroit,153
+1949,American League,Pitcher Review,Winning Percentage,Ellis Kinder,Boston,.793
+1949,American League,Pitcher Review,Wins,Mel Parnell,Boston,25
+1950,American League,Player Review,Base on Balls,Eddie Yost,Washington,141
+1950,American League,Player Review,Batting Average,Billy Goodman,Boston,.354
+1950,American League,Player Review,Doubles,George Kell,Detroit,56
+1950,American League,Player Review,Hits,George Kell,Detroit,218
+1950,American League,Player Review,Home Runs,Al Rosen,Cleveland,37
+1950,American League,Player Review,On Base Percentage,Larry Doby,Cleveland,.442
+1950,American League,Player Review,RBI,Walt Dropo,Boston,144
+1950,American League,Player Review,Runs,Dom DiMaggio,Boston,131
+1950,American League,Player Review,Slugging Average,Joe DiMaggio,New York,.585
+1950,American League,Player Review,Stolen Bases,Dom DiMaggio,Boston,15
+1950,American League,Player Review,Total Bases,Walt Dropo,Boston,326
+1950,American League,Player Review,Triples,Dom DiMaggio,Boston,11
+1950,American League,Pitcher Review,Complete Games,Ned Garver,St. Louis,22
+1950,American League,Pitcher Review,ERA,Early Wynn,Cleveland,3.20
+1950,American League,Pitcher Review,Games,Mickey Harris,Washington,53
+1950,American League,Pitcher Review,Saves,Mickey Harris,Washington,15
+1950,American League,Pitcher Review,Shutouts,Art Houtteman,Detroit,4
+1950,American League,Pitcher Review,Strikeouts,Bob Lemon,Cleveland,170
+1950,American League,Pitcher Review,Winning Percentage,Vic Raschi,New York,.724
+1950,American League,Pitcher Review,Wins,Bob Lemon,Cleveland,23
+1951,American League,Player Review,Base on Balls,Ted Williams,Boston,144
+1951,American League,Player Review,Batting Average,Ferris Fain,Philadelphia,.344
+1951,American League,Player Review,Doubles,George Kell,Detroit,36
+1951,American League,Player Review,Hits,George Kell,Detroit,191
+1951,American League,Player Review,Home Runs,Gus Zernial,Chicago,33
+1951,American League,Player Review,On Base Percentage,Ted Williams,Boston,.464
+1951,American League,Player Review,RBI,Gus Zernial,Chicago,129
+1951,American League,Player Review,Runs,Dom DiMaggio,Boston,113
+1951,American League,Player Review,Slugging Average,Ted Williams,Boston,.556
+1951,American League,Player Review,Stolen Bases,Minnie Minoso,Cleveland,31
+1951,American League,Player Review,Total Bases,Ted Williams,Boston,295
+1951,American League,Player Review,Triples,Minnie Minoso,Cleveland,14
+1951,American League,Pitcher Review,Complete Games,Ned Garver,St. Louis,24
+1951,American League,Pitcher Review,ERA,Saul Rogovin,Detroit,2.78
+1951,American League,Pitcher Review,Games,Ellis Kinder,Boston,63
+1951,American League,Pitcher Review,Saves,Ellis Kinder,Boston,14
+1951,American League,Pitcher Review,Shutouts,Allie Reynolds,New York,7
+1951,American League,Pitcher Review,Strikeouts,Vic Raschi,New York,164
+1951,American League,Pitcher Review,Winning Percentage,Bob Feller,Cleveland,.733
+1951,American League,Pitcher Review,Wins,Bob Feller,Cleveland,22
+1952,American League,Player Review,Base on Balls,Eddie Yost,Washington,129
+1952,American League,Player Review,Batting Average,Ferris Fain,Philadelphia,.327
+1952,American League,Player Review,Doubles,Ferris Fain,Philadelphia,43
+1952,American League,Player Review,Hits,Nellie Fox,Chicago,192
+1952,American League,Player Review,Home Runs,Larry Doby,Cleveland,32
+1952,American League,Player Review,On Base Percentage,Ferris Fain,Philadelphia,.438
+1952,American League,Player Review,RBI,Al Rosen,Cleveland,105
+1952,American League,Player Review,Runs,Larry Doby,Cleveland,104
+1952,American League,Player Review,Slugging Average,Larry Doby,Cleveland,.541
+1952,American League,Player Review,Stolen Bases,Minnie Minoso,Chicago,22
+1952,American League,Player Review,Total Bases,Al Rosen,Cleveland,297
+1952,American League,Player Review,Triples,Bobby Avila,Cleveland,11
+1952,American League,Pitcher Review,Complete Games,Bob Lemon,Cleveland,28
+1952,American League,Pitcher Review,ERA,Allie Reynolds,New York,2.06
+1952,American League,Pitcher Review,Games,Bill Kennedy,Chicago,47
+1952,American League,Pitcher Review,Saves,Harry Dorish,Chicago,11
+1952,American League,Pitcher Review,Shutouts,Mike Garcia,Cleveland,6
+1952,American League,Pitcher Review,Strikeouts,Allie Reynolds,New York,160
+1952,American League,Pitcher Review,Winning Percentage,Bobby Shantz,Philadelphia,.774
+1952,American League,Pitcher Review,Wins,Bobby Shantz,Philadelphia,24
+1953,American League,Player Review,Base on Balls,Eddie Yost,Washington,123
+1953,American League,Player Review,Batting Average,Mickey Vernon,Washington,.337
+1953,American League,Player Review,Doubles,Mickey Vernon,Washington,43
+1953,American League,Player Review,Hits,Harvey Kuenn,Detroit,209
+1953,American League,Player Review,Home Runs,Al Rosen,Cleveland,43
+1953,American League,Player Review,On Base Percentage,Gene Woodling,New York,.429
+1953,American League,Player Review,RBI,Al Rosen,Cleveland,145
+1953,American League,Player Review,Runs,Al Rosen,Cleveland,115
+1953,American League,Player Review,Slugging Average,Al Rosen,Cleveland,.613
+1953,American League,Player Review,Stolen Bases,Minnie Minoso,Chicago,25
+1953,American League,Player Review,Total Bases,Al Rosen,Cleveland,367
+1953,American League,Player Review,Triples,Jim Rivera,Chicago,16
+1953,American League,Pitcher Review,Complete Games,Bob Porterfield,Washington,24
+1953,American League,Pitcher Review,ERA,Ed Lopat,New York,2.42
+1953,American League,Pitcher Review,Games,Ellis Kinder,Boston,69
+1953,American League,Pitcher Review,Saves,Ellis Kinder,Boston,27
+1953,American League,Pitcher Review,Shutouts,Bob Porterfield,Washington,9
+1953,American League,Pitcher Review,Strikeouts,Billy Pierce,New York,186
+1953,American League,Pitcher Review,Winning Percentage,Ed Lopat,New York,.800
+1953,American League,Pitcher Review,Wins,Bob Porterfield,Washington,22
+1954,American League,Player Review,Base on Balls,Ted Williams,Boston,136
+1954,American League,Player Review,Batting Average,Bobby Avila,Cleveland,.341
+1954,American League,Player Review,Doubles,Mickey Vernon,Washington,33
+1954,American League,Player Review,Hits,Nellie Fox,Chicago,201
+1954,American League,Player Review,Home Runs,Larry Doby,Cleveland,32
+1954,American League,Player Review,On Base Percentage,Ted Williams,Boston,.516
+1954,American League,Player Review,RBI,Larry Doby,Cleveland,126
+1954,American League,Player Review,Runs,Mickey Mantle,New York,129
+1954,American League,Player Review,Slugging Average,Minnie Minoso,Chicago,.535
+1954,American League,Player Review,Stolen Bases,Jackie Jensen,Boston,22
+1954,American League,Player Review,Total Bases,Minnie Minoso,Chicago,304
+1954,American League,Player Review,Triples,Minnie Minoso,Chicago,18
+1954,American League,Pitcher Review,Complete Games,Bob Lemon,Cleveland,21
+1954,American League,Pitcher Review,ERA,Mike Garcia,Cleveland,2.64
+1954,American League,Pitcher Review,Games,Sonny Dixon,Washington,54
+1954,American League,Pitcher Review,Saves,Johnny Sain,New York,22
+1954,American League,Pitcher Review,Shutouts,Mike Garcia,Cleveland,5
+1954,American League,Pitcher Review,Strikeouts,Bob Turley,Baltimore,185
+1954,American League,Pitcher Review,Winning Percentage,Sandy Consuegra,Chicago,.842
+1954,American League,Pitcher Review,Wins,Bob Lemon,Cleveland,23
+1955,American League,Player Review,Base on Balls,Mickey Mantle,New York,113
+1955,American League,Player Review,Batting Average,Al Kaline,Detroit,.340
+1955,American League,Player Review,Doubles,Harvey Kuenn,Detroit,38
+1955,American League,Player Review,Hits,Al Kaline,Detroit,200
+1955,American League,Player Review,Home Runs,Mickey Mantle,New York,37
+1955,American League,Player Review,On Base Percentage,Mickey Mantle,New York,.433
+1955,American League,Player Review,RBI,Ray Boone,Detroit,116
+1955,American League,Player Review,Runs,Al Smith,Cleveland,123
+1955,American League,Player Review,Slugging Average,Mickey Mantle,New York,.611
+1955,American League,Player Review,Stolen Bases,Jim Rivera,Chicago,25
+1955,American League,Player Review,Total Bases,Al Kaline,Detroit,321
+1955,American League,Player Review,Triples,Mickey Mantle,New York,11
+1955,American League,Pitcher Review,Complete Games,Whitey Ford,New York,18
+1955,American League,Pitcher Review,ERA,Billy Pierce,Chicago,1.97
+1955,American League,Pitcher Review,Games,Ray Narleski,Cleveland,60
+1955,American League,Pitcher Review,Saves,Ray Narleski,Cleveland,19
+1955,American League,Pitcher Review,Shutouts,Billy Hoeft,Detroit,7
+1955,American League,Pitcher Review,Strikeouts,Herb Score,Cleveland,245
+1955,American League,Pitcher Review,Winning Percentage,Tommy Byrne,New York,.762
+1955,American League,Pitcher Review,Wins,Whitey Ford,New York,18
+1956,American League,Player Review,Base on Balls,Eddie Yost,Washington,151
+1956,American League,Player Review,Batting Average,Mickey Mantle,New York,.353
+1956,American League,Player Review,Doubles,Jim Piersall,Boston,40
+1956,American League,Player Review,Hits,Harvey Kuenn,Detroit,196
+1956,American League,Player Review,Home Runs,Mickey Mantle,New York,52
+1956,American League,Player Review,On Base Percentage,Ted Williams,Boston,.479
+1956,American League,Player Review,RBI,Mickey Mantle,New York,130
+1956,American League,Player Review,Runs,Mickey Mantle,New York,132
+1956,American League,Player Review,Slugging Average,Mickey Mantle,New York,.705
+1956,American League,Player Review,Stolen Bases,Luis Aparacio,Chicago,21
+1956,American League,Player Review,Total Bases,Mickey Mantle,New York,376
+1956,American League,Player Review,Triples,Jackie Jensen,Boston,11
+1956,American League,Pitcher Review,Complete Games,Bob Lemon,Cleveland,21
+1956,American League,Pitcher Review,ERA,Whitey Ford,New York,2.47
+1956,American League,Pitcher Review,Games,George Zuverink,Baltimore,62
+1956,American League,Pitcher Review,Saves,George Zuverink,Baltimore,16
+1956,American League,Pitcher Review,Shutouts,Herb Score,Cleveland,5
+1956,American League,Pitcher Review,Strikeouts,Herb Score,Cleveland,263
+1956,American League,Pitcher Review,Winning Percentage,Whitey Ford,New York,.760
+1956,American League,Pitcher Review,Wins,Frank Lary,Detroit,21
+1957,American League,Player Review,Base on Balls,Mickey Mantle,New York,146
+1957,American League,Player Review,Batting Average,Ted Williams,Boston,.388
+1957,American League,Player Review,Doubles,Billy Gardner,Baltimore,36
+1957,American League,Player Review,Hits,Nellie Fox,Chicago,196
+1957,American League,Player Review,Home Runs,Roy Sievers,Washington,42
+1957,American League,Player Review,On Base Percentage,Ted Williams,Boston,.528
+1957,American League,Player Review,RBI,Roy Sievers,Washington,114
+1957,American League,Player Review,Runs,Mickey Mantle,New York,121
+1957,American League,Player Review,Slugging Average,Ted Williams,Boston,.731
+1957,American League,Player Review,Stolen Bases,Luis Aparicio,Chicago,28
+1957,American League,Player Review,Total Bases,Roy Sievers,Washington,331
+1957,American League,Player Review,Triples,Hank Bauer,New York,9
+1957,American League,Pitcher Review,Complete Games,Dick Donovan,Chicago,16
+1957,American League,Pitcher Review,ERA,Bobby Shantz,New York,2.45
+1957,American League,Pitcher Review,Games,George Zuverink,Baltimore,56
+1957,American League,Pitcher Review,Saves,Bob Grim,New York,19
+1957,American League,Pitcher Review,Shutouts,Jim Wilson,Chicago,5
+1957,American League,Pitcher Review,Strikeouts,Early Wynn,Cleveland,184
+1957,American League,Pitcher Review,Winning Percentage,Dick Donovan,Chicago,.727
+1957,American League,Pitcher Review,Wins,Jim Bunning,Detroit,20
+1958,American League,Player Review,Base on Balls,Mickey Mantle,New York,129
+1958,American League,Player Review,Batting Average,Ted Williams,Boston,.328
+1958,American League,Player Review,Doubles,Harvey Kuenn,Detroit,39
+1958,American League,Player Review,Hits,Nellie Fox,Chicago,187
+1958,American League,Player Review,Home Runs,Mickey Mantle,New York,42
+1958,American League,Player Review,On Base Percentage,Ted Williams,Boston,.462
+1958,American League,Player Review,RBI,Jackie Jensen,Boston,122
+1958,American League,Player Review,Runs,Mickey Mantle,New York,127
+1958,American League,Player Review,Slugging Average,Rocky Colavito,Cleveland,.620
+1958,American League,Player Review,Stolen Bases,Luis Aparacio,Chicago,29
+1958,American League,Player Review,Total Bases,Mickey Mantle,New York,307
+1958,American League,Player Review,Triples,Vic Power,Kansas City,10
+1958,American League,Pitcher Review,Complete Games,Frank Lary,Detroit,19
+1958,American League,Pitcher Review,ERA,Whitey Ford,New York,2.01
+1958,American League,Pitcher Review,Games,Tex Clevenger,Washington,55
+1958,American League,Pitcher Review,Saves,Ryne Duren,New York,20
+1958,American League,Pitcher Review,Shutouts,Whitey Ford,New York,7
+1958,American League,Pitcher Review,Strikeouts,Early Wynn,Chicago,179
+1958,American League,Pitcher Review,Winning Percentage,Bob Turley,New York,.750
+1958,American League,Pitcher Review,Wins,Bob Turley,New York,21
+1959,American League,Player Review,Base on Balls,Eddie Yost,Detroit,135
+1959,American League,Player Review,Batting Average,Harvey Kuenn,Detroit,.353
+1959,American League,Player Review,Doubles,Harvey Kuenn,Detroit,42
+1959,American League,Player Review,Hits,Harvey Kuenn,Detroit,198
+1959,American League,Player Review,Home Runs,Rocky Colavito,Cleveland,42
+1959,American League,Player Review,On Base Percentage,Eddie Yost,Detroit,.437
+1959,American League,Player Review,RBI,Jackie Jensen,Boston,112
+1959,American League,Player Review,Runs,Eddie Yost,Detroit,115
+1959,American League,Player Review,Slugging Average,Al Kaline,Detroit,.530
+1959,American League,Player Review,Stolen Bases,Luis Aparacio,Chicago,56
+1959,American League,Player Review,Total Bases,Rocky Colavito,Cleveland,301
+1959,American League,Player Review,Triples,Bob Allison,Washington,9
+1959,American League,Pitcher Review,Complete Games,Camilo Pascual,Washington,17
+1959,American League,Pitcher Review,ERA,Hoyt Wilhelm,Baltimore,2.19
+1959,American League,Pitcher Review,Games,Gerry Staley,Chicago,67
+1959,American League,Pitcher Review,Saves,Turk Lown,Chicago,15
+1959,American League,Pitcher Review,Shutouts,Camilo Pascual,Washington,6
+1959,American League,Pitcher Review,Strikeouts,Jim Bunning,Detroit,201
+1959,American League,Pitcher Review,Winning Percentage,Bob Shaw,Chicago,.750
+1959,American League,Pitcher Review,Wins,Early Wynn,Chicago,22
+1960,American League,Player Review,Base on Balls,Eddie Yost,Detroit,125
+1960,American League,Player Review,Batting Average,Pete Runnels,Boston,.320
+1960,American League,Player Review,Doubles,Tito Francona,Cleveland,36
+1960,American League,Player Review,Hits,Minnie Minoso,Chicago,184
+1960,American League,Player Review,Home Runs,Mickey Mantle,New York,40
+1960,American League,Player Review,On Base Percentage,Eddie Yost,Detroit,.416
+1960,American League,Player Review,RBI,Roger Maris,New York,112
+1960,American League,Player Review,Runs,Mickey Mantle,New York,119
+1960,American League,Player Review,Slugging Average,Roger Maris,New York,.581
+1960,American League,Player Review,Stolen Bases,Luis Aparacio,Chicago,51
+1960,American League,Player Review,Total Bases,Mickey Mantle,New York,294
+1960,American League,Player Review,Triples,Nellie Fox,Chicago,10
+1960,American League,Pitcher Review,Complete Games,Frank Lary,Detroit,15
+1960,American League,Pitcher Review,ERA,Frank Baumann,Chicago,2.67
+1960,American League,Pitcher Review,Games,Mike Fornieles,Boston,70
+1960,American League,Pitcher Review,Saves,Johnny Klippstein,Cleveland,14
+1960,American League,Pitcher Review,Shutouts,Whitey Ford,New York,4
+1960,American League,Pitcher Review,Strikeouts,Jim Bunning,Detroit,201
+1960,American League,Pitcher Review,Winning Percentage,Jim Perry,Cleveland,.643
+1960,American League,Pitcher Review,Wins,Chuck Estrada,Baltimore,18
+1961,American League,Player Review,Base on Balls,Mickey Mantle,New York,126
+1961,American League,Player Review,Batting Average,Norm Cash,Detroit,.361
+1961,American League,Player Review,Doubles,Al Kaline,Detroit,41
+1961,American League,Player Review,Hits,Norm Cash,Detroit,193
+1961,American League,Player Review,Home Runs,Roger Maris,New York,61
+1961,American League,Player Review,On Base Percentage,Norm Cash,Detroit,.488
+1961,American League,Player Review,RBI,Jim Gentile,Baltimore,141
+1961,American League,Player Review,Runs,Roger Maris,New York,132
+1961,American League,Player Review,Slugging Average,Mickey Mantle,New York,.687
+1961,American League,Player Review,Stolen Bases,Luis Aparacio,Chicago,53
+1961,American League,Player Review,Total Bases,Roger Maris,New York,366
+1961,American League,Player Review,Triples,Jake Wood,Detroit,14
+1961,American League,Pitcher Review,Complete Games,Frank Lary,Detroit,22
+1961,American League,Pitcher Review,ERA,Dick Donovan,Washington,2.40
+1961,American League,Pitcher Review,Games,Luis Arroyo,New York,65
+1961,American League,Pitcher Review,Saves,Luis Arroyo,New York,29
+1961,American League,Pitcher Review,Shutouts,Steve Barber,Baltimore,8
+1961,American League,Pitcher Review,Strikeouts,Camilo Pascual,Minnesota,221
+1961,American League,Pitcher Review,Winning Percentage,Whitey Ford,New York,.862
+1961,American League,Pitcher Review,Wins,Whitey Ford,New York,25
+1962,American League,Player Review,Base on Balls,Mickey Mantle,New York,122
+1962,American League,Player Review,Batting Average,Pete Runnels,Boston,.326
+1962,American League,Player Review,Doubles,Floyd Robinson,Chicago,45
+1962,American League,Player Review,Hits,Bobby Richardson,New York,209
+1962,American League,Player Review,Home Runs,Harmon Killebrew,Minnesota,48
+1962,American League,Player Review,On Base Percentage,Mickey Mantle,New York,.488
+1962,American League,Player Review,RBI,Harmon Killebrew,MInnesota,126
+1962,American League,Player Review,Runs,Albie Pearson,Los Angeles,115
+1962,American League,Player Review,Slugging Average,Mickey Mantle,New York,.605
+1962,American League,Player Review,Stolen Bases,Luis Aparicio,Chicago,31
+1962,American League,Player Review,Total Bases,Rocky Colavito,Detroit,309
+1962,American League,Player Review,Triples,Gino Cimoli,Kansas City,15
+1962,American League,Pitcher Review,Complete Games,Camilo Pascual,Minnesota,18
+1962,American League,Pitcher Review,ERA,Hank Aguirre,Detroit,2.21
+1962,American League,Pitcher Review,Games,Dick Radatz,Boston,62
+1962,American League,Pitcher Review,Saves,Dick Radatz,Boston,24
+1962,American League,Pitcher Review,Shutouts,Dick Donovan,Cleveland,5
+1962,American League,Pitcher Review,Strikeouts,Camilo Pascual,Minnesota,206
+1962,American League,Pitcher Review,Winning Percentage,Ray Herbert,Chicago,.690
+1962,American League,Pitcher Review,Wins,Ralph Terry,New York,23
+1963,American League,Player Review,Base on Balls,Carl Yastrzemski,Boston,95
+1963,American League,Player Review,Batting Average,Carl Yastrzemski,Boston,.321
+1963,American League,Player Review,Doubles,Carl Yastrzemski,Boston,40
+1963,American League,Player Review,Hits,Carl Yastrzemski,Boston,183
+1963,American League,Player Review,Home Runs,Harmon Killebrew,Minnesota,45
+1963,American League,Player Review,On Base Percentage,Carl Yastrzemski,Boston,.419
+1963,American League,Player Review,RBI,Dick Stuart,Boston,118
+1963,American League,Player Review,Runs,Bob Allison,Minnesota,99
+1963,American League,Player Review,Slugging Average,Harmon Killebrew,Minnesota,.555
+1963,American League,Player Review,Stolen Bases,Luis Aparicio,Baltimore,40
+1963,American League,Player Review,Total Bases,Dick Stuart,Boston,319
+1963,American League,Player Review,Triples,Zoilo Versalles,Minnesota,13
+1963,American League,Pitcher Review,Complete Games,Camilo Pascual,Minnesota,18
+1963,American League,Pitcher Review,ERA,Gary Peters,Chicago,2.33
+1963,American League,Pitcher Review,Games,Stu Miller,Baltimore,71
+1963,American League,Pitcher Review,Saves,Stu Miller,Baltimore,27
+1963,American League,Pitcher Review,Shutouts,Ray Herbert,Chicago,7
+1963,American League,Pitcher Review,Strikeouts,Camilo Pascual,Minnesota,202
+1963,American League,Pitcher Review,Winning Percentage,Whitey Ford,New York,.774
+1963,American League,Pitcher Review,Wins,Whitey Ford,New York,24
+1964,American League,Player Review,Base on Balls,Norm Siebern,Baltimore,106
+1964,American League,Player Review,Batting Average,Tony Oliva,Minnesota,.323
+1964,American League,Player Review,Doubles,Tony Oliva,Minnesota,43
+1964,American League,Player Review,Hits,Tony Oliva,Minnesota,217
+1964,American League,Player Review,Home Runs,Harmon Killebrew,Minnesota,49
+1964,American League,Player Review,On Base Percentage,Mickey Mantle,New York,.426
+1964,American League,Player Review,RBI,Brooks Robinson,Baltimore,118
+1964,American League,Player Review,Runs,Tony Oliva,Minnesota,109
+1964,American League,Player Review,Slugging Average,Boog Powell,Baltimore,.606
+1964,American League,Player Review,Stolen Bases,Luis Aparicio,Baltimore,57
+1964,American League,Player Review,Total Bases,Tony Oliva,Minnesota,374
+1964,American League,Player Review,Triples,Rich Rollins,Minnesota,10
+1964,American League,Pitcher Review,Complete Games,Dean Chance,Los Angeles,19
+1964,American League,Pitcher Review,ERA,Dean Chance,Los Angeles,1.65
+1964,American League,Pitcher Review,Games,John Wyatt,Kansas City,81
+1964,American League,Pitcher Review,Saves,Dick Radatz,Boston,29
+1964,American League,Pitcher Review,Shutouts,Dean Chance,Los Angeles,11
+1964,American League,Pitcher Review,Strikeouts,Al Downing,New York,217
+1964,American League,Pitcher Review,Winning Percentage,Wally Bunker,Baltimore,.792
+1964,American League,Pitcher Review,Wins,Dean Chance,Los Angeles,20
+1965,American League,Player Review,Base on Balls,Rocky Colavito,Cleveland,93
+1965,American League,Player Review,Batting Average,Tony Oliva,Minnesota,.321
+1965,American League,Player Review,Doubles,Zoilo Versalles,Minnesota,45
+1965,American League,Player Review,Hits,Tony Oliva,Minnesota,185
+1965,American League,Player Review,Home Runs,Tony Conigliaro,Boston,32
+1965,American League,Player Review,On Base Percentage,Carl Yastrzemski,Boston,.398
+1965,American League,Player Review,RBI,Rocky Colavito,Cleveland,108
+1965,American League,Player Review,Runs,Zoilo Versalles,Minnesota,126
+1965,American League,Player Review,Slugging Average,Carl Yastrzemski,Boston,.536
+1965,American League,Player Review,Stolen Bases,Bert Campaneris,Kansas City,51
+1965,American League,Player Review,Total Bases,Zoilo Versalles,Minnesota,308
+1965,American League,Player Review,Triples,Bert Campaneris,Kansas City,12
+1965,American League,Pitcher Review,Complete Games,Mel Stottlemyre,New York,18
+1965,American League,Pitcher Review,ERA,Sam McDowell,Cleveland,2.18
+1965,American League,Pitcher Review,Games,Eddie Fisher,Chicago,82
+1965,American League,Pitcher Review,Saves,Ron Kline,Washington,29
+1965,American League,Pitcher Review,Shutouts,Mudcat Grant,Minnesota,6
+1965,American League,Pitcher Review,Strikeouts,Sam McDowell,Cleveland,325
+1965,American League,Pitcher Review,Winning Percentage,Mudcat Grant,Minnesota,.750
+1965,American League,Pitcher Review,Wins,Mudcat Grant,Minnesota,21
+1966,American League,Player Review,Base on Balls,Harmon Killebrew,Minnesota,103
+1966,American League,Player Review,Batting Average,Frank Robinson,Baltimore,.316
+1966,American League,Player Review,Doubles,Carl Yastrzemski,Boston,39
+1966,American League,Player Review,Hits,Tony Oliva,Minnesota,191
+1966,American League,Player Review,Home Runs,Frank Robinson,Baltimore,49
+1966,American League,Player Review,On Base Percentage,Frank Robinson,Baltimore,.415
+1966,American League,Player Review,RBI,Frank Robinson,Baltimore,122
+1966,American League,Player Review,Runs,Frank Robinson,Baltimore,122
+1966,American League,Player Review,Slugging Average,Frank Robinson,Baltimore,.637
+1966,American League,Player Review,Stolen Bases,Bert Campaneris,Kansas City,52
+1966,American League,Player Review,Total Bases,Frank Robinson,Baltimore,367
+1966,American League,Player Review,Triples,Bobby Knoop,California,11
+1966,American League,Pitcher Review,Complete Games,Jim Kaat,Minnesota,19
+1966,American League,Pitcher Review,ERA,Gary Peters,Chicago,1.98
+1966,American League,Pitcher Review,Games,Eddie Fisher,Baltimore,67
+1966,American League,Pitcher Review,Saves,Jack Aker,Kansas City,32
+1966,American League,Pitcher Review,Shutouts,Tommy John,Chicago,5
+1966,American League,Pitcher Review,Strikeouts,Sam McDowell,Cleveland,225
+1966,American League,Pitcher Review,Winning Percentage,Sonny Siebert,Cleveland,.667
+1966,American League,Pitcher Review,Wins,Jim Kaat,Minnesota,25
+1967,American League,Player Review,Base on Balls,Harmon Killebrew,Minnesota,131
+1967,American League,Player Review,Batting Average,Carl Yastrzemski,Boston,.326
+1967,American League,Player Review,Doubles,Tony Oliva,Minnesota,34
+1967,American League,Player Review,Hits,Carl Yastrzemski,Boston,189
+1967,American League,Player Review,Home Runs,Harmon Killebrew,Minnesota,44
+1967,American League,Player Review,On Base Percentage,Carl Yastrzemski,Boston,.421
+1967,American League,Player Review,RBI,Carl Yastrzemski,Boston,121
+1967,American League,Player Review,Runs,Carl Yastrzemski,Boston,112
+1967,American League,Player Review,Slugging Average,Carl Yastrzemski,Boston,.622
+1967,American League,Player Review,Stolen Bases,Bert Campaneris,Kansas City,55
+1967,American League,Player Review,Total Bases,Carl Yastrzemski,Boston,360
+1967,American League,Player Review,Triples,Paul Blair,Baltimore,12
+1967,American League,Pitcher Review,Complete Games,Dean Chance,Minnesota,18
+1967,American League,Pitcher Review,ERA,Joe Horlen,Chicago,2.06
+1967,American League,Pitcher Review,Games,Bob Locker,Chicago,77
+1967,American League,Pitcher Review,Saves,Minnie Rojas,California,27
+1967,American League,Pitcher Review,Shutouts,Steve Hargan,Cleveland,6
+1967,American League,Pitcher Review,Strikeouts,Jim Lonborg,Boston,246
+1967,American League,Pitcher Review,Winning Percentage,Joe Horlen,Chicago,.731
+1967,American League,Pitcher Review,Wins,Jim Lonborg,Boston,22
+1968,American League,Player Review,Base on Balls,Carl Yastrzemski,Boston,119
+1968,American League,Player Review,Batting Average,Carl Yastrzemski,Boston,.301
+1968,American League,Player Review,Doubles,Reggie Smith,Boston,37
+1968,American League,Player Review,Hits,Bert Campaneris,Oakland,177
+1968,American League,Player Review,Home Runs,Frank Howard,Washington,44
+1968,American League,Player Review,On Base Percentage,Carl Yastrzemski,Boston,.429
+1968,American League,Player Review,RBI,Ken Harrelson,Boston,109
+1968,American League,Player Review,Runs,Dick McAuliffe,Detroit,95
+1968,American League,Player Review,Slugging Average,Frank Howard,Washington,.552
+1968,American League,Player Review,Stolen Bases,Bert Campaneris,Oakland,62
+1968,American League,Player Review,Total Bases,Frank Howard,Washington,330
+1968,American League,Player Review,Triples,Jim Fregosi,California,13
+1968,American League,Pitcher Review,Complete Games,Denny McLain,Detroit,28
+1968,American League,Pitcher Review,ERA,Luis Tiant,Cleveland,1.60
+1968,American League,Pitcher Review,Games,Wilbur Wood,Chicago,88
+1968,American League,Pitcher Review,Saves,Al Worthington,Minnesota,18
+1968,American League,Pitcher Review,Shutouts,Luis Tiant,Cleveland,9
+1968,American League,Pitcher Review,Strikeouts,Sam McDowell,Cleveland,283
+1968,American League,Pitcher Review,Winning Percentage,Denny McLain,Detroit,.838
+1968,American League,Pitcher Review,Wins,Denny McLain,Detroit,31
+1969,American League,Player Review,Base on Balls,Harmon Killebrew,Minnesota,145
+1969,American League,Player Review,Batting Average,Rod Carew,Minnesota,.332
+1969,American League,Player Review,Doubles,Tony Oliva,Minnesota,39
+1969,American League,Player Review,Hits,Tony Oliva,Minnesota,197
+1969,American League,Player Review,Home Runs,Harmon Killebrew,Minnesota,49
+1969,American League,Player Review,On Base Percentage,Harmon Killebrew,Minnesota,.430
+1969,American League,Player Review,RBI,Harmon Killebrew,Minnesota,140
+1969,American League,Player Review,Runs,Reggie Jackson,Oakland,123
+1969,American League,Player Review,Slugging Average,Reggie Jackson,Oakland,.608
+1969,American League,Player Review,Stolen Bases,Tommy Harper,Seattle,73
+1969,American League,Player Review,Total Bases,Frank Howard,Washington,340
+1969,American League,Player Review,Triples,Del Unser,Washington,8
+1969,American League,Pitcher Review,Complete Games,Mel Stottlemyre,New York,24
+1969,American League,Pitcher Review,ERA,Dick Bosman,Washington,2.19
+1969,American League,Pitcher Review,Games,Wilbur Wood,Chicago,76
+1969,American League,Pitcher Review,Saves,Ron Perranoski,Minnesota,31
+1969,American League,Pitcher Review,Shutouts,Denny McLain,Detroit,9
+1969,American League,Pitcher Review,Strikeouts,Sam McDowell,Cleveland,279
+1969,American League,Pitcher Review,Winning Percentage,Jim Palmer,Baltimore,.800
+1969,American League,Pitcher Review,Wins,Denny McLain,Detroit,24
+1970,American League,Player Review,Base on Balls,Frank Howard,Washington,132
+1970,American League,Player Review,Batting Average,Alex Johnson,California,.329
+1970,American League,Player Review,Doubles,Tony Oliva,Minnesota,36
+1970,American League,Player Review,Hits,Tony Oliva,Minnesota,204
+1970,American League,Player Review,Home Runs,Frank Howard,Washington,44
+1970,American League,Player Review,On Base Percentage,Carl Yastrzemski,Boston,.453
+1970,American League,Player Review,RBI,Frank Howard,Washington,126
+1970,American League,Player Review,Runs,Carl Yastrzemski,Boston,125
+1970,American League,Player Review,Slugging Average,Carl Yastrzemski,Boston,.592
+1970,American League,Player Review,Stolen Bases,Bert Campaneris,Oakland,42
+1970,American League,Player Review,Total Bases,Carl Yastrzemski,Boston,335
+1970,American League,Player Review,Triples,Cesar Tovar,Minnesota,13
+1970,American League,Pitcher Review,Complete Games,Mike Cuellar,Baltimore,21
+1970,American League,Pitcher Review,ERA,Diego Segui,Oakland,2.56
+1970,American League,Pitcher Review,Games,Wilbur Wood,Chicago,77
+1970,American League,Pitcher Review,Saves,Ron Perranoski,Minnesota,34
+1970,American League,Pitcher Review,Shutouts,Chuck Dobson,Oakland,5
+1970,American League,Pitcher Review,Strikeouts,Sam McDowell,Cleveland,304
+1970,American League,Pitcher Review,Winning Percentage,Mike Cuellar,Baltimore,.750
+1970,American League,Pitcher Review,Wins,Mike Cuellar,Baltimore,24
+1971,American League,Player Review,Base on Balls,Harmon Killebrew,Minnesota,114
+1971,American League,Player Review,Batting Average,Tony Oliva,Minnesota,.337
+1971,American League,Player Review,Doubles,Reggie Smith,Boston,33
+1971,American League,Player Review,Hits,Cesar Tovar,Minnesota,204
+1971,American League,Player Review,Home Runs,Bill Melton,Chicago,33
+1971,American League,Player Review,On Base Percentage,Bobby Murcer,New York,.429
+1971,American League,Player Review,RBI,Harmon Killebrew,Minnesota,119
+1971,American League,Player Review,Runs,Don Buford,Baltimore,99
+1971,American League,Player Review,Slugging Average,Tony Oliva,Minnesota,.546
+1971,American League,Player Review,Stolen Bases,Amos Otis,Kansas City,52
+1971,American League,Player Review,Total Bases,Reggie Smith,Boston,302
+1971,American League,Player Review,Triples,Freddie Patek,Kansas City,11
+1971,American League,Pitcher Review,Complete Games,Mickey Lolich,Detroit,29
+1971,American League,Pitcher Review,ERA,Vida Blue,Oakland,1.82
+1971,American League,Pitcher Review,Games,Ken Sanders,Milwaukee,83
+1971,American League,Pitcher Review,Saves,Ken Sanders,Milwaukee,31
+1971,American League,Pitcher Review,Shutouts,Vida Blue,Oakland,8
+1971,American League,Pitcher Review,Strikeouts,Mickey Lolich,Detroit,308
+1971,American League,Pitcher Review,Winning Percentage,Dave McNally,Baltimore,.808
+1971,American League,Pitcher Review,Wins,Mickey Lolich,Detroit,25
+1972,American League,Player Review,Base on Balls,Dick Allen,Chicago,99
+1972,American League,Player Review,Batting Average,Rod Carew,Minnesota,.318
+1972,American League,Player Review,Doubles,Lou Piniella,Kansas City,33
+1972,American League,Player Review,Hits,Joe Rudi,Oakland,181
+1972,American League,Player Review,Home Runs,Dick Allen,Chicago,37
+1972,American League,Player Review,On Base Percentage,Dick Allen,Chicago,.422
+1972,American League,Player Review,RBI,Dick Allen,Chicago,113
+1972,American League,Player Review,Runs,Bobby Murcer,New York,102
+1972,American League,Player Review,Slugging Average,Dick Allen,Chicago,.603
+1972,American League,Player Review,Stolen Bases,Bert Campaneris,Oakland,52
+1972,American League,Player Review,Total Bases,Bobby Murcer,New York,314
+1972,American League,Player Review,Triples,Joe Rudi,Oakland,9
+1972,American League,Pitcher Review,Complete Games,Gaylord Perry,Cleveland,29
+1972,American League,Pitcher Review,ERA,Luis Tiant,Boston,1.91
+1972,American League,Pitcher Review,Games,Paul Lindblad,Texas,66
+1972,American League,Pitcher Review,Saves,Sparky Lyle,New York,35
+1972,American League,Pitcher Review,Shutouts,Nolan Ryan,California,9
+1972,American League,Pitcher Review,Strikeouts,Nolan Ryan,California,329
+1972,American League,Pitcher Review,Winning Percentage,Catfish Hunter,Oakland,.750
+1972,American League,Pitcher Review,Wins,Gaylord Perry,Cleveland,24
+1973,American League,Player Review,Base on Balls,John Mayberry,Kansas City,122
+1973,American League,Player Review,Batting Average,Rod Carew,Minnesota,.350
+1973,American League,Player Review,Doubles,Sal Bando,Oakland,32
+1973,American League,Player Review,Hits,Rod Carew,Minnesota,203
+1973,American League,Player Review,Home Runs,Reggie Jackson,Oakland,32
+1973,American League,Player Review,On Base Percentage,John Mayberry,Kansas City,.420
+1973,American League,Player Review,RBI,Reggie Jackson,Oakland,117
+1973,American League,Player Review,Runs,Reggie Jackson,Oakland,99
+1973,American League,Player Review,Slugging Average,Reggie Jackson,Oakland,.531
+1973,American League,Player Review,Stolen Bases,Tommy Harper,Boston,54
+1973,American League,Player Review,Total Bases,Sal Bando,Oakland,295
+1973,American League,Player Review,Triples,Al Bumbry,Baltimore,11
+1973,American League,Pitcher Review,Complete Games,Gaylord Perry,Cleveland,29
+1973,American League,Pitcher Review,ERA,Jim Palmer,Baltimore,2.40
+1973,American League,Pitcher Review,Games,John Hiller,Detroit,65
+1973,American League,Pitcher Review,Saves,John Hiller,Detroit,38
+1973,American League,Pitcher Review,Shutouts,Bert Blyleven,Minnesota,9
+1973,American League,Pitcher Review,Strikeouts,Nolan Ryan,California,383
+1973,American League,Pitcher Review,Winning Percentage,Catfish Hunter,Oakland,.808
+1973,American League,Pitcher Review,Wins,Wilbur Wood,Chicago,24
+1974,American League,Player Review,Base on Balls,Gene Tenace,Oakland,110
+1974,American League,Player Review,Batting Average,Rod Carew,Minnesota,.364
+1974,American League,Player Review,Doubles,Joe Rudi,Oakland,39
+1974,American League,Player Review,Hits,Rod Carew,Minnesota,218
+1974,American League,Player Review,Home Runs,Dick Allen,Chicago,32
+1974,American League,Player Review,On Base Percentage,Rod Carew,Minnesota,.435
+1974,American League,Player Review,RBI,Jeff Burroughs,Texas,118
+1974,American League,Player Review,Runs,Carl Yastrzemski,Boston,93
+1974,American League,Player Review,Slugging Average,Dick Allen,Chicago,.563
+1974,American League,Player Review,Stolen Bases,Billy North,Oakland,54
+1974,American League,Player Review,Total Bases,Joe Rudi,Oakland,287
+1974,American League,Player Review,Triples,Mickey Rivers,California,11
+1974,American League,Pitcher Review,Complete Games,Fergie Jenkins,Texas,29
+1974,American League,Pitcher Review,ERA,Catfish Hunter,Oakland,2.49
+1974,American League,Pitcher Review,Games,Rollie Fingers,Oakland,76
+1974,American League,Pitcher Review,Saves,Terry Forster,Chicago,24
+1974,American League,Pitcher Review,Shutouts,Luis Tiant,Boston,7
+1974,American League,Pitcher Review,Strikeouts,Nolan Ryan,California,367
+1974,American League,Pitcher Review,Winning Percentage,Mike Cuellar,Baltimore,.688
+1974,American League,Pitcher Review,Wins,Catfish Hunter,Oakland,25
+1975,American League,Player Review,Base on Balls,John Mayberry,Kansas City,119
+1975,American League,Player Review,Batting Average,Rod Carew,Minnesota,.359
+1975,American League,Player Review,Doubles,Fred Lynn,Boston,47
+1975,American League,Player Review,Hits,George Brett,Kansas City,195
+1975,American League,Player Review,Home Runs,Reggie Jackson,Oakland,36
+1975,American League,Player Review,On Base Percentage,Rod Carew,Minnesota,.428
+1975,American League,Player Review,RBI,George Scott,Milwaukee,109
+1975,American League,Player Review,Runs,Fred Lynn,Boston,103
+1975,American League,Player Review,Slugging Average,Fred Lynn,Boston,.566
+1975,American League,Player Review,Stolen Bases,Mickey Rivers,California,70
+1975,American League,Player Review,Total Bases,George Scott,Milwaukee,318
+1975,American League,Player Review,Triples,George Brett,Kansas City,13
+1975,American League,Pitcher Review,Complete Games,Catfish Hunter,New York,30
+1975,American League,Pitcher Review,ERA,Jim Palmer,Baltimore,2.09
+1975,American League,Pitcher Review,Games,Rollie Fingers,Oakland,75
+1975,American League,Pitcher Review,Saves,Rich Gossage,Chicago,26
+1975,American League,Pitcher Review,Shutouts,Jim Palmer,Baltimore,10
+1975,American League,Pitcher Review,Strikeouts,Frank Tanana,California,269
+1975,American League,Pitcher Review,Winning Percentage,Mike Torrez,Baltimore,.690
+1975,American League,Pitcher Review,Wins,Catfish Hunter,New York,23
+1976,American League,Player Review,Base on Balls,Mike Hargrove,Texas,97
+1976,American League,Player Review,Batting Average,George Brett,Kansas City,.333
+1976,American League,Player Review,Doubles,Amos Otis,Kansas City,40
+1976,American League,Player Review,Hits,George Brett,Kansas City,215
+1976,American League,Player Review,Home Runs,Graig Nettles,New York,32
+1976,American League,Player Review,On Base Percentage,Hal McRae,Kansas City,.412
+1976,American League,Player Review,RBI,Lee May,Baltimore,109
+1976,American League,Player Review,Runs,Roy White,New York,104
+1976,American League,Player Review,Slugging Average,Reggie Jackson,Baltimore,.502
+1976,American League,Player Review,Stolen Bases,Billy North,Oakland,75
+1976,American League,Player Review,Total Bases,George Brett,Kansas City,298
+1976,American League,Player Review,Triples,George Brett,Kansas City,14
+1976,American League,Pitcher Review,Complete Games,Mark Fidrych,Detroit,24
+1976,American League,Pitcher Review,ERA,Mark Fidrych,Detroit,2.34
+1976,American League,Pitcher Review,Games,Bill Campbell,Minnesota,78
+1976,American League,Pitcher Review,Saves,Sparky Lyle,New York,23
+1976,American League,Pitcher Review,Shutouts,Nolan Ryan,California,7
+1976,American League,Pitcher Review,Strikeouts,Nolan Ryan,California,327
+1976,American League,Pitcher Review,Winning Percentage,Bill Campbell,Minnesota,.773
+1976,American League,Pitcher Review,Wins,Jim Palmer,Baltimore,22
+1977,American League,Player Review,Base on Balls,Toby Harrah,Texas,109
+1977,American League,Player Review,Batting Average,Rod Carew,Minnesota,.388
+1977,American League,Player Review,Doubles,Hal McRae,Kansas City,54
+1977,American League,Player Review,Hits,Rod Carew,Minnesota,239
+1977,American League,Player Review,Home Runs,Jim Rice,Boston,39
+1977,American League,Player Review,On Base Percentage,Rod Carew,Minnesota,.452
+1977,American League,Player Review,RBI,Larry Hisle,Minnesota,119
+1977,American League,Player Review,Runs,Rod Carew,Minnesota,128
+1977,American League,Player Review,Slugging Average,Jim Rice,Boston,.593
+1977,American League,Player Review,Stolen Bases,Freddie Patek,Kansas City,53
+1977,American League,Player Review,Total Bases,Jim Rice,Boston,382
+1977,American League,Player Review,Triples,Rod Carew,Minnesota,16
+1977,American League,Pitcher Review,Complete Games,Jim Palmer,Baltimore,22
+1977,American League,Pitcher Review,ERA,Frank Tanana,California,2.54
+1977,American League,Pitcher Review,Games,Sparky Lyle,New York,72
+1977,American League,Pitcher Review,Saves,Bill Campbell,Boston,31
+1977,American League,Pitcher Review,Shutouts,Frank Tanana,California,7
+1977,American League,Pitcher Review,Strikeouts,Nolan Ryan,California,341
+1977,American League,Pitcher Review,Winning Percentage,Paul Splittorff,Kansas City,.727
+1977,American League,Pitcher Review,Wins,Dave Goltz,Minnesota,20
+1978,American League,Player Review,Base on Balls,Mike Hargrove,Texas,107
+1978,American League,Player Review,Batting Average,Rod Carew,Minnesota,.333
+1978,American League,Player Review,Doubles,George Brett,Kansas City,45
+1978,American League,Player Review,Hits,Jim Rice,Boston,213
+1978,American League,Player Review,Home Runs,Jim Rice,Boston,46
+1978,American League,Player Review,On Base Percentage,Rod Carew,Minnesota,.415
+1978,American League,Player Review,RBI,Jim Rice,Boston,139
+1978,American League,Player Review,Runs,Ron LeFlore,Detroit,126
+1978,American League,Player Review,Slugging Average,Jim Rice,Boston,.600
+1978,American League,Player Review,Stolen Bases,Ron LeFlore,Detroit,68
+1978,American League,Player Review,Total Bases,Jim Rice,Boston,406
+1978,American League,Player Review,Triples,Jim Rice,Boston,15
+1978,American League,Pitcher Review,Complete Games,Mike Caldwell,Milwaukee,23
+1978,American League,Pitcher Review,ERA,Ron Guidry,New York,1.74
+1978,American League,Pitcher Review,Games,Bob Lacey,Oakland,74
+1978,American League,Pitcher Review,Saves,Rich Gossage,New York,27
+1978,American League,Pitcher Review,Shutouts,Ron Guidry,New York,9
+1978,American League,Pitcher Review,Strikeouts,Nolan Ryan,California,260
+1978,American League,Pitcher Review,Winning Percentage,Ron Guidry,New York,.893
+1978,American League,Pitcher Review,Wins,Ron Guidry,New York,25
+1979,American League,Player Review,Base on Balls,Darrell Porter,Kansas City,121
+1979,American League,Player Review,Batting Average,Fred Lynn,Boston,.333
+1979,American League,Player Review,Doubles,Cecil Cooper,Milwaukee,44
+1979,American League,Player Review,Hits,George Brett,Kansas City,212
+1979,American League,Player Review,Home Runs,Gorman Thomas,Milwaukee,45
+1979,American League,Player Review,On Base Percentage,Darrell Porter,Kansas City,.429
+1979,American League,Player Review,RBI,Don Baylor,California,139
+1979,American League,Player Review,Runs,Don Baylor,California,120
+1979,American League,Player Review,Slugging Average,Fred Lynn,Boston,.637
+1979,American League,Player Review,Stolen Bases,Willie Wilson,Kansas City,83
+1979,American League,Player Review,Total Bases,Jim Rice,Boston,369
+1979,American League,Player Review,Triples,George Brett,Kansas City,20
+1979,American League,Pitcher Review,Complete Games,Dennis Martinez,Baltimore,18
+1979,American League,Pitcher Review,ERA,Ron Guidry,New York,2.78
+1979,American League,Pitcher Review,Games,Mike Marshall,Minnesota,90
+1979,American League,Pitcher Review,Saves,Mike Marshall,Minnesota,32
+1979,American League,Pitcher Review,Shutouts,Dennis Leonard,Kansas City,5
+1979,American League,Pitcher Review,Strikeouts,Nolan Ryan,California,223
+1979,American League,Pitcher Review,Winning Percentage,Mike Caldwell,Milwaukee,.727
+1979,American League,Pitcher Review,Wins,Mike Flanagan,Baltimore,23
+1980,American League,Player Review,Base on Balls,Willie Randolph,New York,119
+1980,American League,Player Review,Batting Average,George Brett,Kansas City,.390
+1980,American League,Player Review,Doubles,Robin Yount,Milwaukee,49
+1980,American League,Player Review,Hits,Willie Wilson,Kansas City,230
+1980,American League,Player Review,Home Runs,Ben Oglivie,Milwaukee,41
+1980,American League,Player Review,On Base Percentage,George Brett,Kansas City,.461
+1980,American League,Player Review,RBI,Cecil Cooper,Milwaukee,122
+1980,American League,Player Review,Runs,Willie Wilson,Kansas City,133
+1980,American League,Player Review,Slugging Average,George Brett,Kansas City,.664
+1980,American League,Player Review,Stolen Bases,Rickey Henderson,Oakland,100
+1980,American League,Player Review,Total Bases,Cecil Cooper,Milwaukee,335
+1980,American League,Player Review,Triples,Alfredo Griffin,Toronto,15
+1980,American League,Pitcher Review,Complete Games,Rick Langford,Oakland,28
+1980,American League,Pitcher Review,ERA,Rudy May,New York,2.46
+1980,American League,Pitcher Review,Games,Dan Quisenberry,Kansas City,75
+1980,American League,Pitcher Review,Saves,Rich Gossage,New York,33
+1980,American League,Pitcher Review,Shutouts,Tommy John,New York,6
+1980,American League,Pitcher Review,Strikeouts,Len Barker,Cleveland,187
+1980,American League,Pitcher Review,Winning Percentage,Steve Stone,Baltimore,.781
+1980,American League,Pitcher Review,Wins,Steve Stone,Baltimore,25
+1981,American League,Player Review,Base on Balls,Dwight Evans,Boston,85
+1981,American League,Player Review,Batting Average,Carney Lansford,Boston,.336
+1981,American League,Player Review,Doubles,Cecil Cooper,Milwaukee,35
+1981,American League,Player Review,Hits,Rickey Henderson,Oakland,135
+1981,American League,Player Review,Home Runs,Tony Armas,Oakland,22
+1981,American League,Player Review,On Base Percentage,Mike Hargrove,Cleveland,.432
+1981,American League,Player Review,RBI,Eddie Murray,Baltimore,78
+1981,American League,Player Review,Runs,Rickey Henderson,Oakland,89
+1981,American League,Player Review,Slugging Average,Bobby Grich,California,.543
+1981,American League,Player Review,Stolen Bases,Rickey Henderson,Oakland,56
+1981,American League,Player Review,Total Bases,Dwight Evans,Boston,215
+1981,American League,Player Review,Triples,John Castino,Minnesota,9
+1981,American League,Pitcher Review,Complete Games,Rick Langford,Oakland,18
+1981,American League,Pitcher Review,ERA,Steve McCatty,Oakland,2.33
+1981,American League,Pitcher Review,Games,Doug Corbett,Minnesota,54
+1981,American League,Pitcher Review,Saves,Rollie Fingers,Milwaukee,28
+1981,American League,Pitcher Review,Shutouts,Richard Dotson,Chicago,4
+1981,American League,Pitcher Review,Strikeouts,Len Barker,Cleveland,127
+1981,American League,Pitcher Review,Winning Percentage,Pete Vuckovich,Milwaukee,.778
+1981,American League,Pitcher Review,Wins,Dennis Martinez,Baltimore,14
+1982,American League,Player Review,Base on Balls,Rickey Henderson,Oakland,116
+1982,American League,Player Review,Batting Average,Willie Wilson,Kansas City,.332
+1982,American League,Player Review,Doubles,Hal McRae,Kansas City,46
+1982,American League,Player Review,Hits,Robin Yount,Milwaukee,210
+1982,American League,Player Review,Home Runs,Reggie Jackson,California,39
+1982,American League,Player Review,On Base Percentage,Dwight Evans,Boston,.403
+1982,American League,Player Review,RBI,Hal McRae,Kansas City,133
+1982,American League,Player Review,Runs,Paul Molitor,Milwaukee,136
+1982,American League,Player Review,Slugging Average,Robin Yount,Milwaukee,.578
+1982,American League,Player Review,Stolen Bases,Rickey Henderson,Oakland,130
+1982,American League,Player Review,Total Bases,Robin Yount,Milwaukee,367
+1982,American League,Player Review,Triples,Willie Wilson,Kansas City,15
+1982,American League,Pitcher Review,Complete Games,Dave Stieb,Toronto,19
+1982,American League,Pitcher Review,ERA,Rick Sutcliffe,Cleveland,2.96
+1982,American League,Pitcher Review,Games,Ed Vande Berg,Seattle,78
+1982,American League,Pitcher Review,Saves,Dan Quisenberry,Kansas City,35
+1982,American League,Pitcher Review,Shutouts,Dave Stieb,Toronto,5
+1982,American League,Pitcher Review,Strikeouts,Floyd Bannister,Seattle,209
+1982,American League,Pitcher Review,Winning Percentage,Pete Vuckovich,Milwaukee,.750
+1982,American League,Pitcher Review,Wins,La Marr Hoyt,Chicago,19
+1983,American League,Player Review,Base on Balls,Rickey Henderson,Oakland,103
+1983,American League,Player Review,Batting Average,Wade Boggs,Boston,.361
+1983,American League,Player Review,Doubles,"Cal Ripken, Jr.",Baltimore,47
+1983,American League,Player Review,Hits,"Cal Ripken, Jr.",Baltimore,211
+1983,American League,Player Review,Home Runs,Jim Rice,Boston,39
+1983,American League,Player Review,On Base Percentage,Wade Boggs,Boston,.449
+1983,American League,Player Review,RBI,Cecil Cooper,Milwaukee,126
+1983,American League,Player Review,Runs,"Cal Ripken, Jr.",Baltimore,121
+1983,American League,Player Review,Slugging Average,George Brett,Kansas City,.563
+1983,American League,Player Review,Stolen Bases,Rickey Henderson,Oakland,108
+1983,American League,Player Review,Total Bases,Jim Rice,Boston,344
+1983,American League,Player Review,Triples,Robin Yount,Milwaukee,10
+1983,American League,Pitcher Review,Complete Games,Ron Guidry,New York,21
+1983,American League,Pitcher Review,ERA,Rick Honeycutt,Texas,2.42
+1983,American League,Pitcher Review,Games,Dan Quisenberry,Kansas City,69
+1983,American League,Pitcher Review,Saves,Dan Quisenberry,Kansas City,45
+1983,American League,Pitcher Review,Shutouts,Mike Boddicker,Baltimore,5
+1983,American League,Pitcher Review,Strikeouts,Jack Morris,Detroit,232
+1983,American League,Pitcher Review,Winning Percentage,Richard Dotson,Chicago,.759
+1983,American League,Pitcher Review,Wins,La Marr Hoyt,Chicago,24
+1984,American League,Player Review,Base on Balls,Eddie Murray,Baltimore,107
+1984,American League,Player Review,Batting Average,Don Mattingly,New York,.343
+1984,American League,Player Review,Doubles,Don Mattingly,New York,44
+1984,American League,Player Review,Hits,Don Mattingly,New York,207
+1984,American League,Player Review,Home Runs,Tony Armas,Boston,43
+1984,American League,Player Review,On Base Percentage,Eddie Murray,Baltimore,.415
+1984,American League,Player Review,RBI,Tony Armas,Boston,123
+1984,American League,Player Review,Runs,Dwight Evans,Boston,121
+1984,American League,Player Review,Slugging Average,Harold Baines,Chicago,.541
+1984,American League,Player Review,Stolen Bases,Rickey Henderson,Oakland,66
+1984,American League,Player Review,Total Bases,Tony Armas,Boston,339
+1984,American League,Player Review,Triples,Dave Collins,Toronto,15
+1984,American League,Pitcher Review,Complete Games,Charlie Hough,Texas,17
+1984,American League,Pitcher Review,ERA,Mike Boddicker,Baltimore,2.79
+1984,American League,Pitcher Review,Games,Willie Hernandez,Detroit,80
+1984,American League,Pitcher Review,Saves,Dan Quisenberry,Kansas City,44
+1984,American League,Pitcher Review,Shutouts,Bob Ojeda,Boston,5
+1984,American League,Pitcher Review,Strikeouts,Mark Langston,Seattle,204
+1984,American League,Pitcher Review,Winning Percentage,Doyle Alexander,Toronto,.739
+1984,American League,Pitcher Review,Wins,Mike Boddicker,Baltimore,20
+1985,American League,Player Review,Base on Balls,Dwight Evans,Boston,114
+1985,American League,Player Review,Batting Average,Wade Boggs,Boston,.368
+1985,American League,Player Review,Doubles,Don Mattingly,New York,48
+1985,American League,Player Review,Hits,Wade Boggs,Boston,240
+1985,American League,Player Review,Home Runs,Darrell Evans,Detroit,40
+1985,American League,Player Review,On Base Percentage,Wade Boggs,Boston,.452
+1985,American League,Player Review,RBI,Don Mattingly,New York,145
+1985,American League,Player Review,Runs,Rickey Henderson,New York,146
+1985,American League,Player Review,Slugging Average,George Brett,Kansas City,.585
+1985,American League,Player Review,Stolen Bases,Rickey Henderson,New York,80
+1985,American League,Player Review,Total Bases,Don Mattingly,New York,370
+1985,American League,Player Review,Triples,Willie Wilson,Kansas City,21
+1985,American League,Pitcher Review,Complete Games,Bert Blyleven,Cleveland,24
+1985,American League,Pitcher Review,ERA,Dave Stieb,Toronto,2.48
+1985,American League,Pitcher Review,Games,Dan Quisenberry,Kansas City,84
+1985,American League,Pitcher Review,Saves,Dan Quisenberry,Kansas City,37
+1985,American League,Pitcher Review,Shutouts,Bert Blyleven,Cleveland,5
+1985,American League,Pitcher Review,Strikeouts,Bert Blyleven,Cleveland,206
+1985,American League,Pitcher Review,Winning Percentage,Ron Guidry,New York,.786
+1985,American League,Pitcher Review,Wins,Ron Guidry,New York,22
+1986,American League,Player Review,Base on Balls,Wade Boggs,Boston,106
+1986,American League,Player Review,Batting Average,Wade Boggs,Boston,.357
+1986,American League,Player Review,Doubles,Don Mattingly,New York,53
+1986,American League,Player Review,Hits,Don Mattingly,New York,238
+1986,American League,Player Review,Home Runs,Jesse Barfield,Toronto,40
+1986,American League,Player Review,On Base Percentage,Wade Boggs,Boston,.455
+1986,American League,Player Review,RBI,Joe Carter,Cleveland,121
+1986,American League,Player Review,Runs,Rickey Henderson,New York,130
+1986,American League,Player Review,Slugging Average,Don Mattingly,New York,.573
+1986,American League,Player Review,Stolen Bases,Rickey Henderson,New York,87
+1986,American League,Player Review,Total Bases,Don Mattingly,New York,388
+1986,American League,Player Review,Triples,Brett Butler,Cleveland,14
+1986,American League,Pitcher Review,Complete Games,Tom Candiotti,Cleveland,17
+1986,American League,Pitcher Review,ERA,Roger Clemens,Boston,2.48
+1986,American League,Pitcher Review,Games,Mitch Williams,Texas,80
+1986,American League,Pitcher Review,Saves,Dave Righetti,New York,46
+1986,American League,Pitcher Review,Shutouts,Jack Morris,Detroit,6
+1986,American League,Pitcher Review,Strikeouts,Mark Langston,Seattle,245
+1986,American League,Pitcher Review,Winning Percentage,Roger Clemens,Boston,.857
+1986,American League,Pitcher Review,Wins,Roger Clemens,Boston,24
+1987,American League,Player Review,Base on Balls,Dwight Evans,Boston,106
+1987,American League,Player Review,Batting Average,Wade Boggs,Boston,.363
+1987,American League,Player Review,Doubles,Paul Molitor,Milwaukee,41
+1987,American League,Player Review,Hits,Kirby Puckett,Minnesota,207
+1987,American League,Player Review,Home Runs,Mark McGwire,Oakland,49
+1987,American League,Player Review,On Base Percentage,Wade Boggs,Boston,.467
+1987,American League,Player Review,RBI,George Bell,Toronto,134
+1987,American League,Player Review,Runs,Paul Molitor,Milwaukee,114
+1987,American League,Player Review,Slugging Average,Mark McGwire,Oakland,.618
+1987,American League,Player Review,Stolen Bases,Harold Reynolds,Seattle,67
+1987,American League,Player Review,Total Bases,George Bell,Toronto,369
+1987,American League,Player Review,Triples,Willie Wilson,Kansas City,15
+1987,American League,Pitcher Review,Complete Games,Roger Clemens,Boston,18
+1987,American League,Pitcher Review,ERA,Jimmy Key,Toronto,2.76
+1987,American League,Pitcher Review,Games,Mark Eichhorn,Toronto,89
+1987,American League,Pitcher Review,Saves,Tom Henke,Toronto,34
+1987,American League,Pitcher Review,Shutouts,Roger Clemens,Boston,7
+1987,American League,Pitcher Review,Strikeouts,Mark Langston,Seattle,262
+1987,American League,Pitcher Review,Winning Percentage,Roger Clemens,Boston,.690
+1987,American League,Pitcher Review,Wins,Roger Clemens,Boston,20
+1988,American League,Player Review,Base on Balls,Wade Boggs,Boston,125
+1988,American League,Player Review,Batting Average,Wade Boggs,Boston,.366
+1988,American League,Player Review,Doubles,Wade Boggs,Boston,45
+1988,American League,Player Review,Hits,Kirby Puckett,Minnesota,234
+1988,American League,Player Review,Home Runs,Jose Canseco,Oakland,42
+1988,American League,Player Review,On Base Percentage,Wade Boggs,Boston,.480
+1988,American League,Player Review,RBI,Jose Canseco,Oakland,124
+1988,American League,Player Review,Runs,Wade Boggs,Boston,128
+1988,American League,Player Review,Slugging Average,Jose Canseco,Oakland,.569
+1988,American League,Player Review,Stolen Bases,Rickey Henderson,New York,93
+1988,American League,Player Review,Total Bases,Kirby Puckett,Minnesota,358
+1988,American League,Player Review,Triples,Harold Reynolds,Seattle,11
+1988,American League,Pitcher Review,Complete Games,Roger Clemens,Boston,14
+1988,American League,Pitcher Review,ERA,Allan Anderson,Minnesota,2.45
+1988,American League,Pitcher Review,Games,Chuck Crim,Milwaukee,70
+1988,American League,Pitcher Review,Saves,Dennis Eckersley,Oakland,45
+1988,American League,Pitcher Review,Shutouts,Roger Clemens,Boston,8
+1988,American League,Pitcher Review,Strikeouts,Roger Clemens,Boston,291
+1988,American League,Pitcher Review,Winning Percentage,Frank Viola,Minnesota,.774
+1988,American League,Pitcher Review,Wins,Frank Viola,Minnesota,24
+1989,American League,Player Review,Base on Balls,Rickey Henderson,New York,126
+1989,American League,Player Review,Batting Average,Kirby Puckett,Minnesota,.339
+1989,American League,Player Review,Doubles,Wade Boggs,Boston,51
+1989,American League,Player Review,Hits,Kirby Puckett,Minnesota,215
+1989,American League,Player Review,Home Runs,Fred McGriff,Toronto,36
+1989,American League,Player Review,On Base Percentage,Wade Boggs,Boston,.434
+1989,American League,Player Review,RBI,Ruben Sierra,Texas,119
+1989,American League,Player Review,Runs,Wade Boggs,Boston,113
+1989,American League,Player Review,Slugging Average,Ruben Sierra,Texas,.543
+1989,American League,Player Review,Stolen Bases,Rickey Henderson,New York,77
+1989,American League,Player Review,Total Bases,Ruben Sierra,Texas,344
+1989,American League,Player Review,Triples,Ruben Sierra,Texas,14
+1989,American League,Pitcher Review,Complete Games,Bret Saberhagen,Kansas City,12
+1989,American League,Pitcher Review,ERA,Bret Saberhagen,Kansas City,2.16
+1989,American League,Pitcher Review,Games,Chuck Crim,Milwaukee,76
+1989,American League,Pitcher Review,Saves,Jeff Russell,Texas,38
+1989,American League,Pitcher Review,Shutouts,Bert Blyleven,California,5
+1989,American League,Pitcher Review,Strikeouts,Nolan Ryan,Texas,301
+1989,American League,Pitcher Review,Winning Percentage,Bret Saberhagen,Kansas City,.793
+1989,American League,Pitcher Review,Wins,Bret Saberhagen,Kansas City,23
+1990,American League,Player Review,Base on Balls,Mark McGwire,Oakland,110
+1990,American League,Player Review,Batting Average,George Brett,Kansas City,.329
+1990,American League,Player Review,Doubles,George Brett,Kansas City,45
+1990,American League,Player Review,Hits,Rafael Palmeiro,Texas,191
+1990,American League,Player Review,Home Runs,Cecil Fielder,Detroit,51
+1990,American League,Player Review,On Base Percentage,Rickey Henderson,Oakland,.441
+1990,American League,Player Review,RBI,Cecil Fielder,Detroit,132
+1990,American League,Player Review,Runs,Rickey Henderson,Oakland,119
+1990,American League,Player Review,Slugging Average,Cecil Fielder,Detroit,.592
+1990,American League,Player Review,Stolen Bases,Rickey Henderson,Oakland,65
+1990,American League,Player Review,Total Bases,Cecil Fielder,Detroit,339
+1990,American League,Player Review,Triples,Tony Fernandez,Toronto,17
+1990,American League,Pitcher Review,Complete Games,Jack Morris,Detroit,11
+1990,American League,Pitcher Review,ERA,Roger Clemens,Boston,1.93
+1990,American League,Pitcher Review,Games,Bobby Thigpen,Chicago,77
+1990,American League,Pitcher Review,Saves,Bobby Thigpen,Chicago,57
+1990,American League,Pitcher Review,Shutouts,Roger Clemens,Boston,4
+1990,American League,Pitcher Review,Strikeouts,Nolan Ryan,Texas,269
+1990,American League,Pitcher Review,Winning Percentage,Bob Welch,Oakland,.818
+1990,American League,Pitcher Review,Wins,Bob Welch,Oakland,27
+1991,American League,Player Review,Base on Balls,Frank Thomas,Chicago,138
+1991,American League,Player Review,Batting Average,Julio Franco,Texas,.341
+1991,American League,Player Review,Doubles,Rafael Palmeiro,Texas,49
+1991,American League,Player Review,Hits,Paul Molitor,Milwaukee,216
+1991,American League,Player Review,Home Runs,Jose Canseco,Oakland,44
+1991,American League,Player Review,On Base Percentage,Frank Thomas,Chicago,.454
+1991,American League,Player Review,RBI,Cecil Fielder,Detroit,133
+1991,American League,Player Review,Runs,Paul Molitor,Milwaukee,133
+1991,American League,Player Review,Slugging Average,Danny Tartabull,Kansas City,.593
+1991,American League,Player Review,Stolen Bases,Rickey Henderson,Oakland,58
+1991,American League,Player Review,Total Bases,"Cal Ripken, Jr.",Baltimore,368
+1991,American League,Player Review,Triples,Lance Johnson,Chicago,12
+1991,American League,Pitcher Review,Complete Games,Jack McDowell,Chicago,15
+1991,American League,Pitcher Review,ERA,Roger Clemens,Boston,2.62
+1991,American League,Pitcher Review,Games,Duane Ward,Toronto,81
+1991,American League,Pitcher Review,Saves,Bryan Harvey,California,46
+1991,American League,Pitcher Review,Shutouts,Roger Clemens,Boston,4
+1991,American League,Pitcher Review,Strikeouts,Roger Clemens,Boston,241
+1991,American League,Pitcher Review,Winning Percentage,Scott Erickson,Minnesota,.714
+1991,American League,Pitcher Review,Wins,Scott Erickson,Minnesota,20
+1992,American League,Player Review,Base on Balls,Mickey Tettleton,Detroit,122
+1992,American League,Player Review,Batting Average,Edgar Martinez,Seattle,.343
+1992,American League,Player Review,Doubles,Edgar Martinez,Seattle,46
+1992,American League,Player Review,Hits,Kirby Puckett,Minnesota,210
+1992,American League,Player Review,Home Runs,Juan Gonzalez,Texas,43
+1992,American League,Player Review,On Base Percentage,Frank Thomas,Chicago,.446
+1992,American League,Player Review,RBI,Cecil Fielder,Detroit,124
+1992,American League,Player Review,Runs,Tony Phillips,Detroit,114
+1992,American League,Player Review,Slugging Average,Mark McGwire,Oakland,.585
+1992,American League,Player Review,Stolen Bases,Kenny Lofton,Cleveland,66
+1992,American League,Player Review,Total Bases,Kirby Puckett,Minnesota,313
+1992,American League,Player Review,Triples,Lance Johnson,Chicago,12
+1992,American League,Pitcher Review,Complete Games,Jack McDowell,Chicago,13
+1992,American League,Pitcher Review,ERA,Roger Clemens,Boston,2.41
+1992,American League,Pitcher Review,Games,Kenny Rogers,Texas,81
+1992,American League,Pitcher Review,Saves,Dennis Eckersley,Oakland,51
+1992,American League,Pitcher Review,Shutouts,Roger Clemens,Boston,5
+1992,American League,Pitcher Review,Strikeouts,Randy Johnson,Seattle,241
+1992,American League,Pitcher Review,Winning Percentage,Mike Mussina,Baltimore,.783
+1992,American League,Pitcher Review,Wins,Kevin Brown,Texas,21
+1993,American League,Player Review,Base on Balls,Tony Phillips,Detroit,132
+1993,American League,Player Review,Batting Average,John Olerud,Toronto,.363
+1993,American League,Player Review,Doubles,John Olerud,Toronto,54
+1993,American League,Player Review,Hits,Paul Molitor,Toronto,211
+1993,American League,Player Review,Home Runs,Juan Gonzalez,Texas,46
+1993,American League,Player Review,On Base Percentage,John Olerud,Toronto,.478
+1993,American League,Player Review,RBI,Albert Belle,Cleveland,129
+1993,American League,Player Review,Runs,Rafael Palmeiro,Texas,124
+1993,American League,Player Review,Slugging Average,Juan Gonzalez,Texas,.632
+1993,American League,Player Review,Stolen Bases,Kenny Lofton,Cleveland,70
+1993,American League,Player Review,Total Bases,"Ken Griffey, Jr.",Seattle,359
+1993,American League,Player Review,Triples,Lance Johnson,Chicago,14
+1993,American League,Pitcher Review,Complete Games,Chuck Finley,California,13
+1993,American League,Pitcher Review,ERA,Kevin Appier,Kansas City,2.56
+1993,American League,Pitcher Review,Games,Greg Harris,Boston,80
+1993,American League,Pitcher Review,Saves,Jeff Montgomery,Kansas City,45
+1993,American League,Pitcher Review,Shutouts,Jack McDowell,Chicago,4
+1993,American League,Pitcher Review,Strikeouts,Randy Johnson,Seattle,308
+1993,American League,Pitcher Review,Winning Percentage,Jimmy Key,New York,.750
+1993,American League,Pitcher Review,Wins,Jack McDowell,Chicago,22
+1994,American League,Player Review,Base on Balls,Frank Thomas,Chicago,109
+1994,American League,Player Review,Batting Average,Paul O'Neill,New York,.359
+1994,American League,Player Review,Doubles,Chuck Knoblauch,Minnesota,45
+1994,American League,Player Review,Hits,Kenny Lofton,Cleveland,160
+1994,American League,Player Review,Home Runs,"Ken Griffey, Jr.",Seattle,40
+1994,American League,Player Review,On Base Percentage,Frank Thomas,Chicago,.494
+1994,American League,Player Review,RBI,Kirby Puckett,Minnesota,112
+1994,American League,Player Review,Runs,Frank Thomas,Chicago,106
+1994,American League,Player Review,Slugging Average,Frank Thomas,Chicago,.729
+1994,American League,Player Review,Stolen Bases,Kenny Lofton,Cleveland,60
+1994,American League,Player Review,Total Bases,Albert Belle,Cleveland,294
+1994,American League,Player Review,Triples,Lance Johnson,Chicago,14
+1994,American League,Pitcher Review,Complete Games,Randy Johnson,Seattle,9
+1994,American League,Pitcher Review,ERA,Steve Ontiveros,Oakland,2.65
+1994,American League,Pitcher Review,Games,Bob Wickman,New York,53
+1994,American League,Pitcher Review,Saves,Lee Smith,Baltimore,33
+1994,American League,Pitcher Review,Shutouts,Randy Johnson,Seattle,4
+1994,American League,Pitcher Review,Strikeouts,Randy Johnson,Seattle,204
+1994,American League,Pitcher Review,Winning Percentage,Jason Bere,Chicago,.857
+1994,American League,Pitcher Review,Wins,Jimmy Key,New York,17
+1995,American League,Player Review,Base on Balls,Frank Thomas,Chicago,136
+1995,American League,Player Review,Batting Average,Edgar Martinez,Seattle,.356
+1995,American League,Player Review,Doubles,Albert Belle,Cleveland,52
+1995,American League,Player Review,Hits,Lance Johnson,Chicago,186
+1995,American League,Player Review,Home Runs,Albert Belle,Cleveland,50
+1995,American League,Player Review,On Base Percentage,Edgar Martinez,Seattle,.482
+1995,American League,Player Review,RBI,Albert Belle,Cleveland,126
+1995,American League,Player Review,Runs,Albert Belle,Cleveland,121
+1995,American League,Player Review,Slugging Average,Albert Belle,Cleveland,.690
+1995,American League,Player Review,Stolen Bases,Kenny Lofton,Cleveland,54
+1995,American League,Player Review,Total Bases,Albert Belle,Cleveland,377
+1995,American League,Player Review,Triples,Kenny Lofton,Cleveland,13
+1995,American League,Pitcher Review,Complete Games,Jack McDowell,New York,8
+1995,American League,Pitcher Review,ERA,Randy Johnson,Seattle,2.48
+1995,American League,Pitcher Review,Games,Jesse Orosco,Baltimore,65
+1995,American League,Pitcher Review,Saves,Jose Mesa,Cleveland,46
+1995,American League,Pitcher Review,Shutouts,Mike Mussina,Baltimore,4
+1995,American League,Pitcher Review,Strikeouts,Randy Johnson,Seattle,294
+1995,American League,Pitcher Review,Winning Percentage,Randy Johnson,Seattle,.900
+1995,American League,Pitcher Review,Wins,Mike Mussina,Baltimore,19
+1996,American League,Player Review,Base on Balls,Tony Phillips,Chicago,125
+1996,American League,Player Review,Batting Average,Alex Rodriguez,Seattle,.358
+1996,American League,Player Review,Doubles,Alex Rodriguez,Seattle,54
+1996,American League,Player Review,Hits,Paul Molitor,Minnesota,225
+1996,American League,Player Review,Home Runs,Mark McGwire,Oakland,52
+1996,American League,Player Review,On Base Percentage,Mark McGwire,Oakland,.468
+1996,American League,Player Review,RBI,Albert Belle,Cleveland,148
+1996,American League,Player Review,Runs,Alex Rodriguez,Seattle,141
+1996,American League,Player Review,Slugging Average,Mark McGwire,Oakland,.730
+1996,American League,Player Review,Stolen Bases,Kenny Lofton,Cleveland,75
+1996,American League,Player Review,Total Bases,Alex Rodriguez,Seattle,379
+1996,American League,Player Review,Triples,Chuck Knoblauch,Minnesota,14
+1996,American League,Pitcher Review,Complete Games,Pat Hentgen,Toronto,10
+1996,American League,Pitcher Review,ERA,Juan Guzman,Toronto,2.93
+1996,American League,Pitcher Review,Games,Eddie Guardado,Minnesota,83
+1996,American League,Pitcher Review,Saves,John Wetteland,New York,43
+1996,American League,Pitcher Review,Shutouts,Pat Hentgen,Toronto,3
+1996,American League,Pitcher Review,Strikeouts,Roger Clemens,Boston,257
+1996,American League,Pitcher Review,Winning Percentage,Charles Nagy,Cleveland,.773
+1996,American League,Pitcher Review,Wins,Andy Pettitte,New York,21
+1997,American League,Player Review,Base on Balls,Jim Thome,Cleveland,120
+1997,American League,Player Review,Batting Average,Frank Thomas,Chicago,.347
+1997,American League,Player Review,Doubles,John Valentin,Boston,47
+1997,American League,Player Review,Hits,Nomar Garciaparra,Boston,209
+1997,American League,Player Review,Home Runs,"Ken Griffey, Jr.",Seattle,56
+1997,American League,Player Review,On Base Percentage,Frank Thomas,Chicago,.461
+1997,American League,Player Review,RBI,"Ken Griffey, Jr.",Seattle,147
+1997,American League,Player Review,Runs,"Ken Griffey, Jr.",Seattle,125
+1997,American League,Player Review,Slugging Average,"Ken Griffey, Jr.",Seattle,.646
+1997,American League,Player Review,Stolen Bases,Brian Hunter,Detroit,74
+1997,American League,Player Review,Total Bases,"Ken Griffey, Jr.",Seattle,393
+1997,American League,Player Review,Triples,Nomar Garciaparra,Boston,11
+1997,American League,Pitcher Review,Complete Games,Roger Clemens,Toronto,9
+1997,American League,Pitcher Review,ERA,Roger Clemens,Toronto,2.05
+1997,American League,Pitcher Review,Games,Mike Myers,Detroit,88
+1997,American League,Pitcher Review,Saves,Randy Myers,Baltimore,45
+1997,American League,Pitcher Review,Shutouts,Roger Clemens,Toronto,3
+1997,American League,Pitcher Review,Strikeouts,Roger Clemens,Toronto,292
+1997,American League,Pitcher Review,Winning Percentage,Randy Johnson,Seattle,.833
+1997,American League,Pitcher Review,Wins,Roger Clemens,Toronto,21
+1998,American League,Player Review,Base on Balls,Rickey Henderson,Oakland,118
+1998,American League,Player Review,Batting Average,Bernie Williams,New York,.339
+1998,American League,Player Review,Doubles,Juan Gonzalez,Texas,50
+1998,American League,Player Review,Hits,Alex Rodriguez,Seattle,213
+1998,American League,Player Review,Home Runs,"Ken Griffey, Jr.",Seattle,56
+1998,American League,Player Review,On Base Percentage,Edgar Martinez,Seattle,.433
+1998,American League,Player Review,RBI,Juan Gonzalez,Texas,157
+1998,American League,Player Review,Runs,Derek Jeter,New York,127
+1998,American League,Player Review,Slugging Average,Albert Belle,Chicago,.655
+1998,American League,Player Review,Stolen Bases,Rickey Henderson,Oakland,66
+1998,American League,Player Review,Total Bases,Albert Belle,Chicago,399
+1998,American League,Player Review,Triples,Jose Offerman,Kansas City,13
+1998,American League,Pitcher Review,Complete Games,Scott Erickson,Baltimore,11
+1998,American League,Pitcher Review,ERA,Roger Clemens,Toronto,2.65
+1998,American League,Pitcher Review,Games,Sean Runyan,Detroit,88
+1998,American League,Pitcher Review,Saves,Tom Gordon,Boston,46
+1998,American League,Pitcher Review,Shutouts,David Wells,New York,5
+1998,American League,Pitcher Review,Strikeouts,Roger Clemens,Toronto,271
+1998,American League,Pitcher Review,Winning Percentage,David Wells,New York,.818
+1998,American League,Pitcher Review,Wins,Roger Clemens,Toronto,20
+1999,American League,Player Review,Base on Balls,Jim Thome,Cleveland,127
+1999,American League,Player Review,Batting Average,Nomar Garciaparra,Boston,.357
+1999,American League,Player Review,Doubles,Shawn Green,Toronto,45
+1999,American League,Player Review,Hits,Derek Jeter,New York,219
+1999,American League,Player Review,Home Runs,"Ken Griffey, Jr.",Seattle,48
+1999,American League,Player Review,On Base Percentage,Edgar Martinez,Seattle,.447
+1999,American League,Player Review,RBI,Manny Ramirez,Cleveland,165
+1999,American League,Player Review,Runs,Roberto Alomar,Cleveland,138
+1999,American League,Player Review,Slugging Average,Manny Ramirez,Cleveland,.663
+1999,American League,Player Review,Stolen Bases,Brian Hunter,Seattle,44
+1999,American League,Player Review,Total Bases,Shawn Green,Toronto,361
+1999,American League,Player Review,Triples,Jose Offerman,Boston,11
+1999,American League,Pitcher Review,Complete Games,David Wells,Toronto,7
+1999,American League,Pitcher Review,ERA,Pedro Martinez,Boston,2.07
+1999,American League,Pitcher Review,Games,Buddy Groom,Oakland,76
+1999,American League,Pitcher Review,Saves,Mariano Rivera,New York,45
+1999,American League,Pitcher Review,Shutouts,Scott Erickson,Baltimore,3
+1999,American League,Pitcher Review,Strikeouts,Pedro Martinez,Boston,313
+1999,American League,Pitcher Review,Winning Percentage,Pedro Martinez,Boston,.852
+1999,American League,Pitcher Review,Wins,Pedro Martinez,Boston,23
+2000,American League,Player Review,Base on Balls,Jason Giambi,Oakland,137
+2000,American League,Player Review,Batting Average,Nomar Garciaparra,Boston,.372
+2000,American League,Player Review,Doubles,Carlos Delgado,Toronto,57
+2000,American League,Player Review,Hits,Darin Erstad,Anaheim,240
+2000,American League,Player Review,Home Runs,Troy Glaus,Anaheim,47
+2000,American League,Player Review,On Base Percentage,Jason Giambi,Oakland,.476
+2000,American League,Player Review,RBI,Edgar Martinez,Seattle,145
+2000,American League,Player Review,Runs,Johnny Damon,Kansas City,136
+2000,American League,Player Review,Slugging Average,Manny Ramirez,Cleveland,.697
+2000,American League,Player Review,Stolen Bases,Johnny Damon,Kansas City,46
+2000,American League,Player Review,Total Bases,Carlos Delgado,Toronto,378
+2000,American League,Player Review,Triples,Cristian Guzman,Minnesota,20
+2000,American League,Pitcher Review,Complete Games,David Wells,Toronto,9
+2000,American League,Pitcher Review,ERA,Pedro Martinez,Boston,1.74
+2000,American League,Pitcher Review,Games,Kelly Wunsch,Chicago,83
+2000,American League,Pitcher Review,Saves,Todd Jones,Detroit,42
+2000,American League,Pitcher Review,Shutouts,Pedro Martinez,Boston,4
+2000,American League,Pitcher Review,Strikeouts,Pedro Martinez,Boston,284
+2000,American League,Pitcher Review,Winning Percentage,Tim Hudson,Oakland,.769
+2000,American League,Pitcher Review,Wins,Tim Hudson,Oakland,20
+2001,American League,Player Review,Base on Balls,Jason Giambi,Oakland,129
+2001,American League,Player Review,Batting Average,Ichiro Suzuki,Seattle,.350
+2001,American League,Player Review,Doubles,Jason Giambi,Oakland,47
+2001,American League,Player Review,Hits,Ichiro Suzuki,Seattle,242
+2001,American League,Player Review,Home Runs,Alex Rodriguez,Texas,52
+2001,American League,Player Review,On Base Percentage,Jason Giambi,Oakland,.477
+2001,American League,Player Review,RBI,Bret Boone,Seattle,141
+2001,American League,Player Review,Runs,Alex Rodriguez,Texas,133
+2001,American League,Player Review,Slugging Average,Jason Giambi,Oakland,.660
+2001,American League,Player Review,Stolen Bases,Ichiro Suzuki,Seattle,56
+2001,American League,Player Review,Total Bases,Alex Rodriguez,Texas,393
+2001,American League,Player Review,Triples,Cristian Guzman,Minnesota,14
+2001,American League,Pitcher Review,Complete Games,Steve Sparks,Detroit,8
+2001,American League,Pitcher Review,ERA,Freddy Garcia,Seattle,3.05
+2001,American League,Pitcher Review,Games,Paul Quantrill,Toronto,80
+2001,American League,Pitcher Review,Saves,Mariano Rivera,New York,50
+2001,American League,Pitcher Review,Shutouts,Mark Mulder,Oakland,4
+2001,American League,Pitcher Review,Strikeouts,Hideo Nomo,Boston,220
+2001,American League,Pitcher Review,Winning Percentage,Roger Clemens,New York,.870
+2001,American League,Pitcher Review,Wins,Mark Mulder,Oakland,21
+2002,American League,Player Review,Base on Balls,Jim Thome,Cleveland,122
+2002,American League,Player Review,Batting Average,Manny Ramirez,Boston,.349
+2002,American League,Player Review,Doubles,Garret Anderson,Anaheim,56
+2002,American League,Player Review,Hits,Alfonso Soriano,New York,209
+2002,American League,Player Review,Home Runs,Alex Rodriguez,Texas,57
+2002,American League,Player Review,On Base Percentage,Manny Ramirez,Boston,.450
+2002,American League,Player Review,RBI,Alex Rodriguez,Texas,142
+2002,American League,Player Review,Runs,Alfonso Soriano,New York,128
+2002,American League,Player Review,Slugging Average,Jim Thome,Cleveland,.677
+2002,American League,Player Review,Stolen Bases,Alfonso Soriano,New York,41
+2002,American League,Player Review,Total Bases,Alex Rodriguez,Texas,389
+2002,American League,Player Review,Triples,Johnny Damon,Boston,11
+2002,American League,Pitcher Review,Complete Games,Paul Byrd,Kansas City,7
+2002,American League,Pitcher Review,ERA,Pedro Martinez,Boston,2.26
+2002,American League,Pitcher Review,Games,Billy Koch,Oakland,84
+2002,American League,Pitcher Review,Saves,Eddie Guardado,Minnesota,45
+2002,American League,Pitcher Review,Shutouts,Jeff Weaver,New York,3
+2002,American League,Pitcher Review,Strikeouts,Pedro Martinez,Boston,239
+2002,American League,Pitcher Review,Winning Percentage,Pedro Martinez,Boston,.833
+2002,American League,Pitcher Review,Wins,Barry Zito,Oakland,23
+2003,American League,Player Review,Base on Balls,Jason Giambi,New York,129
+2003,American League,Player Review,Batting Average,Bill Mueller,Boston,.326
+2003,American League,Player Review,Doubles,Garret Anderson,Anaheim,49
+2003,American League,Player Review,Hits,Vernon Wells,Toronto,215
+2003,American League,Player Review,Home Runs,Alex Rodriguez,Texas,47
+2003,American League,Player Review,On Base Percentage,Manny Ramirez,Boston,.427
+2003,American League,Player Review,RBI,Carlos Delgado,Toronto,145
+2003,American League,Player Review,Runs,Alex Rodriguez,Texas,124
+2003,American League,Player Review,Slugging Average,Alex Rodriguez,Texas,.600
+2003,American League,Player Review,Stolen Bases,Carl Crawford,Tampa Bay,55
+2003,American League,Player Review,Total Bases,Vernon Wells,Toronto,373
+2003,American League,Player Review,Triples,Cristian Guzman,Minnesota,14
+2003,American League,Pitcher Review,Complete Games,Bartolo Colon,Chicago,9
+2003,American League,Pitcher Review,ERA,Pedro Martinez,Boston,2.22
+2003,American League,Pitcher Review,Games,Trever Miller,Toronto,79
+2003,American League,Pitcher Review,Saves,Keith Foulke,Oakland,43
+2003,American League,Pitcher Review,Shutouts,Roy Halladay,Toronto,2
+2003,American League,Pitcher Review,Strikeouts,Esteban Loaiza,Chicago,207
+2003,American League,Pitcher Review,Winning Percentage,Roy Halladay,Toronto,.759
+2003,American League,Pitcher Review,Wins,Roy Halladay,Toronto,22
+2004,American League,Player Review,Base on Balls,Eric Chavez,Oakland,95
+2004,American League,Player Review,Batting Average,Ichiro Suzuki,Seattle,.372
+2004,American League,Player Review,Doubles,Brian Roberts,Baltimore,50
+2004,American League,Player Review,Hits,Ichiro Suzuki,Seattle,262
+2004,American League,Player Review,Home Runs,Manny Ramirez,Boston,43
+2004,American League,Player Review,On Base Percentage,Melvin Mora,Baltimore,.419
+2004,American League,Player Review,RBI,Miguel Tejada,Baltimore,150
+2004,American League,Player Review,Runs,Vladimir Guerrero,Anaheim,124
+2004,American League,Player Review,Slugging Average,Manny Ramirez,Boston,.613
+2004,American League,Player Review,Stolen Bases,Carl Crawford,Tampa Bay,59
+2004,American League,Player Review,Total Bases,Vladimir Guerrero,Anaheim,366
+2004,American League,Player Review,Triples,Carl Crawford,Tampa Bay,19
+2004,American League,Pitcher Review,Complete Games,Mark Mulder,Oakland,5
+2004,American League,Pitcher Review,ERA,Johan Santana,Minnesota,2.61
+2004,American League,Pitcher Review,Games,Paul Quantrill,New York,86
+2004,American League,Pitcher Review,Saves,Mariano Rivera,New York,53
+2004,American League,Pitcher Review,Shutouts,Jeremy Bonderman,Detroit,2
+2004,American League,Pitcher Review,Strikeouts,Johan Santana,Minnesota,265
+2004,American League,Pitcher Review,Winning Percentage,Curt Schilling,Boston,.778
+2004,American League,Pitcher Review,Wins,Curt Schilling,Boston,21
+2005,American League,Player Review,Base on Balls,Jason Giambi,New York,108
+2005,American League,Player Review,Batting Average,Michael Young,Texas,.331
+2005,American League,Player Review,Doubles,Miguel Tejada,Baltimore,50
+2005,American League,Player Review,Hits,Michael Young,Texas,221
+2005,American League,Player Review,Home Runs,Alex Rodriguez,New York,48
+2005,American League,Player Review,On Base Percentage,Jason Giambi,New York,.440
+2005,American League,Player Review,RBI,David Ortiz,Boston,148
+2005,American League,Player Review,Runs,Alex Rodriguez,New York,124
+2005,American League,Player Review,Slugging Average,Alex Rodriguez,New York,.610
+2005,American League,Player Review,Stolen Bases,Chone Figgins,Los Angeles,62
+2005,American League,Player Review,Total Bases,Mark Teixeira,Texas,370
+2005,American League,Player Review,Triples,Carl Crawford,Tampa Bay,15
+2005,American League,Pitcher Review,Complete Games,Roy Halladay,Toronto,5
+2005,American League,Pitcher Review,ERA,Kevin Millwood,Cleveland,2.86
+2005,American League,Pitcher Review,Games,Mike Timlin,Boston,81
+2005,American League,Pitcher Review,Saves,Francisco Rodriguez,Los Angeles,45
+2005,American League,Pitcher Review,Shutouts,Jon Garland,Chicago,3
+2005,American League,Pitcher Review,Strikeouts,Johan Santana,Minnesota,238
+2005,American League,Pitcher Review,Winning Percentage,Cliff Lee,Cleveland,.783
+2005,American League,Pitcher Review,Wins,Bartolo Colon,Los Angeles,21
+2006,American League,Player Review,Base on Balls,David Ortiz,Boston,119
+2006,American League,Player Review,Batting Average,Joe Mauer,Minnesota,.347
+2006,American League,Player Review,Doubles,Grady Sizemore,Cleveland,53
+2006,American League,Player Review,Hits,Ichiro Suzuki,Seattle,224
+2006,American League,Player Review,Home Runs,David Ortiz,Boston,54
+2006,American League,Player Review,On Base Percentage,Manny Ramirez,Boston,.439
+2006,American League,Player Review,RBI,David Ortiz,Boston,137
+2006,American League,Player Review,Runs,Grady Sizemore,Cleveland,134
+2006,American League,Player Review,Slugging Average,Travis Hafner,Cleveland,.659
+2006,American League,Player Review,Stolen Bases,Carl Crawford,Tampa Bay,58
+2006,American League,Player Review,Total Bases,David Ortiz,Boston,355
+2006,American League,Player Review,Triples,Carl Crawford,Tampa Bay,16
+2006,American League,Pitcher Review,Complete Games,CC Sabathia,Cleveland,6
+2006,American League,Pitcher Review,ERA,Johan Santana,Minnesota,2.77
+2006,American League,Pitcher Review,Games,Scott Proctor,New York,83
+2006,American League,Pitcher Review,Saves,Francisco Rodriguez,Los Angeles,47
+2006,American League,Pitcher Review,Shutouts,John Lackey,Los Angeles,2
+2006,American League,Pitcher Review,Strikeouts,Johan Santana,Minnesota,245
+2006,American League,Pitcher Review,Winning Percentage,Roy Halladay,Toronto,.762
+2006,American League,Pitcher Review,Wins,Johan Santana,Minnesota,19
+2007,American League,Player Review,Base on Balls,David Ortiz,Boston,111
+2007,American League,Player Review,Batting Average,Magglio Ordonez,Detroit,.363
+2007,American League,Player Review,Doubles,Magglio Ordonez,Detroit,54
+2007,American League,Player Review,Hits,Ichiro Suzuki,Seattle,238
+2007,American League,Player Review,Home Runs,Alex Rodriguez,New York,54
+2007,American League,Player Review,On Base Percentage,David Ortiz,Boston,.445
+2007,American League,Player Review,RBI,Alex Rodriguez,New York,156
+2007,American League,Player Review,Runs,Alex Rodriguez,New York,143
+2007,American League,Player Review,Slugging Average,Alex Rodriguez,New York,.645
+2007,American League,Player Review,Stolen Bases,Carl Crawford,Tampa Bay,50
+2007,American League,Player Review,Total Bases,Alex Rodriguez,New York,376
+2007,American League,Player Review,Triples,Curtis Granderson,Detroit,23
+2007,American League,Pitcher Review,Complete Games,Roy Halladay,Toronto,7
+2007,American League,Pitcher Review,ERA,John Lackey,Los Angeles,3.01
+2007,American League,Pitcher Review,Games,Jamie Walker,Baltimore,81
+2007,American League,Pitcher Review,Saves,Joe Borowski,Cleveland,45
+2007,American League,Pitcher Review,Shutouts,Paul Byrd,Cleveland,2
+2007,American League,Pitcher Review,Strikeouts,Scott Kazmir,Tampa Bay,239
+2007,American League,Pitcher Review,Winning Percentage,Justin Verlander,Detroit,.762
+2007,American League,Pitcher Review,Wins,Josh Beckett,Boston,20
+2008,American League,Player Review,Base on Balls,Jack Cust,Oakland,111
+2008,American League,Player Review,Batting Average,Joe Mauer,Minnesota,.330
+2008,American League,Player Review,Doubles,Dustin Pedroia,Boston,54
+2008,American League,Player Review,Hits,Dustin Pedroia,Boston,213
+2008,American League,Player Review,Home Runs,Miguel Cabrera,Detroit,37
+2008,American League,Player Review,On Base Percentage,Milton Bradley,Texas,.436
+2008,American League,Player Review,RBI,Josh Hamilton,Texas,130
+2008,American League,Player Review,Runs,Dustin Pedroia,Boston,118
+2008,American League,Player Review,Slugging Average,Alex Rodriguez,New York,.573
+2008,American League,Player Review,Stolen Bases,Jacoby Ellsbury,Boston,50
+2008,American League,Player Review,Total Bases,Josh Hamilton,Texas,331
+2008,American League,Player Review,Triples,Curtis Granderson,Detroit,13
+2008,American League,Player Review,Complete Games,Roy Halladay,Toronto,9
+2008,American League,Player Review,ERA,Cliff Lee,Cleveland,2.54
+2008,American League,Player Review,Games,Matt Guerrier,Minnesota,76
+2008,American League,Player Review,Saves,Francisco Rodriguez,Los Angeles,62
+2008,American League,Player Review,Shutouts,Matt Garza,Tampa Bay,2
+2008,American League,Player Review,Strikeouts,A.J. Burnett,Toronto,231
+2008,American League,Player Review,Winning Percentage,Cliff Lee,Cleveland,.880
+2008,American League,Player Review,Wins,Cliff Lee,Cleveland,22
+2009,American League,Player Review,Base on Balls,Chone Figgins,Los Angeles,101
+2009,American League,Player Review,Batting Average,Joe Mauer,Minnesota,.365
+2009,American League,Player Review,Doubles,Brian Roberts,Baltimore,56
+2009,American League,Player Review,Hits,Ichiro Suzuki,Seattle,225
+2009,American League,Player Review,Home Runs,Carlos Pena,Tampa Bay,39
+2009,American League,Player Review,On Base Percentage,Joe Mauer,Minnesota,.444
+2009,American League,Player Review,RBI,Mark Teixeira,New York,122
+2009,American League,Player Review,Runs,DustinPedroia,Boston,115
+2009,American League,Player Review,Slugging Average,Joe Mauer,Minnesota,.587
+2009,American League,Player Review,Stolen Bases,Jacoby Ellsbury,Boston,70
+2009,American League,Player Review,Total Bases,Mark Teixeira,New York,344
+2009,American League,Player Review,Triples,Jacoby Ellsbury,Boston,10
+2009,American League,Pitcher Review,Complete Games,Roy Halladay,Toronto,9
+2009,American League,Pitcher Review,ERA,Zack Greinke,Kansas City,2.16
+2009,American League,Pitcher Review,Games,Matt Guerrier,Minnesota,79
+2009,American League,Pitcher Review,Saves,Brian Fuentes,Los Angeles,48
+2009,American League,Pitcher Review,Shutouts,Roy Halladay,Toronto,4
+2009,American League,Pitcher Review,Strikeouts,Justin Verlander,Detroit,269
+2009,American League,Pitcher Review,Winning Percentage,Felix Hernandez,Seattle,.792
+2009,American League,Pitcher Review,Wins,Felix Hernandez,Seattle,19
+2010,American League,Player Review,Base on Balls,Daric Barton,Oakland,110
+2010,American League,Player Review,Batting Average,Josh Hamilton,Texas,.359
+2010,American League,Player Review,Doubles,Adrian Beltre,Boston,49
+2010,American League,Player Review,Hits,Ichiro Suzuki,Seattle,214
+2010,American League,Player Review,Home Runs,Jose Bautista,Toronto,54
+2010,American League,Player Review,On Base Percentage,Miguel Cabrera,Detroit,.420
+2010,American League,Player Review,RBI,Miguel Cabrera,Detroit,126
+2010,American League,Player Review,Runs,Mark Teixeira,New York,113
+2010,American League,Player Review,Slugging Average,Josh Hamilton,Texas,.633
+2010,American League,Player Review,Stolen Bases,Juan Pierre,Chicago,68
+2010,American League,Player Review,Total Bases,Jose Bautista,Toronto,351
+2010,American League,Player Review,Triples,Carl Crawford,Tampa Bay,13
+2010,American League,Pitcher Review,Complete Games,Cliff Lee,Seattle / Texas,7
+2010,American League,Pitcher Review,ERA,Felix Hernandez,Seattle,2.27
+2010,American League,Pitcher Review,Games,Randy Choate,Tampa Bay,85
+2010,American League,Pitcher Review,Saves,Rafael Soriano,Tampa Bay,45
+2010,American League,Pitcher Review,Shutouts,Dallas Braden,Oakland,2
+2010,American League,Pitcher Review,Strikeouts,Jered Weaver,Los Angeles,233
+2010,American League,Pitcher Review,Winning Percentage,Tommy Hunter,Texas,.765
+2010,American League,Pitcher Review,Wins,C.C. Sabathia,New York,21
+2011,American League,Player Review,Base on Balls,Jose Bautista,Toronto,132
+2011,American League,Player Review,Batting Average,Miguel Cabrera,Detroit,.344
+2011,American League,Player Review,Doubles,Miguel Cabrera,Detroit,48
+2011,American League,Player Review,Hits,Adrian Gonzalez,Boston,213
+2011,American League,Player Review,Home Runs,Jose Bautista,Toronto,43
+2011,American League,Player Review,On Base Percentage,Miguel Cabrera,Detroit,.448
+2011,American League,Player Review,RBI,Curtis Granderson,New York,119
+2011,American League,Player Review,Runs,Curtis Granderson,New York,136
+2011,American League,Player Review,Slugging Average,Jose Bautista,Toronto,.608
+2011,American League,Player Review,Stolen Bases,Coco Crisp,Oakland,49
+2011,American League,Player Review,Total Bases,Jacoby Ellsbury,Boston,364
+2011,American League,Player Review,Triples,Peter Bourjos,Los Angeles,11
+2011,American League,Pitcher Review,Complete Games,James Shields,Tampa Bay,11
+2011,American League,Pitcher Review,ERA,Justin Verlander,Detroit,2.40
+2011,American League,Pitcher Review,Games,Jose Valverde,Detroit,75
+2011,American League,Pitcher Review,Saves,Jose Valverde,Detroit,49
+2011,American League,Pitcher Review,Shutouts,Derek Holland,Texas,4
+2011,American League,Pitcher Review,Strikeouts,Justin Verlander,Detroit,250
+2011,American League,Pitcher Review,Winning Percentage,Justin Verlander,Detroit,.828
+2011,American League,Pitcher Review,Wins,Justin Verlander,Detroit,24
+2012,American League,Player Review,Base on Balls,Adam Dunn,Chicago,105
+2012,American League,Player Review,Batting Average,Miguel Cabrera,Detroit,.330
+2012,American League,Player Review,Doubles,Alex Gordon,Kansas City,51
+2012,American League,Player Review,Hits,Derek Jeter,New York,216
+2012,American League,Player Review,Home Runs,Miguel Cabrera,Detroit,44
+2012,American League,Player Review,On Base Percentage,Joe Mauer,Minnesota,.416
+2012,American League,Player Review,RBI,Miguel Cabrera,Detroit,139
+2012,American League,Player Review,Runs,Mike Trout,Los Angeles,129
+2012,American League,Player Review,Slugging Average,Miguel Cabrera,Detroit,.606
+2012,American League,Player Review,Stolen Bases,Mike Trout,Los Angeles,49
+2012,American League,Player Review,Total Bases,Miguel Cabrera,Detroit,377
+2012,American League,Player Review,Triples,Austin Jackson,Detroit,10
+2012,American League,Pitcher Review,Complete Games,Justin Verlander,Detroit,6
+2012,American League,Pitcher Review,ERA,David Price,Tampa Bay,2.56
+2012,American League,Pitcher Review,Games,Boone Logan,New York,80
+2012,American League,Pitcher Review,Saves,Jim Johnson,Baltimore,51
+2012,American League,Pitcher Review,Shutouts,Felix Hernandez,Seattle,5
+2012,American League,Pitcher Review,Strikeouts,Justin Verlander,Detroit,239
+2012,American League,Pitcher Review,Winning Percentage,David Price,Tampa Bay,.800
+2012,American League,Pitcher Review,Wins,David Price,Tampa Bay,20
+2013,American League,Player Review,Base on Balls,Mike Trout,Los Angeles,110
+2013,American League,Player Review,Batting Average,Miguel Cabrera,Detroit,.348
+2013,American League,Player Review,Doubles,Manny Machado,Baltimore,51
+2013,American League,Player Review,Hits,Adrian Beltre,Texas,199
+2013,American League,Player Review,Home Runs,Chris Davis,Baltimore,53
+2013,American League,Player Review,On Base Percentage,Miguel Cabrera,Detroit,.442
+2013,American League,Player Review,RBI,Chris Davis,Baltimore,138
+2013,American League,Player Review,Runs,Mike Trout,Los Angeles,109
+2013,American League,Player Review,Slugging Average,Miguel Cabrera,Detroit,.636
+2013,American League,Player Review,Stolen Bases,Jacoby Ellsbury,Boston,52
+2013,American League,Player Review,Total Bases,Chris Davis,Baltimore,370
+2013,American League,Player Review,Triples,Brett Gardner,New York,10
+2013,American League,Pitcher Review,Complete Games,David Price,Tampa Bay,4
+2013,American League,Pitcher Review,ERA,Anibal Sanchez,Detroit,2.57
+2013,American League,Pitcher Review,Games,Joel Peralta,Tampa Bay,80
+2013,American League,Pitcher Review,Saves,Jim Johnson,Baltimore,50
+2013,American League,Pitcher Review,Shutouts,Bartolo Colon,Oakland,3
+2013,American League,Pitcher Review,Strikeouts,Yu Darvish,Texas,277
+2013,American League,Pitcher Review,Winning Percentage,Max Scherzer,Detroit,.875
+2013,American League,Pitcher Review,Wins,Max Scherzer,Detroit,21
+2014,American League,Player Review,Base on Balls,Carlos Santana,Cleveland,113
+2014,American League,Player Review,Batting Average,Jose Altuve,Houston,.341
+2014,American League,Player Review,Doubles,Miguel Cabrera,Detroit,52
+2014,American League,Player Review,Hits,Jose Altuve,Houston,225
+2014,American League,Player Review,Home Runs,Nelson Cruz,Baltimore,40
+2014,American League,Player Review,On Base Percentage,Victor Martinez,Detroit,.409
+2014,American League,Player Review,RBI,Mike Trout,Los Angeles,111
+2014,American League,Player Review,Runs,Mike Trout,Los Angeles,115
+2014,American League,Player Review,Slugging Average,Jose Abreu,Chicago,.581
+2014,American League,Player Review,Stolen Bases,Jose Altuve,Chicago,56
+2014,American League,Player Review,Total Bases,Mike Trout,Los Angeles,338
+2014,American League,Player Review,Triples,Michael Bourn,Cleveland,10
+2014,American League,Pitcher Review,Complete Games,Dallas Keuchel,Houston,5
+2014,American League,Pitcher Review,ERA,Felix Hernandez,Seattle,2.14
+2014,American League,Pitcher Review,Games,Bryan Shaw,Cleveland,80
+2014,American League,Pitcher Review,Saves,Fernando Rodney,Seattle,48
+2014,American League,Pitcher Review,Shutouts,Rick Porcello,Detroit,3
+2014,American League,Pitcher Review,Strikeouts,David Price,Tampa Bay / Detroit,271
+2014,American League,Pitcher Review,Winning Percentage,Max Scherzer,Detroit,.783
+2014,American League,Pitcher Review,Wins,Corey Kluber,Texas,18
+2015,American League,Player Review,Base on Balls,Jose Bautista,Toronto,110
+2015,American League,Player Review,Batting Average,Miguel Cabrera,Detroit,.338
+2015,American League,Player Review,Doubles,Michael Brantley,Cleveland,45
+2015,American League,Player Review,Hits,Jose Altuve,Houston,200
+2015,American League,Player Review,Home Runs,Chris Davis,Baltimore,47
+2015,American League,Player Review,On Base Percentage,Miguel Cabrera,Detroit,.440
+2015,American League,Player Review,RBI,Josh Donaldson,Toronto,123
+2015,American League,Player Review,Runs,Josh Donaldson,Toronto,122
+2015,American League,Player Review,Slugging Average,Mike Trout,Los Angeles,.590
+2015,American League,Player Review,Stolen Bases,Jose Altuve,Houston,38
+2015,American League,Player Review,Total Bases,Josh Donaldson,Toronto,352
+2015,American League,Player Review,Triples,Eddie Rosario,Minnesota,15
+2015,American League,Pitcher Review,Complete Games,Mark Buehrle,Toronto,4
+2015,American League,Pitcher Review,ERA,David Price,Detroit,2.45
+2015,American League,Pitcher Review,Games,Kevin Jepsen,Tampa Bay,75
+2015,American League,Pitcher Review,Saves,Brad Boxberger,Tampa Bay,41
+2015,American League,Pitcher Review,Shutouts,Sonny Gray,Oakland,2
+2015,American League,Pitcher Review,Strikeouts,Chris Sale,Chicago,274
+2015,American League,Pitcher Review,Winning Percentage,David Price,Detroit,.783
+2015,American League,Pitcher Review,Wins,Dallas Keuchel,Houston,20
+2016,American League,Player Review,Base on Balls,Mike Trout,Los Angeles,116
+2016,American League,Player Review,Batting Average,Jose Altuve,Houston,.338
+2016,American League,Player Review,Doubles,David Ortiz,Boston,48
+2016,American League,Player Review,Hits,Jose Altuve,Houston,216
+2016,American League,Player Review,Home Runs,Mark Trumbo,Baltimore,47
+2016,American League,Player Review,On Base Percentage,Mike Trout,Los Angeles,.441
+2016,American League,Player Review,RBI,Edwin Encarnacion,Toronto,127
+2016,American League,Player Review,Runs,Mike Trout,Los Angeles,123
+2016,American League,Player Review,Slugging Average,David Ortiz,Boston,.620
+2016,American League,Player Review,Stolen Bases,Rajai Davis,Cleveland,43
+2016,American League,Player Review,Total Bases,Mookie Betts,Boston,359
+2016,American League,Player Review,Triples,Adam Eaton,Chicago,9
+2016,American League,Pitcher Review,Complete Games,Chris Sale,Chicago,6
+2016,American League,Pitcher Review,ERA,Aaron Sanchez,Toronto,3.00
+2016,American League,Pitcher Review,Games,Bryan Shaw,Cleveland,75
+2016,American League,Pitcher Review,Saves,Zach Britton,Baltimore,47
+2016,American League,Pitcher Review,Shutouts,Corey Kluber,Cleveland,2
+2016,American League,Pitcher Review,Strikeouts,Justin Verlander,Detroit,254
+2016,American League,Pitcher Review,Winning Percentage,Aaron Sanchez,Toronto,.882
+2016,American League,Pitcher Review,Wins,Rick Porcello,Boston,22
+2017,American League,Player Review,Base on Balls,Aaron Judge,New York Yankees,127
+2017,American League,Player Review,Batting Average,Jose Altuve,Houston Astros,.346
+2017,American League,Player Review,Doubles,Jose Ramirez,Cleveland Indians,56
+2017,American League,Player Review,Hits,Jose Altuve,Houston Astros,204
+2017,American League,Player Review,Home Runs,Aaron Judge,New York Yankees,52
+2017,American League,Player Review,On Base Percentage,Mike Trout,Los Angeles Angels,.442
+2017,American League,Player Review,RBI,Nelson Cruz,Seattle Mariners,119
+2017,American League,Player Review,Runs,Aaron Judge,New York Yankees,128
+2017,American League,Player Review,Slugging Average,Mike Trout,Los Angeles Angels,.629
+2017,American League,Player Review,Stolen Bases,Whit Merrifield,Kansas City Royals,34
+2017,American League,Player Review,Total Bases,Jose Abreu,Chicago White Sox,343
+2017,American League,Player Review,Triples,Nick Castellanos,Detroit Tigers,10
+2017,American League,Pitcher Review,Complete Games,Corey Kluber,Cleveland Indians,5
+2017,American League,Pitcher Review,ERA,Corey Kluber,Cleveland Indians,2.25
+2017,American League,Pitcher Review,Games,Bryan Shaw,Cleveland Indians,79
+2017,American League,Pitcher Review,Saves,Alex Colome,Tampa Bay Rays,46
+2017,American League,Pitcher Review,Shutouts,Corey Kluber,Cleveland Indians,3
+2017,American League,Pitcher Review,Strikeouts,Chris Sale,Boston Red Sox,308
+2017,American League,Pitcher Review,Winning Percentage,Corey Kluber,Cleveland Indians,.818
+2017,American League,Pitcher Review,Wins,Carlos Carrasco,Cleveland Indians,18
+2018,American League,Player Review,Base on Balls,Mike Trout,Los Angeles Angels,122
+2018,American League,Player Review,Batting Average,Mookie Betts,Boston Red Sox,.346
+2018,American League,Player Review,Doubles,Alex Bregman,Houston Astros,50
+2018,American League,Player Review,Hits,Whit Merrifield,Kansas City Royals,192
+2018,American League,Player Review,Home Runs,Khris Davis,Oakland Athletics,48
+2018,American League,Player Review,On Base Percentage,Mike Trout,Los Angeles Angels,.460
+2018,American League,Player Review,RBI,J.D. Martinez,Boston Red Sox,130
+2018,American League,Player Review,Runs,Mookie Betts,Boston Red Sox,129
+2018,American League,Player Review,Slugging Average,Mookie Betts,Boston Red Sox,.640
+2018,American League,Player Review,Stolen Bases,Whit Merrifield,Kansas City Royals,45
+2018,American League,Player Review,Total Bases,J.D. Martinez,Boston Red Sox,358
+2018,American League,Player Review,Triples,Yolmer Sanchez,Chicago White Sox,10
+2018,American League,Pitcher Review,Complete Games,Jose Berrios,Minnesota Twins,2
+2018,American League,Pitcher Review,ERA,Blake Snell,Tampa Bay Rays,1.89
+2018,American League,Pitcher Review,Games,Ryan Pressly,Minnesota Twins,77
+2018,American League,Pitcher Review,Saves,Edwin Diaz,Seattle Mariners,57
+2018,American League,Pitcher Review,Shutouts,Jose Berrios,Minnesota Twins,1
+2018,American League,Pitcher Review,Strikeouts,Justin Verlander,Houston Astros,290
+2018,American League,Pitcher Review,Winning Percentage,Charlie Morton,Houston Astros,.833
+2018,American League,Pitcher Review,Wins,Blake Snell,Tampa Bay Rays,21
+2019,American League,Player Review,Base on Balls,Alex Bregman,Houston Astros,119
+2019,American League,Player Review,Batting Average,Tim Anderson,Chicago White Sox,.335
+2019,American League,Player Review,Doubles,Rafael Devers,Boston Red Sox,54
+2019,American League,Player Review,Hits,Whit Merrifield,Kansas City Royals,206
+2019,American League,Player Review,Home Runs,Jorge Soler,Kansas City Royals,48
+2019,American League,Player Review,On Base Percentage,Mike Trout,Los Angeles Angels,.438
+2019,American League,Player Review,RBI,Jose Abreu,Chicago White Sox,123
+2019,American League,Player Review,Runs,Mookie Betts,Boston Red Sox,135
+2019,American League,Player Review,Slugging Average,Mike Trout,Los Angeles Angels,.645
+2019,American League,Player Review,Stolen Bases,Mallex Smith,Tampa Bay Rays,46
+2019,American League,Player Review,Total Bases,Rafael Devers,Boston Red Sox,359
+2019,American League,Player Review,Triples,Hunter Dozier,Kansas City Royals,10
+2019,American League,Pitcher Review,Complete Games,Shane Bieber,Cleveland Indians,3
+2019,American League,Pitcher Review,ERA,Gerrit Cole,Houston Astros,2.50
+2019,American League,Pitcher Review,Games,Yusmeiro Petit,Oakland Athletics,80
+2019,American League,Pitcher Review,Saves,Roberto Osuna,Houston Astros,38
+2019,American League,Pitcher Review,Shutouts,Shane Bieber,Cleveland Indians,2
+2019,American League,Pitcher Review,Strikeouts,Gerrit Cole,Houston Astros,326
+2019,American League,Pitcher Review,Winning Percentage,Gerrit Cole,Houston Astros,.800
+2019,American League,Pitcher Review,Wins,Justin Verlander,Houston Astros,21
+2020,American League,Player Review,Base on Balls,Carlos Santana,Cleveland Indians,47
+2020,American League,Player Review,Batting Average,DJ LeMahieu,New York Yankees,.364
+2020,American League,Player Review,Doubles,Cesar Hernandez,Cleveland Indians,20
+2020,American League,Player Review,Hits,Jose Abreu,Chicago White Sox,76
+2020,American League,Player Review,Home Runs,Luke Voit,New York Yankees,22
+2020,American League,Player Review,On Base Percentage,DJ LeMahieu,New York Yankees,.421
+2020,American League,Player Review,RBI,Jose Abreu,Chicago White Sox,60
+2020,American League,Player Review,Runs,Tim Anderson,Chicago White Sox,45
+2020,American League,Player Review,Slugging Average,Jose Abreu,Chicago White Sox,.617
+2020,American League,Player Review,Stolen Bases,Adalberto Mondesi,Kansas City Royals,24
+2020,American League,Player Review,Total Bases,Jose Abreu,Chicago White Sox,148
+2020,American League,Player Review,Triples,Kyle Tucker,Houston Astros,6
+2020,American League,Pitcher Review,Complete Games,Gerrit Cole,New York Yankees,2
+2020,American League,Pitcher Review,ERA,Shane Bieber,Cleveland Indians,1.63
+2020,American League,Pitcher Review,Games,Scott Barlow,Kansas City Royals,32
+2020,American League,Pitcher Review,Saves,Brad Hand,Cleveland Indians,16
+2020,American League,Pitcher Review,Shutouts,Gerrit Cole,New York Yankees,1
+2020,American League,Pitcher Review,Strikeouts,Shane Bieber,Cleveland Indians,122
+2020,American League,Pitcher Review,Winning Percentage,Shane Bieber,Cleveland Indians,.889
+2020,American League,Pitcher Review,Wins,Shane Bieber,Cleveland Indians,8
+2021,American League,Player Review,Base on Balls,Joey Gallo,Texas Rangers,111
+2021,American League,Player Review,Batting Average,Yuli Gurriel,Houston Astros,.319
+2021,American League,Player Review,Doubles,Jeimer Candelario,Detroit Tigers,42
+2021,American League,Player Review,Hits,Bo Bichette,Toronto Blue Jays,191
+2021,American League,Player Review,Home Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,48
+2021,American League,Player Review,On Base Percentage,Vladimir Guerrero Jr.,Toronto Blue Jays,.401
+2021,American League,Player Review,RBI,Salvador Perez,Kansas City Royals,121
+2021,American League,Player Review,Runs,Vladimir Guerrero Jr.,Toronto Blue Jays,123
+2021,American League,Player Review,Slugging Average,Vladimir Guerrero Jr.,Toronto Blue Jays,.601
+2021,American League,Player Review,Stolen Bases,Whit Merrifield,Kansas City Royals,40
+2021,American League,Player Review,Total Bases,Vladimir Guerrero Jr.,Toronto Blue Jays,363
+2021,American League,Player Review,Triples,Shohei Ohtani,Los Angeles Angels,8
+2021,American League,Pitcher Review,Complete Games,Gerrit Cole,New York Yankees,2
+2021,American League,Pitcher Review,ERA,Robbie Ray,Toronto Blue Jays,2.84
+2021,American League,Pitcher Review,Games,Bryan Shaw,Cleveland Indians,81
+2021,American League,Pitcher Review,Saves,Liam Hendriks,Chicago White Sox,38
+2021,American League,Pitcher Review,Shutouts,Sean Manaea,Oakland Athletics,2
+2021,American League,Pitcher Review,Strikeouts,Robbie Ray,Toronto Blue Jays,248
+2021,American League,Pitcher Review,Winning Percentage,"Lance McCullers, Jr.",Houston Astros,.722
+2021,American League,Pitcher Review,Wins,Gerrit Cole,New York Yankees,16
+2022,American League,Player Review,Base on Balls,Aaron Judge,New York Yankees,111
+2022,American League,Player Review,Batting Average,Luis Arraez,Minnesota Twins,.316
+2022,American League,Player Review,Doubles,José Ramírez,Cleveland Guardians,44
+2022,American League,Player Review,Hits,Bo Bichette,Toronto Blue Jays,189
+2022,American League,Player Review,Home Runs,Aaron Judge,New York Yankees,62
+2022,American League,Player Review,On Base Percentage,Aaron Judge,New York Yankees,.425
+2022,American League,Player Review,RBI,Aaron Judge,New York Yankees,131
+2022,American League,Player Review,Runs,Aaron Judge,New York Yankees,133
+2022,American League,Player Review,Slugging Average,Aaron Judge,New York Yankees,.686
+2022,American League,Player Review,Stolen Bases,Jorge Mateo,Baltimore Orioles,35
+2022,American League,Player Review,Total Bases,Aaron Judge,New York Yankees,391
+2022,American League,Player Review,Triples,Amed Rosario,Cleveland Guardians,9
+2022,American League,Pitcher Review,Complete Games,Framber Valdez,Houston Astros,3
+2022,American League,Pitcher Review,ERA,Justin Verlander,Houston Astros,1.75
+2022,American League,Pitcher Review,Games,Adam Cimber,Toronto Blue Jays,77
+2022,American League,Pitcher Review,Saves,Emmanuel Clase,Cleveland Guardians,42
+2022,American League,Pitcher Review,Shutouts,Dylan Cease,Chicago White Sox,1
+2022,American League,Pitcher Review,Strikeouts,Corbin Burnes,Milwaukee Brewers,243
+2022,American League,Pitcher Review,Winning Percentage,Justin Verlander,Houston Astros,.818
+2022,American League,Pitcher Review,Wins,Justin Verlander,Houston Astros,18
+2023,American League,Player Review,Base on Balls,J.P. Crawford,Seattle Mariners,94
+2023,American League,Player Review,Batting Average,Yandy Díaz,Tampa Bay Rays,.330
+2023,American League,Player Review,Doubles,Corey Seager,Texas Rangers,42
+2023,American League,Player Review,Hits,Marcus Semien,Texas Rangers,185
+2023,American League,Player Review,Home Runs,Shohei Ohtani,Los Angeles Angels,44
+2023,American League,Player Review,On Base Percentage,Shohei Ohtani,Los Angeles Angels,.412
+2023,American League,Player Review,RBI,Kyle Tucker,Houston Astros,112
+2023,American League,Player Review,Runs,Marcus Semien,Texas Rangers,122
+2023,American League,Player Review,Slugging Average,Shohei Ohtani,Los Angeles Angels,.654
+2023,American League,Player Review,Stolen Bases,Esteury Ruiz,Oakland Athletics,67
+2023,American League,Player Review,Total Bases,Shohei Ohtani,Los Angeles Angels,325
+2023,American League,Player Review,Triples,Bobby Witt Jr.,Kansas City Royals,11
+2023,American League,Pitcher Review,Complete Games,Jordan Lyles,Kansas City Royals,3
+2023,American League,Pitcher Review,ERA,Gerrit Cole,New York Yankees,2.63
+2023,American League,Pitcher Review,Games,Matt Brash,Seattle Mariners,78
+2023,American League,Pitcher Review,Saves,Emmanuel Clase,Cleveland Guardians,44
+2023,American League,Pitcher Review,Shutouts,Gerrit Cole,New York Yankees,2
+2023,American League,Pitcher Review,Strikeouts,Kevin Gausman,Toronto Blue Jays,237
+2023,American League,Pitcher Review,Winning Percentage,Gerrit Cole,New York Yankees,.789
+2023,American League,Pitcher Review,Wins,Chris Bassitt,Toronto Blue Jays,16
+2024,American League,Player Review,Base on Balls,Aaron Judge,New York,133
+2024,American League,Player Review,Batting Average,Bobby Witt Jr.,Kansas City,.332
+2024,American League,Player Review,Doubles,Jarren Duran,Boston,48
+2024,American League,Player Review,Hits,Bobby Witt Jr.,Kansas City,211
+2024,American League,Player Review,Home Runs,Aaron Judge,New York,58
+2024,American League,Player Review,On Base Percentage,Aaron Judge,New York,.458
+2024,American League,Player Review,RBI,Aaron Judge,New York,144
+2024,American League,Player Review,Runs,Juan Soto,New York,128
+2024,American League,Player Review,Slugging Average,Aaron Judge,New York,.701
+2024,American League,Player Review,Stolen Bases,Jose Caballero,Tampa Bay,44
+2024,American League,Player Review,Total Bases,Aaron Judge,New York,392
+2024,American League,Player Review,Triples,Jarren Duran,Boston,14
+2024,American League,Pitcher Review,Complete Games,Kevin Gausman,Toronto,2
+2024,American League,Pitcher Review,ERA,Tarik Skubal,Detroit,2.39
+2024,American League,Pitcher Review,Games,T.J. McFarland,Oakland,79
+2024,American League,Pitcher Review,Saves,Emmanuel Clase,Cleveland,47
+2024,American League,Pitcher Review,Shutouts,Ronel Blanco,Houston,1
+2024,American League,Pitcher Review,Strikeouts,Tarik Skubal,Detroit,228
+2024,American League,Pitcher Review,Winning Percentage,Tarik Skubal,Detroit,.818
+2024,American League,Pitcher Review,Wins,Tarik Skubal,Detroit,18
+2025,American League,Player Review,Base on Balls,Aaron Judge,New York,124
+2025,American League,Player Review,Batting Average,Aaron Judge,New York,.331
+2025,American League,Player Review,Doubles,Bobby Witt Jr.,Kansas City,47
+2025,American League,Player Review,Hits,Bobby Witt Jr.,Kansas City,184
+2025,American League,Player Review,Home Runs,Cal Raleigh,Seattle,60
+2025,American League,Player Review,On Base Percentage,Aaron Judge,New York,.457
+2025,American League,Player Review,RBI,Cal Raleigh,Seattle,125
+2025,American League,Player Review,Runs,Aaron Judge,New York,137
+2025,American League,Player Review,Slugging Average,Aaron Judge,New York,.688
+2025,American League,Player Review,Stolen Bases,José Caballero,Tampa Bay (34),49
+2025,American League,Player Review,Total Bases,Aaron Judge,New York,372
+2025,American League,Player Review,Triples,Jarren Duran,Boston,13
+2025,American League,Pitcher Review,Complete Games,Tanner Bibee,Cleveland,2
+2025,American League,Pitcher Review,ERA,Tarik Skubal,Detroit,2.21
+2025,American League,Pitcher Review,Games,Brendon Little,Toronto,79
+2025,American League,Pitcher Review,Saves,Carlos Estévez,Kansas City,42
+2025,American League,Pitcher Review,Shutouts,Tanner Bibee,Cleveland,1
+2025,American League,Pitcher Review,Strikeouts,Garrett Crochet,Boston,255
+2025,American League,Pitcher Review,Winning Percentage,Max Fried,New York,.792
+2025,American League,Pitcher Review,Wins,Max Fried,New York,19
+2026,American League,Player Review,Base on Balls,To Be Determined,,--
+2026,American League,Player Review,Batting Average,To Be Determined,,--
+2026,American League,Player Review,Doubles,To Be Determined,,--
+2026,American League,Player Review,Hits,To Be Determined,,--
+2026,American League,Player Review,Home Runs,To Be Determined,,--
+2026,American League,Player Review,On Base Percentage,To Be Determined,,--
+2026,American League,Player Review,RBI,To Be Determined,,--
+2026,American League,Player Review,Runs,To Be Determined,,--
+2026,American League,Player Review,Slugging Average,To Be Determined,,--
+2026,American League,Player Review,Stolen Bases,To Be Determined,,--
+2026,American League,Player Review,Total Bases,To Be Determined,,--
+2026,American League,Player Review,Triples,To Be Determined,,--
+2026,American League,Pitcher Review,Complete Games,To Be Determined,,--
+2026,American League,Pitcher Review,ERA,To Be Determined,,--
+2026,American League,Pitcher Review,Games,To Be Determined,,--
+2026,American League,Pitcher Review,Saves,To Be Determined,,--
+2026,American League,Pitcher Review,Shutouts,To Be Determined,,--
+2026,American League,Pitcher Review,Strikeouts,To Be Determined,,--
+2026,American League,Pitcher Review,Winning Percentage,To Be Determined,,--
+2026,American League,Pitcher Review,Wins,To Be Determined,,--
